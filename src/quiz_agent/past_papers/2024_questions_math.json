@@ -1,0 +1,200 @@
+{
+  "year": 2024,
+  "class_level": "9",
+  "subject": "math",
+  "total_marks": 75,
+  "sections": {
+    "A": [
+      {
+        "question_text": "If log₄x = 3/2, then x = :",
+        "sub_topic": "Logarithms - Basic Logarithmic Equations",
+        "marks": 1,
+        "question_type": "mcq"
+      },
+      {
+        "question_text": "H.C.F. of x² - y² and (x - y)² is:",
+        "sub_topic": "Algebra - Highest Common Factor",
+        "marks": 1,
+        "question_type": "mcq"
+      },
+      {
+        "question_text": "The solution set of |5y/3| = 5 is:",
+        "sub_topic": "Equations - Absolute Value Equations",
+        "marks": 1,
+        "question_type": "mcq"
+      },
+      {
+        "question_text": "The characteristic of log0.01706 is:",
+        "sub_topic": "Logarithms - Characteristics and Mantissa",
+        "marks": 1,
+        "question_type": "mcq"
+      },
+      {
+        "question_text": "If opposite angles of quadrilateral are equal in measures and none of them is a right angle, then the quadrilateral is:",
+        "sub_topic": "Geometry - Quadrilateral Properties",
+        "marks": 1,
+        "question_type": "mcq"
+      },
+      {
+        "question_text": "The point (-2, -5) is located in:",
+        "sub_topic": "Coordinate Geometry - Quadrants",
+        "marks": 1,
+        "question_type": "mcq"
+      },
+      {
+        "question_text": "Conjugate of 2 - √3 is:",
+        "sub_topic": "Algebra - Conjugate of Surds",
+        "marks": 1,
+        "question_type": "mcq"
+      },
+      {
+        "question_text": "Degree of the polynomial 4a⁴b² + 6b⁴ - 12 is:",
+        "sub_topic": "Algebra - Polynomial Degree",
+        "marks": 1,
+        "question_type": "mcq"
+      },
+      {
+        "question_text": "The two coordinates axes intersect at an angle of:",
+        "sub_topic": "Coordinate Geometry - Coordinate Axes",
+        "marks": 1,
+        "question_type": "mcq"
+      },
+      {
+        "question_text": "If x² - 4x + k is a complete square then the value of 'k' is:",
+        "sub_topic": "Algebra - Perfect Square Trinomials",
+        "marks": 1,
+        "question_type": "mcq"
+      },
+      {
+        "question_text": "6(7 + 8) = 6 × 7 + 6 × 8, this property is called:",
+        "sub_topic": "Algebra - Distributive Property",
+        "marks": 1,
+        "question_type": "mcq"
+      },
+      {
+        "question_text": "In a right angled triangle, side opposite to right angle, is called:",
+        "sub_topic": "Geometry - Right Triangle Properties",
+        "marks": 1,
+        "question_type": "mcq"
+      },
+      {
+        "question_text": "A triangle having all the three sides congruent, is called:",
+        "sub_topic": "Geometry - Triangle Types",
+        "marks": 1,
+        "question_type": "mcq"
+      },
+      {
+        "question_text": "x ≤ 4 means:",
+        "sub_topic": "Inequalities - Inequality Notation",
+        "marks": 1,
+        "question_type": "mcq"
+      },
+      {
+        "question_text": "The multiplicative inverse of x + y is:",
+        "sub_topic": "Algebra - Multiplicative Inverse",
+        "marks": 1,
+        "question_type": "mcq"
+      }
+    ],
+    "B": [
+      {
+        "question_text": "If Z₁ = 2 + 3t and Z₂ = 4 + 2t then verify that (Z₁/Z₂) = Z̅₁/Z̅₂",
+        "sub_topic": "Complex Numbers - Division and Conjugate Properties",
+        "marks": 5,
+        "question_type": "short_answer"
+      },
+      {
+        "question_text": "Find the value of 99.87/(18.369 × 10.785) by using logarithm",
+        "sub_topic": "Logarithms - Applications in Calculation",
+        "marks": 5,
+        "question_type": "short_answer"
+      },
+      {
+        "question_text": "If x = 3 - 2√2 then find the value of x² + 1/x²",
+        "sub_topic": "Algebra - Surds and Algebraic Manipulation",
+        "marks": 5,
+        "question_type": "short_answer"
+      },
+      {
+        "question_text": "By using factor theorem find the factors of x³ + 5x² - 4x - 20",
+        "sub_topic": "Algebra - Factor Theorem Application",
+        "marks": 5,
+        "question_type": "short_answer"
+      },
+      {
+        "question_text": "For what value of p and q the expression x⁴ + 8x³ + 30x² + px + q will be the perfect square?",
+        "sub_topic": "Algebra - Perfect Square Expressions",
+        "marks": 5,
+        "question_type": "short_answer"
+      },
+      {
+        "question_text": "Find the solution set of the following equation: (2x + 3)/4 + 2 = 7",
+        "sub_topic": "Equations - Linear Equations",
+        "marks": 5,
+        "question_type": "short_answer"
+      },
+      {
+        "question_text": "Solve by using quadratic formula: 2x² - 5x - 3 = 0",
+        "sub_topic": "Quadratic Equations - Quadratic Formula",
+        "marks": 5,
+        "question_type": "short_answer"
+      },
+      {
+        "question_text": "The sum of the length of any two sides of a triangle is greater than the length of the third side. Prove it.",
+        "sub_topic": "Geometry - Triangle Inequality Theorem",
+        "marks": 5,
+        "question_type": "short_answer"
+      },
+      {
+        "question_text": "The right bisectors of the sides of a triangle are concurrent. Prove it.",
+        "sub_topic": "Geometry - Triangle Bisectors",
+        "marks": 5,
+        "question_type": "short_answer"
+      },
+      {
+        "question_text": "Triangles on equal bases and equal altitudes are equal in area. Prove it.",
+        "sub_topic": "Geometry - Triangle Area Properties",
+        "marks": 5,
+        "question_type": "short_answer"
+      },
+      {
+        "question_text": "Construct a triangle PQR in which mPQ = 5.7cm, mQR = 6.4cm and mPR = 4.4cm, draw the altitude from vertex Q and R.",
+        "sub_topic": "Geometry - Triangle Construction",
+        "marks": 5,
+        "question_type": "short_answer"
+      }
+    ],
+    "C": [
+      {
+        "question_text": "Factorize any four of the following: (i) 16y⁴ - (3t + 4)² (ii) 7x + xz + 7z + z² (iii) 8x³ + 12x²y + 6xy² + y³ (iv) 4x⁴ + 1 (v) 42x² - 8x - 2 (vi) a⁶ - b⁶",
+        "sub_topic": "Algebra - Advanced Factorization Techniques",
+        "marks": 10,
+        "question_type": "detailed_answer"
+      },
+      {
+        "question_text": "Find the solution set of the following simultaneous equations by graphically method. (Find four ordered pairs for each equation): 2x = y + 5 ; x = 2y + 1",
+        "sub_topic": "Coordinate Geometry - Graphical Solutions",
+        "marks": 10,
+        "question_type": "detailed_answer"
+      },
+      {
+        "question_text": "In any correspondence of two triangles, if one side of any two angles of one triangle are congruent to the corresponding side and angles of the other, the two triangle are congruent. Prove it.",
+        "sub_topic": "Geometry - AAS Congruence Theorem",
+        "marks": 10,
+        "question_type": "detailed_answer"
+      },
+      {
+        "question_text": "In parallelogram, the opposite sides are congruent, the opposite angles are congruent, the diagonals bisect each other. Prove it.",
+        "sub_topic": "Geometry - Parallelogram Properties Proof",
+        "marks": 10,
+        "question_type": "detailed_answer"
+      },
+      {
+        "question_text": "A circle has a diameter between the points A(-3, 4) and B(11, 6). Find the mid-point (centre) and radius of the circle.",
+        "sub_topic": "Coordinate Geometry - Circle Properties",
+        "marks": 10,
+        "question_type": "detailed_answer"
+      }
+    ]
+  }
+}

@@ -1,0 +1,284 @@
+{
+  "year": 2022,
+  "class_level": "9",
+  "subject": "math",
+  "total_marks": 75,
+  "sections": {
+    "A": [
+      {
+        "question_text": "In 2i(3 - i), the real part is:",
+        "sub_topic": "Complex Numbers - Real Part",
+        "marks": 1,
+        "question_type": "mcq"
+      },
+      {
+        "question_text": "How many roots are there in a quadratic equation?",
+        "sub_topic": "Quadratic Equations - Number of Roots",
+        "marks": 1,
+        "question_type": "mcq"
+      },
+      {
+        "question_text": "(x₁+x₂/2, y₁+y₂/2) is called:",
+        "sub_topic": "Coordinate Geometry - Midpoint Formula",
+        "marks": 1,
+        "question_type": "mcq"
+      },
+      {
+        "question_text": "If log₁₀ x = 2, then x =",
+        "sub_topic": "Logarithms - Basic Logarithmic Equations",
+        "marks": 1,
+        "question_type": "mcq"
+      },
+      {
+        "question_text": "How many acute angles are there in an acute angled triangle?",
+        "sub_topic": "Geometry - Triangle Angles",
+        "marks": 1,
+        "question_type": "mcq"
+      },
+      {
+        "question_text": "Perpendicular from a vertex of a triangle to its opposite side, is called:",
+        "sub_topic": "Geometry - Triangle Altitudes",
+        "marks": 1,
+        "question_type": "mcq"
+      },
+      {
+        "question_text": "√7 is an example of:",
+        "sub_topic": "Algebra - Types of Surds",
+        "marks": 1,
+        "question_type": "mcq"
+      },
+      {
+        "question_text": "The solution set of the line x = 2 and x = 5, is:",
+        "sub_topic": "Coordinate Geometry - Vertical Lines",
+        "marks": 1,
+        "question_type": "mcq"
+      },
+      {
+        "question_text": "x ≤ 4 means:",
+        "sub_topic": "Algebra - Inequalities",
+        "marks": 1,
+        "question_type": "mcq"
+      },
+      {
+        "question_text": "L.C.M is equal to:",
+        "sub_topic": "Algebra - LCM and HCF Relationship",
+        "marks": 1,
+        "question_type": "mcq"
+      },
+      {
+        "question_text": "If perpendicular distance between two lines is the same, the lines are:",
+        "sub_topic": "Geometry - Parallel Lines",
+        "marks": 1,
+        "question_type": "mcq"
+      },
+      {
+        "question_text": "Factors of a² + 2a - 24, are:",
+        "sub_topic": "Algebra - Factorization",
+        "marks": 1,
+        "question_type": "mcq"
+      },
+      {
+        "question_text": "a³ - 3ab(a - b) - b³ =",
+        "sub_topic": "Algebra - Algebraic Identities",
+        "marks": 1,
+        "question_type": "mcq"
+      },
+      {
+        "question_text": "√(y+4+2) = 8 is a:",
+        "sub_topic": "Equations - Radical Equations",
+        "marks": 1,
+        "question_type": "mcq"
+      },
+      {
+        "question_text": "The two coordinates axes intersect at an angle of:",
+        "sub_topic": "Coordinate Geometry - Coordinate Axes",
+        "marks": 1,
+        "question_type": "mcq"
+      },
+      {
+        "question_text": "(5+√15)(5-√15) equal to:",
+        "sub_topic": "Algebra - Conjugate Multiplication",
+        "marks": 1,
+        "question_type": "mcq"
+      },
+      {
+        "question_text": "The Solution set of |-y| = 0 is:",
+        "sub_topic": "Algebra - Absolute Value Equations",
+        "marks": 1,
+        "question_type": "mcq"
+      },
+      {
+        "question_text": "If sum of measure of ∠A and ∠C of a parallelogram ABCD is 130° then ∠B is equal to:",
+        "sub_topic": "Geometry - Parallelogram Angles",
+        "marks": 1,
+        "question_type": "mcq"
+      },
+      {
+        "question_text": "3(5+7) = 3×5 + 3×7, the property is:",
+        "sub_topic": "Algebra - Distributive Property",
+        "marks": 1,
+        "question_type": "mcq"
+      },
+      {
+        "question_text": "(x-y)(x+y)(x²+y²) =",
+        "sub_topic": "Algebra - Algebraic Identities",
+        "marks": 1,
+        "question_type": "mcq"
+      },
+      {
+        "question_text": "H.C.F of x³-y³ and x²+xy+y²",
+        "sub_topic": "Algebra - Highest Common Factor",
+        "marks": 1,
+        "question_type": "mcq"
+      },
+      {
+        "question_text": "Degree of polynomial 2x³+x²-4x⁴-9, is:",
+        "sub_topic": "Algebra - Degree of Polynomials",
+        "marks": 1,
+        "question_type": "mcq"
+      },
+      {
+        "question_text": "3⁵ = 243, can be written in logarithm form as:",
+        "sub_topic": "Logarithms - Exponential to Logarithmic Form",
+        "marks": 1,
+        "question_type": "mcq"
+      },
+      {
+        "question_text": "Mid-point of the line segment joining A(2,1) and B(3,4), is:",
+        "sub_topic": "Coordinate Geometry - Midpoint Calculation",
+        "marks": 1,
+        "question_type": "mcq"
+      },
+      {
+        "question_text": "If 'x' is a real number, then absolute value of 'x' is denoted by:",
+        "sub_topic": "Algebra - Absolute Value Notation",
+        "marks": 1,
+        "question_type": "mcq"
+      },
+      {
+        "question_text": "In a right-angled triangle, side opposite to right angle, is called:",
+        "sub_topic": "Geometry - Right Triangle Properties",
+        "marks": 1,
+        "question_type": "mcq"
+      },
+      {
+        "question_text": "If each angle on the base of an isosceles triangle, is 45°, then the measure of the third angle is:",
+        "sub_topic": "Geometry - Isosceles Triangle Angles",
+        "marks": 1,
+        "question_type": "mcq"
+      },
+      {
+        "question_text": "The bisectors of the angles of a triangle are:",
+        "sub_topic": "Geometry - Angle Bisectors",
+        "marks": 1,
+        "question_type": "mcq"
+      },
+      {
+        "question_text": "The characteristic of log 8595 is:",
+        "sub_topic": "Logarithms - Characteristic and Mantissa",
+        "marks": 1,
+        "question_type": "mcq"
+      },
+      {
+        "question_text": "What should be added to 9x²-12xy to make it a perfect square?",
+        "sub_topic": "Algebra - Perfect Square Completion",
+        "marks": 1,
+        "question_type": "mcq"
+      }
+    ],
+    "B": [
+      {
+        "question_text": "If z₁ = 2-5i and z₂ = 2+3i, then verify that z₁z₂ = z̄₁z̄₂",
+        "sub_topic": "Complex Numbers - Multiplication Verification",
+        "marks": 5,
+        "question_type": "short_answer"
+      },
+      {
+        "question_text": "Find the value of (2391×30.72)/23.34 by using logarithm",
+        "sub_topic": "Logarithms - Complex Calculations",
+        "marks": 5,
+        "question_type": "short_answer"
+      },
+      {
+        "question_text": "For what value of 'a', the 36x⁴+36x³+57x²+24x-a, will be the perfect square?",
+        "sub_topic": "Algebra - Perfect Square Polynomials",
+        "marks": 5,
+        "question_type": "short_answer"
+      },
+      {
+        "question_text": "Find the value of 125x³+y³, when 5x+y=13 and xy=10",
+        "sub_topic": "Algebra - Algebraic Identities Application",
+        "marks": 5,
+        "question_type": "short_answer"
+      },
+      {
+        "question_text": "Find the solution set of the equation: |(2x+1)/3| - 7 = 1",
+        "sub_topic": "Equations - Absolute Value Equations",
+        "marks": 5,
+        "question_type": "short_answer"
+      },
+      {
+        "question_text": "Find the solution set by using quadratic formula: 10x²+19x-15=0",
+        "sub_topic": "Quadratic Equations - Quadratic Formula",
+        "marks": 5,
+        "question_type": "short_answer"
+      },
+      {
+        "question_text": "Find the factors by using factor theorem: x³+x²-x-1",
+        "sub_topic": "Algebra - Factor Theorem Application",
+        "marks": 5,
+        "question_type": "short_answer"
+      },
+      {
+        "question_text": "If two angles of a triangle are congruent, then the sides opposite to them are also congruent. Prove it",
+        "sub_topic": "Geometry - Triangle Congruence",
+        "marks": 5,
+        "question_type": "short_answer"
+      },
+      {
+        "question_text": "If two opposite sides of a quadrilateral are congruent and parallel, it is a parallelogram, prove it",
+        "sub_topic": "Geometry - Parallelogram Proofs",
+        "marks": 5,
+        "question_type": "short_answer"
+      },
+      {
+        "question_text": "Construct a ΔPQR, in which mPR=mQR=4.7cm and m∠P=55°",
+        "sub_topic": "Geometry - Triangle Construction",
+        "marks": 5,
+        "question_type": "short_answer"
+      },
+      {
+        "question_text": "Any point on the bisector of an angle is equidistant from its arms. Prove it",
+        "sub_topic": "Geometry - Angle Bisector Theorem",
+        "marks": 5,
+        "question_type": "short_answer"
+      }
+    ],
+    "C": [
+      {
+        "question_text": "Factorize the following (Any three): (i) (2x+z)²-(2x-z)² (ii) b⁴+b²+1 (iii) x³-8y³ (iv) 9a²b+18ab²-6ac-12bc (v) 10x²-19xy+6y²",
+        "sub_topic": "Algebra - Advanced Factorization Techniques",
+        "marks": 7.5,
+        "question_type": "detailed_answer"
+      },
+      {
+        "question_text": "Find the solution set of the following equations graphically. (Find three ordered pairs for each equation): 2x=y+5; x=2y+1",
+        "sub_topic": "Coordinate Geometry - Graphical Solutions",
+        "marks": 7.5,
+        "question_type": "detailed_answer"
+      },
+      {
+        "question_text": "In any correspondence of two triangles if one side and any two angles of one triangle are congruent to the corresponding sides and angles of the other, the two triangles are congruent. Prove it",
+        "sub_topic": "Geometry - AAS Congruence Theorem",
+        "marks": 7.5,
+        "question_type": "detailed_answer"
+      },
+      {
+        "question_text": "Show that A(2,1); B(5,1) and C(2,6) are the vertices of a right angled triangle",
+        "sub_topic": "Coordinate Geometry - Right Triangle Verification",
+        "marks": 7.5,
+        "question_type": "detailed_answer"
+      }
+    ]
+  }
+}

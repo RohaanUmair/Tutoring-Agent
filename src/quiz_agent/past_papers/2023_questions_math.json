@@ -1,0 +1,200 @@
+ {
+  "year": 2023,
+  "class_level": "9",
+  "subject": "math",
+  "total_marks": 75,
+  "sections": {
+    "A": [
+      {
+        "question_text": "(-2t) = :",
+        "sub_topic": "Algebra - Complex Numbers Multiplication",
+        "marks": 1,
+        "question_type": "mcq"
+      },
+      {
+        "question_text": "If log₂ 8 = x, then x = :",
+        "sub_topic": "Logarithms - Basic Logarithmic Equations",
+        "marks": 1,
+        "question_type": "mcq"
+      },
+      {
+        "question_text": "The scientific notation of 0.05076 is:",
+        "sub_topic": "Numbers - Scientific Notation",
+        "marks": 1,
+        "question_type": "mcq"
+      },
+      {
+        "question_text": "If x² + 4x + m is a complete square then the value of 'm' is:",
+        "sub_topic": "Algebra - Perfect Square Trinomials",
+        "marks": 1,
+        "question_type": "mcq"
+      },
+      {
+        "question_text": "H.C.F of x³ - 8y³ and x² - 4xy + 4y² is:",
+        "sub_topic": "Algebra - Highest Common Factor",
+        "marks": 1,
+        "question_type": "mcq"
+      },
+      {
+        "question_text": "The solution set of √(y - 2) = 8 is:",
+        "sub_topic": "Equations - Radical Equations",
+        "marks": 1,
+        "question_type": "mcq"
+      },
+      {
+        "question_text": "The point (-3, -4) is located in:",
+        "sub_topic": "Coordinate Geometry - Quadrants",
+        "marks": 1,
+        "question_type": "mcq"
+      },
+      {
+        "question_text": "Degree of quadratic equation is:",
+        "sub_topic": "Quadratic Equations - Degree of Equations",
+        "marks": 1,
+        "question_type": "mcq"
+      },
+      {
+        "question_text": "If a + b = 5 and a - b = 3, then the value of ab is:",
+        "sub_topic": "Algebra - Simultaneous Equations",
+        "marks": 1,
+        "question_type": "mcq"
+      },
+      {
+        "question_text": "x² - 15x + 56 = :",
+        "sub_topic": "Algebra - Factorization",
+        "marks": 1,
+        "question_type": "mcq"
+      },
+      {
+        "question_text": "4(6 + 7) = 4.6 + 4.7 this property is called:",
+        "sub_topic": "Algebra - Distributive Property",
+        "marks": 1,
+        "question_type": "mcq"
+      },
+      {
+        "question_text": "A triangle having all the three sides congruent is called:",
+        "sub_topic": "Geometry - Triangle Types",
+        "marks": 1,
+        "question_type": "mcq"
+      },
+      {
+        "question_text": "Perpendicular from a vertex of a triangle to its opposite side is called:",
+        "sub_topic": "Geometry - Triangle Altitudes",
+        "marks": 1,
+        "question_type": "mcq"
+      },
+      {
+        "question_text": "In a right-angled triangle, side opposite to right angle is called:",
+        "sub_topic": "Geometry - Right Triangle Properties",
+        "marks": 1,
+        "question_type": "mcq"
+      },
+      {
+        "question_text": "If opposite angles of quadrilateral are equal in measures and none of them is a right angle, then the quadrilateral is:",
+        "sub_topic": "Geometry - Quadrilateral Properties",
+        "marks": 1,
+        "question_type": "mcq"
+      }
+    ],
+    "B": [
+      {
+        "question_text": "If Z₁ = -4 + 6i and Z₂ = 2/2 - 2i then verify: Z₁ - Z₂ = Z₁ - Z₂",
+        "sub_topic": "Complex Numbers - Subtraction Verification",
+        "marks": 5,
+        "question_type": "short_answer"
+      },
+      {
+        "question_text": "Find the value by using logarithm: (26.62)¹/² × (87.19)³ / √69.53",
+        "sub_topic": "Logarithms - Complex Calculations",
+        "marks": 5,
+        "question_type": "short_answer"
+      },
+      {
+        "question_text": "Find the value of 216a³ - 343b³, when 6a - 7b = 11 and ab = 8",
+        "sub_topic": "Algebra - Algebraic Identities Application",
+        "marks": 5,
+        "question_type": "short_answer"
+      },
+      {
+        "question_text": "Find the factor by using factor theorem: x³ - 6x² + 11x - 6",
+        "sub_topic": "Algebra - Factor Theorem Application",
+        "marks": 5,
+        "question_type": "short_answer"
+      },
+      {
+        "question_text": "What should be added to 4x⁴ + 4x³ + 17x² - 8x + 9 to make it a perfect square?",
+        "sub_topic": "Algebra - Perfect Square Completion",
+        "marks": 5,
+        "question_type": "short_answer"
+      },
+      {
+        "question_text": "Solve by using quadratic formula: 9x² = 12x - 49",
+        "sub_topic": "Quadratic Equations - Quadratic Formula",
+        "marks": 5,
+        "question_type": "short_answer"
+      },
+      {
+        "question_text": "Find the solution set of the following equation: |(2x - 3)/5| - 12 = 5",
+        "sub_topic": "Equations - Absolute Value Equations",
+        "marks": 5,
+        "question_type": "short_answer"
+      },
+      {
+        "question_text": "Prove that if two angle of triangle are unequal in measure, the side opposite to the greater angle is longer than the side opposite to the smaller angle.",
+        "sub_topic": "Geometry - Triangle Angle-Side Relationship",
+        "marks": 5,
+        "question_type": "short_answer"
+      },
+      {
+        "question_text": "Triangles on equal bases and equal altitudes are equal in area. Prove it.",
+        "sub_topic": "Geometry - Triangle Area Properties",
+        "marks": 5,
+        "question_type": "short_answer"
+      },
+      {
+        "question_text": "Any point on the bisector of an angle is equidistant from its arms. Prove it.",
+        "sub_topic": "Geometry - Angle Bisector Theorem",
+        "marks": 5,
+        "question_type": "short_answer"
+      },
+      {
+        "question_text": "Construct a ΔABC in which mBC = 6 cm, mAC = 4 cm and mAB = 5cm, draw the bisectors of angle A and B.",
+        "sub_topic": "Geometry - Triangle Construction",
+        "marks": 5,
+        "question_type": "short_answer"
+      }
+    ],
+    "C": [
+      {
+        "question_text": "Factorize any four of the following: (i) 4x⁴ + 625 (ii) 9y²z + 3xyz - 9xy² - 3x²y (iii) 169x⁴ - (3y + 4)² (iv) 108x⁴ - 256x³ (v) x²y²z² + 2xyz - 24 (vi) 64x³ - 12x² + 3x/4 - 1/64",
+        "sub_topic": "Algebra - Advanced Factorization Techniques",
+        "marks": 10,
+        "question_type": "detailed_answer"
+      },
+      {
+        "question_text": "Find the solution set of the following simultaneous equations by graphical method. (Find four ordered pairs for each equation): 3x - y = 11; x - 9 = 3y",
+        "sub_topic": "Coordinate Geometry - Graphical Solutions",
+        "marks": 10,
+        "question_type": "detailed_answer"
+      },
+      {
+        "question_text": "In a correspondence of two triangles, if three sides of one triangle are congruent to the corresponding three sides of the other then the two triangles are congruent. Prove it.",
+        "sub_topic": "Geometry - SSS Congruence Theorem",
+        "marks": 10,
+        "question_type": "detailed_answer"
+      },
+      {
+        "question_text": "If two opposite sides of a quadrilateral are congruent and parallel, it is a parallelogram. Prove it.",
+        "sub_topic": "Geometry - Parallelogram Proofs",
+        "marks": 10,
+        "question_type": "detailed_answer"
+      },
+      {
+        "question_text": "Show that the points P(-3, -4), Q(2, 6) and R(0, 2) are collinear.",
+        "sub_topic": "Coordinate Geometry - Collinearity of Points",
+        "marks": 10,
+        "question_type": "detailed_answer"
+      }
+    ]
+  }
+}

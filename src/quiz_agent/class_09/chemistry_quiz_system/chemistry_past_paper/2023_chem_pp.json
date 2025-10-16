@@ -1,0 +1,246 @@
+{
+  "exam": {
+    "subject": "BIOLOGY",
+    "year": 2023,
+    "maxMarks": 60,
+    "time": "3 Hour",
+    "sections": [
+      {
+        "name": "SECTION A - MULTIPLE CHOICE QUESTIONS (MCQs)",
+        "marks": 12,
+        "instructions": [
+          "Attempt all the Questions of this Section.",
+          "Do not copy down the part questions. Write only the answer against the proper number of the Question and its part according to the question Paper.",
+          "Each question carries 1 Mark."
+        ],
+        "questions": [
+          {
+            "number": 1,
+            "question": "The correct sequence of biological method is:",
+            "options": [
+              "law—theory—reasoning—hypothesis",
+              "hypothesis—reasoning—theory—law",
+              "hypothesis—theory—law—reasoning",
+              "law—hypothesis—reasoning—theory"
+            ],
+            "correctAnswer": "hypothesis—theory—law—reasoning"
+          },
+          {
+            "number": 2,
+            "question": "Secondary cell wall is made up of",
+            "options": [
+              "Pectin and cellulose",
+              "Lignin and pectin",
+              "Cellulose and protein",
+              "Cellulose and lignin"
+            ],
+            "correctAnswer": "Cellulose and lignin"
+          },
+          {
+            "number": 3,
+            "question": "In the five kingdom system virus is placed in:",
+            "options": [
+              "Monera",
+              "Protista",
+              "Plantae",
+              "Fungi"
+            ],
+            "correctAnswer": "None of these",
+            "note": "The above question has some typo-error; because the correct answer is 'None of these'"
+          },
+          {
+            "number": 4,
+            "question": "Blood is a special type of",
+            "options": [
+              "Cell",
+              "Organ",
+              "Tissue",
+              "System"
+            ],
+            "correctAnswer": "Tissue"
+          },
+          {
+            "number": 5,
+            "question": "Sequence of physiological changes by which cell commit suicide:",
+            "options": [
+              "Necrosis",
+              "Apuntures",
+              "Apoptosis",
+              "Diakinesis"
+            ],
+            "correctAnswer": "Apoptosis"
+          },
+          {
+            "number": 6,
+            "question": "Enzymes are:",
+            "options": [
+              "Steroid in nature",
+              "Protein in nature",
+              "Lipid in nature",
+              "Carbohydrate In nature"
+            ],
+            "correctAnswer": "Protein in nature"
+          },
+          {
+            "number": 7,
+            "question": "The movement of organic materials(food) take place through:",
+            "options": [
+              "Xylem",
+              "Vessels",
+              "Tracheids",
+              "Phloem"
+            ],
+            "correctAnswer": "Phloem"
+          },
+          {
+            "number": 8,
+            "question": "Science of diagnosis and treatment of diseases:",
+            "options": [
+              "Agriculture",
+              "Medicine",
+              "Surgery",
+              "Both Surgery and Medicine"
+            ],
+            "correctAnswer": "Medicine"
+          },
+          {
+            "number": 9,
+            "question": "Volvox is a poly-phyletic genus of:",
+            "options": [
+              "Green Algae",
+              "Red Algae",
+              "Brown Algae",
+              "None of these"
+            ],
+            "correctAnswer": "Green Algae"
+          },
+          {
+            "number": 10,
+            "question": "Biological name of cat is:",
+            "options": [
+              "Fells catus",
+              "Azadirachta indica",
+              "Alium cepa",
+              "Canis itipis"
+            ],
+            "correctAnswer": "Fells catus"
+          },
+          {
+            "number": 11,
+            "question": "Splitting of glucose (Glycolysis) release small amount of energy which is enough to generate:",
+            "options": [
+              "2 ATP",
+              "5 ATP",
+              "18 ATP",
+              "36 ATP"
+            ],
+            "correctAnswer": "2 ATP"
+          },
+          {
+            "number": 12,
+            "question": "Deficiency of vitamin K causes:",
+            "options": [
+              "Rickets",
+              "Anemia",
+              "Scurvy",
+              "Beri Beri"
+            ],
+            "correctAnswer": "Anemia"
+          }
+        ]
+      },
+      {
+        "name": "SECTION B - Short Answer Questions",
+        "marks": 24,
+        "instructions": [
+          "Answer any EIGHT questions from this section.",
+          "All questions carries Three (3) marks."
+        ],
+        "questions": [
+          {
+            "number": 2,
+            "question": "Write the contribution of any three Muslims scientist in the field of Biology."
+          },
+          {
+            "number": 3,
+            "question": "Write three fundamental postulates of cell theory."
+          },
+          {
+            "number": 4,
+            "question": "Draw neat and labeled diagram of smooth Muscles."
+          },
+          {
+            "number": 5,
+            "question": "Define Biodiversity and its importance."
+          },
+          {
+            "number": 6,
+            "question": "Differentiate between any one of the following: (i) Law and Theory (ii) Horticulture and Agriculture"
+          },
+          {
+            "number": 7,
+            "question": "Define plastids and write its types."
+          },
+          {
+            "number": 8,
+            "question": "Define: (i) Arteries (ii) Veins (iii) Capillaries"
+          },
+          {
+            "number": 9,
+            "question": "Write the translation of any two Quranic Ayah about plants and animals."
+          },
+          {
+            "number": 10,
+            "question": "What is photosynthesis? Explain it with chemical equation."
+          },
+          {
+            "number": 11,
+            "question": "Why is Meiosis called reduction division?"
+          },
+          {
+            "number": 12,
+            "question": "Define the following terms: (i) Vitamins (ii) Ulcer (iii) Anemia"
+          },
+          {
+            "number": 13,
+            "question": "Write note on Mitochondria."
+          }
+        ]
+      },
+      {
+        "name": "SECTION C - Detailed Answer Question",
+        "marks": 24,
+        "instructions": [
+          "Attempt any FOUR questions from this Section.",
+          "Each question tries Six (6) marks."
+        ],
+        "questions": [
+          {
+            "number": 14,
+            "question": "Draw a neat and labeled diagram of Internal structure of Human Heart."
+          },
+          {
+            "number": 15,
+            "question": "Define Respiration. Write aerobic and anaerobic respiration with chemical equations."
+          },
+          {
+            "number": 16,
+            "question": "Describe five kingdom classification."
+          },
+          {
+            "number": 17,
+            "question": "What is blood? Explain main components of blood with diagram."
+          },
+          {
+            "number": 18,
+            "question": "What is tissue? Point out plant tissues with the help of flow chart."
+          },
+          {
+            "number": 19,
+            "question": "Define mitosis. Name and define different stages of it with diagram of each."
+          }
+        ]
+      }
+    ]
+  }
+}

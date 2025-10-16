@@ -1,0 +1,311 @@
+{
+  "year": 2021,
+  "subject": "chemistry",
+  "class": "ix",
+  "group": "science",
+  "total_time": "2 Hours",
+  "total_marks": 60,
+  "sections": {
+    "A": {
+      "section_title": "MULTIPLE CHOICE QUESTIONS (MCQs)",
+      "marks": 30,
+      "instructions": "(i) Attempt all the Questions of this Section. (ii) Do not copy down the part questions. Write only the answer against the proper number of the Question and its part according to the question Paper. (iii) Each question carries 1 Marks",
+      "questions": [
+        {
+          "question_number": 1,
+          "question_text": "Choose the correct Answer from the options given below for each question:",
+          "sub_questions": [
+            {
+              "sub_number": "(i)",
+              "question_text": "The branch of chemistry which belongs to the quality and quantity of the given sample, is called:",
+              "options": ["Analytical Chemistry", "Bio-Chemistry", "Physical Chemistry", "Organic Chemistry"],
+              "correct_answer": "Analytical Chemistry"
+            },
+            {
+              "sub_number": "(ii)",
+              "question_text": "The empirical formula of Benzene is:",
+              "options": ["C₆H₆", "CHO₂", "CH₄", "CH₂O"],
+              "correct_answer": "CH"
+            },
+            {
+              "sub_number": "(iii)",
+              "question_text": "PVC stands for:",
+              "options": ["Poly Phenol Chloride", "Poly Vinyl Chloride", "Poly Vinyl Cellulose", "Poly Vinyl Chlorate"],
+              "correct_answer": "Poly Vinyl Chloride"
+            },
+            {
+              "sub_number": "(iv)",
+              "question_text": "In Carbondioxide, the ratio mass between carbon and oxygen is:",
+              "options": ["1:16", "3:8", "1:8", "3:4"],
+              "correct_answer": "3:8"
+            },
+            {
+              "sub_number": "(v)",
+              "question_text": "It is the lightest particle of an atom:",
+              "options": ["Proton", "Photon", "Electron", "Neutron"],
+              "correct_answer": "Electron"
+            },
+            {
+              "sub_number": "(vi)",
+              "question_text": "Emission of invisible radiation belongs to the branch of Chemistry:",
+              "options": ["Applied Chemistry", "Bio-Chemistry", "Nuclear-Chemistry", "Polymeric Chemistry"],
+              "correct_answer": "Nuclear-Chemistry"
+            },
+            {
+              "sub_number": "(vii)",
+              "question_text": "We study pollution hazards in:",
+              "options": ["In-organic Chemistry", "Bio-Chemistry", "Environmental Chemistry", "Industrial Chemistry"],
+              "correct_answer": "Environmental Chemistry"
+            },
+            {
+              "sub_number": "(viii)",
+              "question_text": "The relation between mass and energy was presented by:",
+              "options": ["Albert Einstein", "Lavoisior", "H. Landolt", "John Dalton"],
+              "correct_answer": "Albert Einstein"
+            },
+            {
+              "sub_number": "(ix)",
+              "question_text": "In 1911, Atomic structure was presented by:",
+              "options": ["Neil Bohr", "Ruther-Ford", "John Dalton", "Ritcher"],
+              "correct_answer": "Ruther-Ford"
+            },
+            {
+              "sub_number": "(x)",
+              "question_text": "A-Z indicates the number of:",
+              "options": ["Electron", "Proton", "Neutron", "Photon"],
+              "correct_answer": "Neutron"
+            },
+            {
+              "sub_number": "(xi)",
+              "question_text": "18 grams of water contains number of molecules is:",
+              "options": ["6.02 × 10²⁴", "6.02 × 10²³", "6.02 × 10²²", "6.02 × 10³⁰"],
+              "correct_answer": "6.02 × 10²³",
+              "note": "The above Question is not correct. Correct question is given below"
+            },
+            {
+              "sub_number": "(xii)",
+              "question_text": "Which family does Gallium belong to?",
+              "options": ["Boron", "Carbon", "Fluorine", "Nitrogen"],
+              "correct_answer": "Boron"
+            },
+            {
+              "sub_number": "(xiii)",
+              "question_text": "In modern periodic table, number of periods are:",
+              "options": ["8", "10", "12", "7"],
+              "correct_answer": "7"
+            },
+            {
+              "sub_number": "(xiv)",
+              "question_text": "The bond in MgO is:",
+              "options": ["Covalent Bond", "Ionic Bond", "Chemical Bond", "Co-Ordinate Covalent Bond"],
+              "correct_answer": "Covalent Bond"
+            },
+            {
+              "sub_number": "(xv)",
+              "question_text": "Definite shape and definite volume is the property of:",
+              "options": ["Gas", "Plasma", "Liquid", "Solid"],
+              "correct_answer": "Solid"
+            },
+            {
+              "sub_number": "(xvi)",
+              "question_text": "Mole fraction is denoted by:",
+              "options": ["X", "Z", "N", "M"],
+              "correct_answer": "X"
+            },
+            {
+              "sub_number": "(xvii)",
+              "question_text": "The pH value of neutral solution is:",
+              "options": ["6.5", "7", "7.8", "4.2"],
+              "correct_answer": "7"
+            },
+            {
+              "sub_number": "(xviii)",
+              "question_text": "The vertical columns of the Modern periodic table are called:",
+              "options": ["Group", "Period", "Series", "Rows"],
+              "correct_answer": "Group"
+            },
+            {
+              "sub_number": "(xix)",
+              "question_text": "W = Z × A × T this equation was proved by:",
+              "options": ["Galvani", "Michael Faraday", "Alexandro Volta", "Madam Curie"],
+              "correct_answer": "Michael Faraday"
+            },
+            {
+              "sub_number": "(xx)",
+              "question_text": "One Faraday is equal to:",
+              "options": ["96600 Coulombs", "96800 Coulombs", "96560 Coulombs", "96500 Coulombs"],
+              "correct_answer": "96500 Coulombs"
+            },
+            {
+              "sub_number": "(xxi)",
+              "question_text": "It is the longest period of the periodic table:",
+              "options": ["2", "6", "7", "8"],
+              "correct_answer": "6"
+            },
+            {
+              "sub_number": "(xxii)",
+              "question_text": "In jellies, solute and solvent are:",
+              "options": ["Sugar and water", "Water and fruit pulp", "Water and fat", "Air and water"],
+              "correct_answer": "Water and fruit pulp"
+            },
+            {
+              "sub_number": "(xxiii)",
+              "question_text": "This one of the following compounds contains all three chemical bonds that are, Ionic, Covalent, Co-Ordinate Covalent Bond.",
+              "options": ["NaCl", "NH₄Cl", "CH₄", "CO₂"],
+              "correct_answer": "NH₄Cl"
+            },
+            {
+              "sub_number": "(xxiv)",
+              "question_text": "This acid is also known as 'Vitamin-C':",
+              "options": ["Acetic acid", "Ascorbic acid", "Carbonic acid", "Oxalic acid"],
+              "correct_answer": "Ascorbic acid"
+            },
+            {
+              "sub_number": "(xxv)",
+              "question_text": "Taste of acids are:",
+              "options": ["Bitter", "Sour", "Sweet", "Neutral"],
+              "correct_answer": "Sour"
+            },
+            {
+              "sub_number": "(xxvi)",
+              "question_text": "Sugar is an example of:",
+              "options": ["Strong Electrolyte", "Weak Electrolyte", "Non-Electrolyte", "Electrolyte"],
+              "correct_answer": "Non-Electrolyte"
+            },
+            {
+              "sub_number": "(xxvii)",
+              "question_text": "The process in which molecules escape from the surface of a liquid is called:",
+              "options": ["Boiling", "Evaporation", "Sublimation", "Melting"],
+              "correct_answer": "Evaporation"
+            },
+            {
+              "sub_number": "(xxviii)",
+              "question_text": "Bases turns red litmus paper into:",
+              "options": ["Pink Colour", "Orange Colour", "Blue Colour", "Yellow Colour"],
+              "correct_answer": "Blue Colour"
+            },
+            {
+              "sub_number": "(xxix)",
+              "question_text": "The symbol of Sodium is:",
+              "options": ["S", "Si", "N", "Na"],
+              "correct_answer": "Na"
+            },
+            {
+              "sub_number": "(xxx)",
+              "question_text": "C₆¹⁴ has the Neutron:",
+              "options": ["8", "10", "6", "12"],
+              "correct_answer": "8"
+            }
+          ]
+        }
+      ]
+    },
+    "B": {
+      "section_title": "SHORT ANSWER QUESTIONS",
+      "marks": 18,
+      "instructions": "Answer any SIX (6) questions from this section. All questions carries 3 marks.",
+      "questions": [
+        {
+          "question_number": 2,
+          "question_text": "Write three sentences on the importance of Chemistry."
+        },
+        {
+          "question_number": 3,
+          "question_text": "Define mole, calculate the number of moles in 40 grams of water (H₂O). (At Mass O=16 , H=1)."
+        },
+        {
+          "question_number": 4,
+          "question_text": "Write down the electronic configuration or arrangements of the following Elements according to the Bohr's Atomic Model.",
+          "table": {
+            "headers": ["Elements", "Atomic Numbers", "K 1st shell", "L 2nd shell", "M 3rd shell", "N 4th shell"],
+            "rows": [
+              ["Hydrogen", "01", "", "", "", ""],
+              ["Nitrogen", "07", "", "", "", ""],
+              ["Neon", "10", "", "", "", ""]
+            ]
+          }
+        },
+        {
+          "question_number": 5,
+          "question_text": "Write down three comparative points between Covalent Bond and Dative Bond.(at least 3 points each)"
+        },
+        {
+          "question_number": 6,
+          "question_text": "Balance the following chemical equations by using co-efficient.",
+          "sub_parts": [
+            "(i) 51 + Cl₂ → SiCl₄",
+            "(ii) C + O₂ → CO₂", 
+            "(iii) Zn + HCl → ZnCl₂ + H₂"
+          ]
+        },
+        {
+          "question_number": 7,
+          "question_text": "State Graham's law of diffusion of gases and re-arrange the following gases in order of diffusion rate from faster to slower:",
+          "sub_parts": [
+            "(i) CO₂ ______",
+            "(ii) CH₄ ______",
+            "(iii) NH₃"
+          ]
+        },
+        {
+          "question_number": 8,
+          "question_text": "Write down the chemical formulae of the following compounds:",
+          "sub_parts": [
+            "(i) Crystalline copper sulphate",
+            "(ii) Sodium carbonate",
+            "(iii) Ethyl Alcohol"
+          ]
+        },
+        {
+          "question_number": 9,
+          "question_text": "Define salts, Identify the following as 'Normal salts, Acidic salts, and Basic salts'",
+          "sub_parts": [
+            "(i) Mg(OH)Cl",
+            "(ii) NaHSO₄",
+            "(iii) NaNO₃",
+            "(iv) K₂SO₄"
+          ]
+        },
+        {
+          "question_number": 10,
+          "question_text": "Write down the basic units of the following quantities in system international:",
+          "sub_parts": [
+            "(i) Mass",
+            "(ii) Length ______",
+            "(iii) Temperature ______", 
+            "(iv) Electric Current ______",
+            "(v) Time ______",
+            "(vi) Quantity off substance ______"
+          ],
+          "alternative": "OR Mention any three characteristics of solution."
+        }
+      ]
+    },
+    "C": {
+      "section_title": "DETAILED ANSWER QUESTIONS",
+      "marks": 12,
+      "instructions": "Attempt any TWO (2) questions from this section. All questions carry equal marks.",
+      "questions": [
+        {
+          "question_number": 11,
+          "question_text": "State the law of conservation of mass and describe Landolt's experiment to verify this law with a labelled diagram and write chemical equation of the reaction."
+        },
+        {
+          "question_number": 12,
+          "question_text": "Write the name of the elements of group 'I-A' of the periodic table. What does the group I-A elements called in the periodic table Write 'Four' general properties of this group."
+        },
+        {
+          "question_number": 13,
+          "question_text": "State 'Henry's Law' and explain it by the help of an example.",
+          "sub_parts": [
+            "(ii) Calculate the molarity of a solution containing 4 grams of sodium Hydroxide (NaOH) in 250 cm³ of solution."
+          ]
+        },
+        {
+          "question_number": 14,
+          "question_text": "Explain with illustrations what are Electrolyte and non-Electrolyte and how they are classified?"
+        }
+      ]
+    }
+  }
+}

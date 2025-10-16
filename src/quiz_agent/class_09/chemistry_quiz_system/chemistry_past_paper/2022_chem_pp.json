@@ -1,0 +1,245 @@
+{
+  "exam": {
+    "subject": "CHEMISTRY",
+    "year": 2022,
+    "maxMarks": 60,
+    "time": "3 Hour",
+    "sections": [
+      {
+        "name": "SECTION A - MULTIPLE CHOICE QUESTIONS (MCQs)",
+        "marks": 24,
+        "instructions": [
+          "Attempt all the Questions of this Section.",
+          "Do not copy down the part questions. Write only the answer against the proper number of the Question and its part according to the question Paper.",
+          "Each question carries 1 Mark."
+        ],
+        "questions": [
+          {
+            "number": 1,
+            "question": "Blood is one of the following:",
+            "options": ["Mixture", "Compound", "Element", "Metal"],
+            "correctAnswer": "Mixture"
+          },
+          {
+            "number": 2,
+            "question": "Empirical formula of CH₃COOH is:",
+            "options": ["C₂H₄O₂", "CH₂O", "CH₄CO₂", "CHOC"],
+            "correctAnswer": "CH₂O"
+          },
+          {
+            "number": 3,
+            "question": "It is considered as the fourth state of matter:",
+            "options": ["Solid", "Liquid", "Gas", "Yasmax"],
+            "correctAnswer": "Yasmax"
+          },
+          {
+            "number": 4,
+            "question": "The mass of this particle is almost equal to that of proton:",
+            "options": ["Electron", "Neutron", "α-Particles", "β-particles"],
+            "correctAnswer": "Neutron"
+          },
+          {
+            "number": 5,
+            "question": "Line spectrum of Hydrogen atom was studied by:",
+            "options": ["Neil Bohr", "Albert Einstein", "De Broglie", "Max Planck"],
+            "correctAnswer": "Neil Bohr"
+          },
+          {
+            "number": 6,
+            "question": "This is the isotope of Hydrogen which contains greater number of neutron:",
+            "options": ["Protium", "Deuterium", "Tritium", "Hydrogen"],
+            "correctAnswer": "Tritium"
+          },
+          {
+            "number": 7,
+            "question": "The radioactive element in I-A group is:",
+            "options": ["Rubidium", "Francium", "Cesium", "Potassium"],
+            "correctAnswer": "Francium"
+          },
+          {
+            "number": 8,
+            "question": "Dobereiner arranged elements in:",
+            "options": ["Octaves", "Triads", "Groups and Periods", "Sub-Groups"],
+            "correctAnswer": "Triads"
+          },
+          {
+            "number": 9,
+            "question": "All transition elements are:",
+            "options": ["Gases", "Metals", "Non-Metals", "Metalloids"],
+            "correctAnswer": "Metals"
+          },
+          {
+            "number": 10,
+            "question": "According to the modern periodic law presented by Moseley, the properties of elements are the periodic function of:",
+            "options": ["Atomic Size", "Atomic Mass", "Atomic Diameter", "Atomic Number"],
+            "correctAnswer": "Atomic Number"
+          },
+          {
+            "number": 11,
+            "question": "Synthetic resin binds two surfaces together by this bonding:",
+            "options": ["Hydrogen Bonding", "Ionic Bonding", "Covalent Bonding", "Metallic Bonding"],
+            "correctAnswer": "Hydrogen Bonding"
+          },
+          {
+            "number": 12,
+            "question": "Nobel gases are stable because their valance shell contains these numbers of electron: (except Helium)",
+            "options": ["4", "6", "8", "10"],
+            "correctAnswer": "8"
+          },
+          {
+            "number": 13,
+            "question": "At room temperature, most of the ionic compounds are:",
+            "options": ["Amorphous Solid", "Crystalline Solid", "Liquid", "Gas"],
+            "correctAnswer": "Crystalline Solid"
+          },
+          {
+            "number": 14,
+            "question": "1 atm = ______ Pascal",
+            "options": ["10325", "106075", "10523", "101325"],
+            "correctAnswer": "101325"
+          },
+          {
+            "number": 15,
+            "question": "Which of the following gas diffuses faster?",
+            "options": ["Oxygen", "Chlorine", "Fluorine", "Helium"],
+            "correctAnswer": "Helium"
+          },
+          {
+            "number": 16,
+            "question": "Benzene is an example of this type of solvent:",
+            "options": ["Polar", "non polar", "ionic", "universal"],
+            "correctAnswer": "non polar"
+          },
+          {
+            "number": 17,
+            "question": "69 g of Sodium (Na) is equal to:",
+            "options": ["1 moles", "2 moles", "3 moles", "4 moles"],
+            "correctAnswer": "3 moles"
+          },
+          {
+            "number": 18,
+            "question": "The size of particles in suspension is:",
+            "options": ["10⁵ nm", "10⁷ nm", "Less than 10⁹ nm", "Greater than 10³ m"],
+            "correctAnswer": "Greater than 10³ m"
+          },
+          {
+            "number": 19,
+            "question": "This one of the following is non-electrolyte:",
+            "options": ["Aqueous HCl", "Urea", "Aqueous NaCl", "Molten KCl"],
+            "correctAnswer": "Urea"
+          },
+          {
+            "number": 20,
+            "question": "This one is an alloy:",
+            "options": ["Graphite", "Steel", "Mercury", "Water"],
+            "correctAnswer": "Steel"
+          },
+          {
+            "number": 21,
+            "question": "1 g equivalent weight of Al is equal to:",
+            "options": ["1 g", "9 g", "27 g", "54 g"],
+            "correctAnswer": "9 g"
+          },
+          {
+            "number": 22,
+            "question": "This gas turns lime water milky",
+            "options": ["CO₂", "O₂", "NO₂", "N₂"],
+            "correctAnswer": "CO₂"
+          },
+          {
+            "number": 23,
+            "question": "This halogen exists in liquid state:",
+            "options": ["Fluorine", "Chlorine", "Iodine", "Bromine"],
+            "correctAnswer": "Bromine"
+          },
+          {
+            "number": 24,
+            "question": "This element is metalloid:",
+            "options": ["Br", "Si", "S", "Sr"],
+            "correctAnswer": "Si"
+          }
+        ]
+      },
+      {
+        "name": "SECTION B - Short Answer Questions",
+        "marks": 24,
+        "instructions": [
+          "Answer any EIGHT questions from this section.",
+          "Each question carries 3 marks."
+        ],
+        "questions": [
+          {
+            "number": 2,
+            "question": "Define: (i) Tyndall effect (ii) Valency (iii) Electronegativity"
+          },
+          {
+            "number": 3,
+            "question": "Write down three differences between Alkali metals and Alkaline earth metals."
+          },
+          {
+            "number": 4,
+            "question": "What is an aqueous solution? Give an example. Air is a mixture of gases then why Nitrogen gas is considered solvent?"
+          },
+          {
+            "number": 5,
+            "question": "What are isotopes? Describe isotopes of Chlorine."
+          },
+          {
+            "number": 6,
+            "question": "Identify group and period in the period table of the following elements: (i) 3L (ii) 6C (iii) 13AL"
+          },
+          {
+            "number": 7,
+            "question": "Write down any three points of atomic model proposed by Schrodinger."
+          },
+          {
+            "number": 8,
+            "question": "What is the mass of Oxalic acid (C₂H₂O₄) required to prepare 100 cm³ volume of 2M Oxalic acid solution? (where Atomic masses: C = 12, H = 1, O = 16)"
+          },
+          {
+            "number": 9,
+            "question": "Balance the following chemical equations: (i) Ca + O₂ → CaO (ii) KClO₃ → KCl + O₂ (iii) NH₃ + O₂ → NO + H₂O"
+          },
+          {
+            "number": 10,
+            "question": "State Faraday's 1st law of electrolysis and explain it"
+          },
+          {
+            "number": 11,
+            "question": "60ml sample of a gas is heated from 27°C to 52°C, at constant pressure. What will be final volume of this gas?"
+          },
+          {
+            "number": 12,
+            "question": "Write down the chemical formulae of given compounds: (i) Lime stone (ii) Washing soda (iii) Sugar"
+          },
+          {
+            "number": 13,
+            "question": "Give reason: (i) Why gasoline does not dissolve in water? (ii) Alkali metals are not found in Free State in nature, why?"
+          }
+        ]
+      },
+      {
+        "name": "SECTION C - Detailed Answer Question",
+        "marks": 12,
+        "instructions": [
+          "Attempt any TWO (2) questions from this section.",
+          "Each question carries 6 marks."
+        ],
+        "questions": [
+          {
+            "number": 14,
+            "question": "Define Chemistry, and list any five branches of it and explain them."
+          },
+          {
+            "number": 15,
+            "question": "Define ionic bond. Illustrate the bond formation in Sodium Chloride (NaCl) also write any two characteristics of ionic compounds. OR Describe discharge tube experiment with labelled diagram and state what were the justification and conclusion of J.J. Thomson in this respect."
+          },
+          {
+            "number": 16,
+            "question": "What is electroplating? How can a steel spoon be electroplated with chromium explain with electrodes reaction also draw a labelled diagram of electrolytic cell."
+          }
+        ]
+      }
+    ]
+  }
+}

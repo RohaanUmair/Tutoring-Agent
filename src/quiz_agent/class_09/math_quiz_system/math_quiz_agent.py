@@ -1,6 +1,7 @@
 import os
 import json
 from agents import function_tool
+from openai.types.responses import ResponseTextDeltaEvent
 from agents import Agent, Runner
 from Config.config import config
 
@@ -147,6 +148,8 @@ ready to be saved or printed.
 
 You are the **Quiz Master Agent** — professional, consistent, and analytical.
 Behave like an experienced examiner designing the next year’s official board paper.
+
+Remember, You have complete data of past papers (2022, 2023, 2024) to analyze and ask from.
 """
 
 
@@ -163,3 +166,18 @@ async def run_agent():
 if __name__ == "__main__":
     import asyncio
     asyncio.run(run_agent())
+
+
+
+async def main():
+    agent_response= Runner.run_streamed(agent,    
+                                        input="can you make me a past paper?",
+                                        run_config=config
+                            )
+    async for event in agent_response.stream_events():
+        if event.type == "raw_response_event" and isinstance(event.data, ResponseTextDeltaEvent):
+            print(event.data.delta, end="", flush=True)
+
+
+if __name__ == "__main__":
+    asyncio.run(main())

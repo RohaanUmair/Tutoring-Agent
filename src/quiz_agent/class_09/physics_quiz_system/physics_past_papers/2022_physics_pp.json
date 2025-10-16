@@ -1,0 +1,249 @@
+{
+  "year": 2022,
+  "class_level": "9",
+  "subject": "physics",
+  "total_marks": 60,
+  "time_allotted": "3 hours",
+  "sections": {
+    "A": [
+      {
+        "question_text": "250g is equal to:",
+        "sub_topic": "Units and Measurements - Mass Conversion",
+        "marks": 1,
+        "question_type": "mcq"
+      },
+      {
+        "question_text": "Significant figures in 91.60 are:",
+        "sub_topic": "Units and Measurements - Significant Figures",
+        "marks": 1,
+        "question_type": "mcq"
+      },
+      {
+        "question_text": "Which one of the following is a vector quantity?",
+        "sub_topic": "Physics Fundamentals - Vector and Scalar Quantities",
+        "marks": 1,
+        "question_type": "mcq"
+      },
+      {
+        "question_text": "Shortest distance between two points is called:",
+        "sub_topic": "Kinematics - Distance and Displacement",
+        "marks": 1,
+        "question_type": "mcq"
+      },
+      {
+        "question_text": "If a gas is heated in a sealed cylinder then:",
+        "sub_topic": "Thermodynamics - Gas Laws",
+        "marks": 1,
+        "question_type": "mcq"
+      },
+      {
+        "question_text": "Quantity of a matter, contained in a body, is called:",
+        "sub_topic": "Mechanics - Mass and Weight",
+        "marks": 1,
+        "question_type": "mcq"
+      },
+      {
+        "question_text": "Co-efficient of friction between tyre and road is:",
+        "sub_topic": "Mechanics - Friction",
+        "marks": 1,
+        "question_type": "mcq"
+      },
+      {
+        "question_text": "The centripetal force is always directed:",
+        "sub_topic": "Circular Motion - Centripetal Force",
+        "marks": 1,
+        "question_type": "mcq"
+      },
+      {
+        "question_text": "Which of the following is more elastic?",
+        "sub_topic": "Properties of Matter - Elasticity",
+        "marks": 1,
+        "question_type": "mcq"
+      },
+      {
+        "question_text": "The pressure in a fluid depends upon:",
+        "sub_topic": "Fluid Mechanics - Pressure in Fluids",
+        "marks": 1,
+        "question_type": "mcq"
+      },
+      {
+        "question_text": "The 'Critical velocity' (Vc) of a satellite is:",
+        "sub_topic": "Gravitation - Orbital Motion",
+        "marks": 1,
+        "question_type": "mcq"
+      },
+      {
+        "question_text": "Spring balance is used to measure quantity of:",
+        "sub_topic": "Measurement Instruments - Spring Balance",
+        "marks": 1,
+        "question_type": "mcq"
+      },
+      {
+        "question_text": "During which process, a gas becomes Liquid?",
+        "sub_topic": "States of Matter - Phase Changes",
+        "marks": 1,
+        "question_type": "mcq"
+      },
+      {
+        "question_text": "An object with particles close together and vibrating describes at:",
+        "sub_topic": "States of Matter - Solid State",
+        "marks": 1,
+        "question_type": "mcq"
+      },
+      {
+        "question_text": "If the velocity of an object decreases, the acceleration is called:",
+        "sub_topic": "Kinematics - Acceleration and Retardation",
+        "marks": 1,
+        "question_type": "mcq"
+      },
+      {
+        "question_text": "Which one of the following is a natural satellite?",
+        "sub_topic": "Astronomy - Natural Satellites",
+        "marks": 1,
+        "question_type": "mcq"
+      },
+      {
+        "question_text": "It is the non-renewable energy source:",
+        "sub_topic": "Energy Sources - Renewable vs Non-renewable",
+        "marks": 1,
+        "question_type": "mcq"
+      },
+      {
+        "question_text": "If a body of mass 1 kg is moving with a velocity of 1m/sec then its Kinetic Energy will be:",
+        "sub_topic": "Work, Energy and Power - Kinetic Energy",
+        "marks": 1,
+        "question_type": "mcq"
+      },
+      {
+        "question_text": "Evaporation occurs at:",
+        "sub_topic": "Thermodynamics - Evaporation",
+        "marks": 1,
+        "question_type": "mcq"
+      },
+      {
+        "question_text": "Friction opposes motion between two bodies in contact because of:",
+        "sub_topic": "Mechanics - Friction Causes",
+        "marks": 1,
+        "question_type": "mcq"
+      },
+      {
+        "question_text": "The amount of heat needed to convert a substance from liquid to gas, is called:",
+        "sub_topic": "Thermodynamics - Latent Heat",
+        "marks": 1,
+        "question_type": "mcq"
+      },
+      {
+        "question_text": "A pair of unlike parallel forces, having different lines of force produces:",
+        "sub_topic": "Mechanics - Couple and Torque",
+        "marks": 1,
+        "question_type": "mcq"
+      },
+      {
+        "question_text": "The center of gravity of a uniform rod is:",
+        "sub_topic": "Mechanics - Center of Gravity",
+        "marks": 1,
+        "question_type": "mcq"
+      },
+      {
+        "question_text": "If a force of 6N displaces an object 3m in the direction of force, then work done will be:",
+        "sub_topic": "Work, Energy and Power - Work Calculation",
+        "marks": 1,
+        "question_type": "mcq"
+      }
+    ],
+    "B": [
+      {
+        "question_text": "Define: (i) Atomic Physics (ii) Nuclear Physics (iii) Plasma Physics",
+        "sub_topic": "Physics Branches - Definitions",
+        "marks": 3,
+        "question_type": "short_answer"
+      },
+      {
+        "question_text": "State Newton's Second Law of Motion and derive the equation F=ma",
+        "sub_topic": "Laws of Motion - Newton's Second Law",
+        "marks": 3,
+        "question_type": "short_answer"
+      },
+      {
+        "question_text": "Describe three states of equilibrium with one example of each",
+        "sub_topic": "Mechanics - States of Equilibrium",
+        "marks": 3,
+        "question_type": "short_answer"
+      },
+      {
+        "question_text": "Write three differences between: Distance and Displacement OR Heat and Temperature",
+        "sub_topic": "Physics Fundamentals - Comparative Concepts",
+        "marks": 3,
+        "question_type": "short_answer"
+      },
+      {
+        "question_text": "Write down three applications of wind energy",
+        "sub_topic": "Energy - Wind Energy Applications",
+        "marks": 3,
+        "question_type": "short_answer"
+      },
+      {
+        "question_text": "State the following laws: (i) Pascal's law (ii) Hook's law (iii) Charles's law",
+        "sub_topic": "Physics Laws - Fundamental Laws",
+        "marks": 3,
+        "question_type": "short_answer"
+      },
+      {
+        "question_text": "A ball is dropped from the top of the height of 70m. How much time, the hill will take to strike the ground? (g = 10ms⁻²)",
+        "sub_topic": "Kinematics - Free Fall",
+        "marks": 3,
+        "question_type": "short_answer"
+      },
+      {
+        "question_text": "A mechanic uses a double arm spanner to turn a nut. He applies a force of 15N at each end of the spanner and produces a torque of 60Nm. What is the length of the moment arm of the couple?",
+        "sub_topic": "Mechanics - Torque and Couple",
+        "marks": 3,
+        "question_type": "short_answer"
+      },
+      {
+        "question_text": "A spring has spring constant K = 30Nm⁻¹. What load is required to produce an extension of 4m?",
+        "sub_topic": "Properties of Matter - Hooke's Law Application",
+        "marks": 3,
+        "question_type": "short_answer"
+      },
+      {
+        "question_text": "A cylinder contains 75cm³ of air at a pressure of 120K Pa. What will be its volume if the pressure on it, is increased to 360 KPa? While its temperature remains constant",
+        "sub_topic": "Gas Laws - Boyle's Law Application",
+        "marks": 3,
+        "question_type": "short_answer"
+      },
+      {
+        "question_text": "Calculate the power of a machine. If the machine performs 900 Joules of work in 30 minutes",
+        "sub_topic": "Work, Energy and Power - Power Calculation",
+        "marks": 3,
+        "question_type": "short_answer"
+      },
+      {
+        "question_text": "How much heat energy will be required to raise the temperature of 50 g of water from 40°C to 70°C? Specific heat of water is 4200jkg⁻¹k⁻¹",
+        "sub_topic": "Thermodynamics - Heat Calculation",
+        "marks": 3,
+        "question_type": "short_answer"
+      }
+    ],
+    "C": [
+      {
+        "question_text": "Define uniform velocity and derive the equation S = vᵢt + ½at²",
+        "sub_topic": "Kinematics - Equations of Motion",
+        "marks": 6,
+        "question_type": "detailed_answer"
+      },
+      {
+        "question_text": "Define linear expansion and volumetric expansion and derive the equation ΔL = αLΔT",
+        "sub_topic": "Thermal Physics - Thermal Expansion",
+        "marks": 6,
+        "question_type": "detailed_answer"
+      },
+      {
+        "question_text": "Define Kinetic energy and Potential energy and derive equation for gravitational potential energy P.E = mgh",
+        "sub_topic": "Work, Energy and Power - Energy Forms",
+        "marks": 6,
+        "question_type": "detailed_answer"
+      }
+    ]
+  }
+}

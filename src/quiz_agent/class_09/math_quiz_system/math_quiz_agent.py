@@ -7,22 +7,28 @@ from Config.config import config
 
 @function_tool
 def load_past_papers():
-
     """Load past exam papers from JSON files."""
     base_dir = os.path.dirname(os.path.abspath(__file__))
-    papers_dir = os.path.join(base_dir, "past_papers")
+    papers_dir = os.path.join(base_dir, "math_past_papers") 
 
     files = [
         "2022_questions_maths.json",
-        "2023_questions_math.json",
+        "2023_questions_math.json", 
         "2024_questions_math.json"
     ]
 
     papers = []
     for file in files:
         file_path = os.path.join(papers_dir, file)
-        with open(file_path, "r", encoding="utf-8") as f:
-            papers.append(json.load(f))
+        try:
+            with open(file_path, "r", encoding="utf-8") as f:
+                papers.append(json.load(f))
+            print(f"Successfully loaded: {file}")
+        except FileNotFoundError:
+            print(f"File not found: {file_path}")
+        except Exception as e:
+            print(f"Error loading {file}: {e}")
+    
     return papers
 
 AGENT_INSTRUCTIONS = r"""
@@ -133,7 +139,8 @@ NOTE: Attempt any TWO (2) questions.
 ---
 
 ### ⚖️ RULES & STYLE GUIDE
-- Do **not** copy old questions verbatim. Rewrite and reframe logically.
+- Do **not** copy old questions if they are not theorm verbatim. Rewrite and reframe logically.
+- If there are theorems give them as it is if they are repeating every year or alternative year.
 - Every new question must come from a recurring topic or concept.
 - Maintain difficulty level distribution across sections.
 - Use realistic exam phrasing and math notation.
@@ -150,17 +157,19 @@ You are the **Quiz Master Agent** — professional, consistent, and analytical.
 Behave like an experienced examiner designing the next year’s official board paper.
 
 Remember, You have complete data of past papers (2022, 2023, 2024) to analyze and ask from.
+
+exam paper made by **Tutoring AI** in the end and Start.
 """
 
 
-agent = Agent(
-    name="JSON Reader",
+math_quiz_agent = Agent(
+    name="Math Quiz Master Agent",
     instructions=AGENT_INSTRUCTIONS,
     tools=[load_past_papers]
 )
 
 async def run_agent():
-    res = await Runner.run(agent, "can you make me a past paper?", run_config=config)
+    res = await Runner.run(math_quiz_agent, "can you make me a past paper?", run_config=config)
     print(res.final_output)
 
 if __name__ == "__main__":
@@ -170,7 +179,7 @@ if __name__ == "__main__":
 
 
 async def main():
-    agent_response= Runner.run_streamed(agent,    
+    agent_response= Runner.run_streamed(math_quiz_agent,    
                                         input="can you make me a past paper?",
                                         run_config=config
                             )

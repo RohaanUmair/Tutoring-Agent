@@ -1,0 +1,189 @@
+{
+  "year": 2023,
+  "class_level": "9",
+  "subject": "physics",
+  "total_marks": 63,
+  "time_allotted": "3 hours",
+  "sections": {
+    "A": [
+      {
+        "question_text": "24 Inch is equal to:",
+        "sub_topic": "Units and Measurements - Length Conversion",
+        "marks": 1,
+        "question_type": "mcq"
+      },
+      {
+        "question_text": "A fixed volume of a gas obeys Boyle's law at constant:",
+        "sub_topic": "Gas Laws - Boyle's Law Conditions",
+        "marks": 1,
+        "question_type": "mcq"
+      },
+      {
+        "question_text": "The melting point of Ice at normal atmospheric pressure is:",
+        "sub_topic": "Thermal Physics - Phase Change Temperatures",
+        "marks": 1,
+        "question_type": "mcq"
+      },
+      {
+        "question_text": "An object of 10kg mass is moving with a velocity of 10 m/s, its momentum will be:",
+        "sub_topic": "Mechanics - Momentum Calculation",
+        "marks": 1,
+        "question_type": "mcq"
+      },
+      {
+        "question_text": "746J is equal to:",
+        "sub_topic": "Work, Energy and Power - Power Units",
+        "marks": 1,
+        "question_type": "mcq"
+      },
+      {
+        "question_text": "The springs in brakes and clutches are used:",
+        "sub_topic": "Properties of Matter - Spring Applications",
+        "marks": 1,
+        "question_type": "mcq"
+      },
+      {
+        "question_text": "These are used to put satellites into orbit:",
+        "sub_topic": "Space Science - Satellite Launch Vehicles",
+        "marks": 1,
+        "question_type": "mcq"
+      },
+      {
+        "question_text": "The motion of a player playing football (soccer) in a ground is:",
+        "sub_topic": "Kinematics - Types of Motion",
+        "marks": 1,
+        "question_type": "mcq"
+      },
+      {
+        "question_text": "It is a non-renewable source of energy:",
+        "sub_topic": "Energy Sources - Renewable vs Non-renewable",
+        "marks": 1,
+        "question_type": "mcq"
+      },
+      {
+        "question_text": "The angle between rectangular components of a vector is:",
+        "sub_topic": "Vector Analysis - Vector Components",
+        "marks": 1,
+        "question_type": "mcq"
+      },
+      {
+        "question_text": "2.4 × 10² J/g°C is the specific heat capacity of:",
+        "sub_topic": "Thermal Physics - Specific Heat Capacity",
+        "marks": 1,
+        "question_type": "mcq"
+      }
+    ],
+    "B": [
+      {
+        "question_text": "Define density with formula and unit also write ways of measurement of density",
+        "sub_topic": "Properties of Matter - Density",
+        "marks": 3,
+        "question_type": "short_answer"
+      },
+      {
+        "question_text": "Write down any three difference between Translatory motion and vibratory motion",
+        "sub_topic": "Kinematics - Types of Motion Comparison",
+        "marks": 3,
+        "question_type": "short_answer"
+      },
+      {
+        "question_text": "What is momentum? Write its formula and S.I Unit",
+        "sub_topic": "Mechanics - Momentum",
+        "marks": 3,
+        "question_type": "short_answer"
+      },
+      {
+        "question_text": "Write three state of equilibrium",
+        "sub_topic": "Mechanics - States of Equilibrium",
+        "marks": 3,
+        "question_type": "short_answer"
+      },
+      {
+        "question_text": "Define pressure on what factors does the pressure depend?",
+        "sub_topic": "Fluid Mechanics - Pressure",
+        "marks": 3,
+        "question_type": "short_answer"
+      },
+      {
+        "question_text": "Write down any three characteristics of the Gravitational force",
+        "sub_topic": "Gravitation - Characteristics of Gravity",
+        "marks": 3,
+        "question_type": "short_answer"
+      },
+      {
+        "question_text": "A cylinder contains 60cm³ of air at a pressure of 140kPa. What will its volume be if the pressure on it is increased to 200kPa?",
+        "sub_topic": "Gas Laws - Boyle's Law Application",
+        "marks": 3,
+        "question_type": "short_answer"
+      },
+      {
+        "question_text": "If the efficiency of a machine is 50% and its output is 100 then calculate its input",
+        "sub_topic": "Work, Energy and Power - Machine Efficiency",
+        "marks": 3,
+        "question_type": "short_answer"
+      },
+      {
+        "question_text": "2Kg of copper requires 2050J of heat to raise its temperature through 10°C. Calculate the heat capacity of the sample",
+        "sub_topic": "Thermal Physics - Heat Capacity Calculation",
+        "marks": 3,
+        "question_type": "short_answer"
+      },
+      {
+        "question_text": "A force of 3400N is applied on a body of mass is 85000g. Find the acceleration produced by the force",
+        "sub_topic": "Laws of Motion - Newton's Second Law Application",
+        "marks": 3,
+        "question_type": "short_answer"
+      },
+      {
+        "question_text": "If weight of Anna is 200N at the surface of the earth. Find mass of anna",
+        "sub_topic": "Gravitation - Weight and Mass Relationship",
+        "marks": 3,
+        "question_type": "short_answer"
+      },
+      {
+        "question_text": "A bus is moving on a road with 15ms⁻¹ and its accelerates at 5ms⁻². Find the final velocity of the bus after 6 seconds",
+        "sub_topic": "Kinematics - Equations of Motion",
+        "marks": 3,
+        "question_type": "short_answer"
+      }
+    ],
+    "C": [
+      {
+        "question_text": "Explain term 'Vt' and derive the equation S = vᵢt + ½at²",
+        "sub_topic": "Kinematics - Equations of Motion Derivation",
+        "marks": 6,
+        "question_type": "detailed_answer"
+      },
+      {
+        "question_text": "Which process is the reverse of resolution of a force? Define it also prove that F = √(Fx² + Fy²), and θ = tan⁻¹(Fy/Fx)",
+        "sub_topic": "Vector Analysis - Vector Addition and Resolution",
+        "marks": 6,
+        "question_type": "detailed_answer"
+      },
+      {
+        "question_text": "Describe the construction and working of hydraulic machine with the help of diagram",
+        "sub_topic": "Fluid Mechanics - Hydraulic Machines",
+        "marks": 6,
+        "question_type": "detailed_answer"
+      },
+      {
+        "question_text": "Which variables describe completely behavior of a gas on the basic of Kinetic Molecular Theory (KMT)? Explain any one of them",
+        "sub_topic": "Kinetic Theory of Gases - Gas Variables",
+        "marks": 6,
+        "question_type": "detailed_answer"
+      },
+      {
+        "question_text": "State law of conservation of energy. Also explain any five renewable energy sources",
+        "sub_topic": "Energy - Conservation and Renewable Sources",
+        "marks": 6,
+        "question_type": "detailed_answer"
+      },
+      {
+        "question_text": "Define evaporation. Also write down factors affecting surface evaporation process",
+        "sub_topic": "Thermal Physics - Evaporation Process",
+        "marks": 6,
+        "question_type": "detailed_answer"
+      }
+    ]
+  }
+}

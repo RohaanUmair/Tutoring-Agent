@@ -1,0 +1,195 @@
+{
+  "year": 2024,
+  "class_level": "9",
+  "subject": "physics",
+  "total_marks": 60,
+  "time_allotted": "3 hours",
+  "sections": {
+    "A": [
+      {
+        "question_text": "Spring balance is used to measure:",
+        "sub_topic": "Measurement Instruments - Spring Balance",
+        "marks": 1,
+        "question_type": "mcq"
+      },
+      {
+        "question_text": "A burning candle is an example of this state of matter:",
+        "sub_topic": "States of Matter - Multiple States",
+        "marks": 1,
+        "question_type": "mcq"
+      },
+      {
+        "question_text": "Evaporation occurs at:",
+        "sub_topic": "Thermal Physics - Evaporation",
+        "marks": 1,
+        "question_type": "mcq"
+      },
+      {
+        "question_text": "It is not a unit of pressure:",
+        "sub_topic": "Fluid Mechanics - Pressure Units",
+        "marks": 1,
+        "question_type": "mcq"
+      },
+      {
+        "question_text": "Centrifugal force is always:",
+        "sub_topic": "Circular Motion - Centrifugal Force",
+        "marks": 1,
+        "question_type": "mcq"
+      },
+      {
+        "question_text": "The least distance covered in a particular direction is called:",
+        "sub_topic": "Kinematics - Distance vs Displacement",
+        "marks": 1,
+        "question_type": "mcq"
+      },
+      {
+        "question_text": "91.60 has significant numbers:",
+        "sub_topic": "Units and Measurements - Significant Figures",
+        "marks": 1,
+        "question_type": "mcq"
+      },
+      {
+        "question_text": "It is not a vector quantity:",
+        "sub_topic": "Physics Fundamentals - Vector and Scalar Quantities",
+        "marks": 1,
+        "question_type": "mcq"
+      },
+      {
+        "question_text": "Natural satellite of Earth is:",
+        "sub_topic": "Astronomy - Natural Satellites",
+        "marks": 1,
+        "question_type": "mcq"
+      },
+      {
+        "question_text": "If a machine performs 20J work in 10 seconds. Then its power will be:",
+        "sub_topic": "Work, Energy and Power - Power Calculation",
+        "marks": 1,
+        "question_type": "mcq"
+      },
+      {
+        "question_text": "1.013 × 10⁵ Pa is equal to:",
+        "sub_topic": "Fluid Mechanics - Pressure Unit Conversion",
+        "marks": 1,
+        "question_type": "mcq"
+      },
+      {
+        "question_text": "A body of mass 50 kilogram whose acceleration is 5ms⁻², the force affecting on it will be:",
+        "sub_topic": "Laws of Motion - Force Calculation",
+        "marks": 1,
+        "question_type": "mcq"
+      }
+    ],
+    "B": [
+      {
+        "question_text": "Define fundamental and derived quantities. Also write three examples of each",
+        "sub_topic": "Physics Fundamentals - Physical Quantities",
+        "marks": 3,
+        "question_type": "short_answer"
+      },
+      {
+        "question_text": "State Newton's Second Law of Motion and derive its equation",
+        "sub_topic": "Laws of Motion - Newton's Second Law",
+        "marks": 3,
+        "question_type": "short_answer"
+      },
+      {
+        "question_text": "Write down three difference between Boiling Point and Evaporation",
+        "sub_topic": "Thermal Physics - Phase Changes Comparison",
+        "marks": 3,
+        "question_type": "short_answer"
+      },
+      {
+        "question_text": "What is potential energy? Derive P.E = mgh",
+        "sub_topic": "Work, Energy and Power - Potential Energy Derivation",
+        "marks": 3,
+        "question_type": "short_answer"
+      },
+      {
+        "question_text": "What do you mean by elasticity? State Hooke's Law and write its mathematical expression",
+        "sub_topic": "Properties of Matter - Elasticity and Hooke's Law",
+        "marks": 3,
+        "question_type": "short_answer"
+      },
+      {
+        "question_text": "Define torque. Write down its formula and unit",
+        "sub_topic": "Mechanics - Torque",
+        "marks": 3,
+        "question_type": "short_answer"
+      },
+      {
+        "question_text": "A bus starts from rest and travels along a straight path its velocity becomes 15ms⁻¹ in 5 seconds. Calculate acceleration of the bus",
+        "sub_topic": "Kinematics - Acceleration Calculation",
+        "marks": 3,
+        "question_type": "short_answer"
+      },
+      {
+        "question_text": "A car is running on a circular path of highway having about 100m radius. The mass of the car is 600kg and its velocity is 72kmh⁻¹. Find centripetal force exerted by the car",
+        "sub_topic": "Circular Motion - Centripetal Force Calculation",
+        "marks": 3,
+        "question_type": "short_answer"
+      },
+      {
+        "question_text": "Calculate the spring constant which extends by a distance of 3.5cm when a load of 14N hung from its end",
+        "sub_topic": "Properties of Matter - Spring Constant Calculation",
+        "marks": 3,
+        "question_type": "short_answer"
+      },
+      {
+        "question_text": "A planet has mass four times of earth and radius two time that of earth is 10ms⁻². What will be its acceleration due to gravity on the planet?",
+        "sub_topic": "Gravitation - Gravity Calculation",
+        "marks": 3,
+        "question_type": "short_answer"
+      },
+      {
+        "question_text": "What will be the kinetic energy of a boy of mass 50kg driving a bike with the velocity of 2ms⁻¹",
+        "sub_topic": "Work, Energy and Power - Kinetic Energy Calculation",
+        "marks": 3,
+        "question_type": "short_answer"
+      },
+      {
+        "question_text": "A man is pushing a Trolley for a horizontal ground with a force of 100N making an angle of 60° with ground. Find the horizontal and vertical components of the force",
+        "sub_topic": "Vector Analysis - Force Resolution",
+        "marks": 3,
+        "question_type": "short_answer"
+      }
+    ],
+    "C": [
+      {
+        "question_text": "What is kinematics? Derive the equation 2αS = v_f² - v_i²",
+        "sub_topic": "Kinematics - Equations of Motion Derivation",
+        "marks": 6,
+        "question_type": "detailed_answer"
+      },
+      {
+        "question_text": "Define equilibrium. Explain its types and two conditions",
+        "sub_topic": "Mechanics - Equilibrium Types and Conditions",
+        "marks": 6,
+        "question_type": "detailed_answer"
+      },
+      {
+        "question_text": "State and explain Boyle's Law. Write its one application",
+        "sub_topic": "Gas Laws - Boyle's Law and Applications",
+        "marks": 6,
+        "question_type": "detailed_answer"
+      },
+      {
+        "question_text": "Calculate the mass of earth by using Newton's law of gravitation",
+        "sub_topic": "Gravitation - Earth Mass Calculation",
+        "marks": 6,
+        "question_type": "detailed_answer"
+      },
+      {
+        "question_text": "Define Thermal expansion. Derive ΔL = αLΔT",
+        "sub_topic": "Thermal Physics - Thermal Expansion Derivation",
+        "marks": 6,
+        "question_type": "detailed_answer"
+      },
+      {
+        "question_text": "Write any two advantages and two disadvantages of friction. Also write two methods of reducing friction",
+        "sub_topic": "Mechanics - Friction Advantages and Reduction",
+        "marks": 6,
+        "question_type": "detailed_answer"
+      }
+    ]
+  }
+}

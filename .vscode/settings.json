@@ -1,0 +1,6 @@
+{
+    "python.analysis.extraPaths": [
+        "./src/quiz_agent/class_10",
+        "./src/quiz_agent/class_09"
+    ]
+}

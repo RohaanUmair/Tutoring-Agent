@@ -1,0 +1,243 @@
+{
+  "exam": {
+    "subject": "PHYSICS",
+    "year": 2019,
+    "maxMarks": 85,
+    "time": "3 Hours",
+    "sections": [
+      {
+        "name": "SECTION A - MULTIPLE CHOICE QUESTIONS",
+        "marks": 19,
+        "instructions": [
+          "Choose the correct answer for each from the given options"
+        ],
+        "questions": [
+          {
+            "number": 1,
+            "parts": [
+              {
+                "part": "1",
+                "question": "Unit of light intensity is:",
+                "options": ["Pascal", "Volt", "Candela", "Joule"],
+                "correctAnswer": "Candela"
+              },
+              {
+                "part": "2",
+                "question": "The circumference of earth was determined by:",
+                "options": [
+                  "Mohd. Bin Musa Al-Khwarzami",
+                  "Al-Beruni",
+                  "Yaqub Al Kindi",
+                  "Abu Ali Hassan Ibn-Al-Haitham"
+                ],
+                "correctAnswer": "Al-Beruni"
+              },
+              {
+                "part": "3",
+                "question": "In British Engineering system 1 horsepower (hp) =",
+                "options": ["560 ft.lb/s", "505 ft.lb/s", "550 ft.lb/s", "546 ft.lb/s"],
+                "correctAnswer": "550 ft.lb/s"
+              },
+              {
+                "part": "4",
+                "question": "It is a vector quantity:",
+                "options": ["Distance", "Displacement", "Speed", "Mass"],
+                "correctAnswer": "Displacement"
+              },
+              {
+                "part": "5",
+                "question": "Archimedes principle is used to determine:",
+                "options": ["Specific gravity", "Specific heat", "Specific resistance", "Specific radiation"],
+                "correctAnswer": "Specific gravity"
+              },
+              {
+                "part": "6",
+                "question": "The concave lens is used:",
+                "options": [
+                  "for the correction of Short sightedness",
+                  "Aberration",
+                  "for the correction of long sightedness",
+                  "for clear picture"
+                ],
+                "correctAnswer": "for the correction of Short sightedness"
+              },
+              {
+                "part": "7",
+                "question": "Artificial satellites the necessary acceleration is provided by:",
+                "options": ["Gravitational force", "Frictional force", "Coulomb's force", "Centrifugal force"],
+                "correctAnswer": "Gravitational force"
+              },
+              {
+                "part": "8",
+                "question": "A form of disturbance which travels through a medium due to periodic motion of particle medium about their mean position is called:",
+                "options": ["Time period", "Resonance", "Frequency", "Wave motion"],
+                "correctAnswer": "Wave motion"
+              },
+              {
+                "part": "9",
+                "question": "If I = 1.5 amp, R = 10 ohm then the voltage (V) is:",
+                "options": ["10 volts", "1.5 volts", "150 volts", "15 volts"],
+                "correctAnswer": "15 volts"
+              },
+              {
+                "part": "10",
+                "question": "The rate of change of velocity is called:",
+                "options": ["Torque", "Acceleration", "Momentum", "Speed"],
+                "correctAnswer": "Acceleration"
+              },
+              {
+                "part": "11",
+                "question": "Shunt Converts a Galvanometer into:",
+                "options": ["a Voltmeter", "an Ammeter", "a Wattmeter", "a Calorimeter"],
+                "correctAnswer": "an Ammeter"
+              },
+              {
+                "part": "12",
+                "question": "The unit of coefficient of friction is:",
+                "options": ["Newton", "Kilogram", "Metre", "None"],
+                "correctAnswer": "None"
+              },
+              {
+                "part": "13",
+                "question": "An inclined plane 5 m long has one end raised by 1 m its mechanical advantage will be:",
+                "options": ["15", "5", "1/5", "1/15"],
+                "correctAnswer": "5"
+              },
+              {
+                "part": "14",
+                "question": "If two parallel forces have the same directions they are called:",
+                "options": ["Unlike parallel forces", "Couple", "Rectangular forces", "Like parallel forces"],
+                "correctAnswer": "Like parallel forces"
+              },
+              {
+                "part": "15",
+                "question": "The temperature of a substance changes from -20°C to 20°C then the temperature change in Kelvin's scale is:",
+                "options": ["0K", "20K", "40K", "293K"],
+                "correctAnswer": "40K"
+              },
+              {
+                "part": "16",
+                "question": "Small drops of rain water dispose sun light into different colours is called:",
+                "options": ["Dispersion", "Interference", "Rainbow", "Spectrum"],
+                "correctAnswer": "Dispersion"
+              },
+              {
+                "part": "17",
+                "question": "Amplification can be obtained by:",
+                "options": ["Radar", "Transistor", "P.N. Junction", "Capacitor"],
+                "correctAnswer": "Transistor"
+              },
+              {
+                "part": "18",
+                "question": "The image found in a plane mirror is:",
+                "options": ["real", "inverted", "virtual and erect", "real and inverted"],
+                "correctAnswer": "virtual and erect"
+              },
+              {
+                "part": "19",
+                "question": "Which of the following is more penetrating?",
+                "options": ["α-rays", "β-rays", "γ-rays", "X-rays"],
+                "correctAnswer": "γ-rays"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "SECTION B - SHORT-ANSWER QUESTIONS",
+        "marks": 40,
+        "instructions": [
+          "PART A: Answer 5 questions from this part.",
+          "PART B: Answer 5 questions from this part."
+        ],
+        "questions": [
+          {
+            "number": 2,
+            "question": "Write down two contributions of each scientist: (i) Yaqoob Al-Kindi (ii) Abu-Al-Haitham"
+          },
+          {
+            "number": 3,
+            "question": "What are transistors? Write its two types with the help of circuit diagram."
+          },
+          {
+            "number": 4,
+            "question": "Define: (i) Viscosity (ii) Surface tension (iii) Centre of gravity (iv) Couple"
+          },
+          {
+            "number": 5,
+            "question": "State Newton's Second Law of Motion and derive F = ma"
+          },
+          {
+            "number": 6,
+            "question": "Describe briefly any four electromagnetic waves with their ranges."
+          },
+          {
+            "number": 7,
+            "question": "State Joule's law and derive equation W = I²Rt"
+          },
+          {
+            "number": 8,
+            "question": "Write down two differences between: (i) N-type substances and P-type substances (ii) Fundamental quantities and derived quantities."
+          },
+          {
+            "number": 9,
+            "question": "Give scientific reason: (i) Why is sliding friction greater than rolling friction (ii) Why is an ammeter, low resistance connected in parallel with the coil of a galvanometer?"
+          },
+          {
+            "number": 10,
+            "question": "How much energy will be released when 50 gm of mass is completely transformed to energy?"
+          },
+          {
+            "number": 11,
+            "question": "When a sound wave of frequency 200 Hertz and wave length 300 cm passes through a medium calculate the velocity of the wave in the medium."
+          },
+          {
+            "number": 12,
+            "question": "Calculate the orbital velocity of artificial satellite required moving around the earth if radius of earth is 6 × 10⁶ m and the value of 'g' is 10 m/s²."
+          },
+          {
+            "number": 13,
+            "question": "A force is acting at an angle 60° with x-axis. If the x-component of the force in 50 Newton. Find resultant force and y-component of the force. (Sin 60° = 0.866, Cos 60° = 0.5)"
+          },
+          {
+            "number": 14,
+            "question": "Find the amount of heat required to raise the temperature of 100 gm of water from 10°C to 60°C. (Sp. Heat of water = 4200 J/kg°C)"
+          },
+          {
+            "number": 15,
+            "question": "A ball is dropped from a tower it reaches the ground in 10 seconds. Calculate the height of the tower and the velocity with which it hits the ground?"
+          },
+          {
+            "number": 16,
+            "question": "The focal length of a Concave mirror is 15cm, where should an object be placed so as to get its real image magnified thrice (three)?"
+          },
+          {
+            "number": 17,
+            "question": "An electronic heater has a resistance of 20 Ohm, works at a potential difference of 220 volts. Find the current passing through the heater and the power."
+          }
+        ]
+      },
+      {
+        "name": "SECTION C - DETAILED ANSWER QUESTIONS",
+        "marks": 26,
+        "instructions": [
+          "Answer any Two questions from this Section."
+        ],
+        "questions": [
+          {
+            "number": 18,
+            "question": "(a) Define Boyle's and Charle's Law and derive the general gas equation. PV = nRT (b) Name two main defects of Human Eye. Describe with the help of ray diagrams show the defects and their correction."
+          },
+          {
+            "number": 19,
+            "question": "(a) What are simple electric motors? Write down its construction and working with diagram. (b) What is wheel and axle? With the help of a labeled diagram calculate its mechanical advantage."
+          },
+          {
+            "number": 20,
+            "question": "(a) Define Potential and Kinetic Energy, also derive their equation: P.E. = MGH and K.E. = ½mv² (b) Define Simple Harmonic motion and prove that the motion of a body attached to the end of spring execute simple harmonic motion."
+          }
+        ]
+      }
+    ]
+  }
+}

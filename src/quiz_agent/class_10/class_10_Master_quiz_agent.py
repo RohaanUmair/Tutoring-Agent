@@ -3,47 +3,33 @@ import json
 from openai.types.responses import ResponseTextDeltaEvent
 from agents import Agent, Runner
 from Config.config import config
-
 import sys
-import os
 
-# Add this at the TOP of class_09_Master_quiz_agent.py
 current_dir = os.path.dirname(os.path.abspath(__file__))
 sys.path.insert(0, current_dir)
 
 # Then your regular imports
-from math_quiz_system.math_quiz_agent import math_quiz_agent
-from physics_quiz_system.physics_quiz_agent import physics_quiz_agent
-from english_quiz_system.english_quiz_agent import english_quiz_agent
-from biology_quiz_system.bio_quiz_agent import biology_quiz_agent
-from chemistry_quiz_system.chemistry_quiz_agent import chemistry_quiz_agent
-from computer_quiz_system.computer_quiz_agent import computer_quiz_agent
-# from math_quiz_system.math_quiz_agent import math_quiz_agent
-# from physics_quiz_system.physics_quiz_agent import physics_quiz_agent
-# from english_quiz_system.english_quiz_agent import english_quiz_agent
-# from biology_quiz_system.bio_quiz_agent import biology_quiz_agent
-# from chemistry_quiz_system.chemistry_quiz_agent import chemistry_quiz_agent
-# from computer_quiz_system.computer_quiz_agent import computer_quiz_agent
+from math_quiz_agent_10.math_quiz_agent import math_quiz_agent
+from physics_quiz_agent_10.physics_quiz_agent import physics_quiz_agent
+from chemistry_agent_10.chemistry_quiz_agent import chemistry_quiz_agent
+# from math_quiz_agent_10.math_quiz_agent import math_quiz_agent
+# from physics_quiz_agent_10.physics_quiz_agent import physics_quiz_agent
+# from chemistry_agent_10.chemistry_quiz_agent import chemistry_quiz_agent
 
-# from .math_quiz_system.math_quiz_agent import math_quiz_agent
-# from .physics_quiz_system.physics_quiz_agent import physics_quiz_agent
-# from .english_quiz_system.english_quiz_agent import english_quiz_agent
-# from .biology_quiz_system.bio_quiz_agent import biology_quiz_agent
-# from .chemistry_quiz_system.chemistry_quiz_agent import chemistry_quiz_agent
-# from .computer_quiz_system.computer_quiz_agent import computer_quiz_agent
-
-
-import asyncio
+# from .math_quiz_agent_10.math_quiz_agent import math_quiz_agent
+# from .physics_quiz_agent_10.physics_quiz_agent import physics_quiz_agent
+# from .chemistry_agent_10.chemistry_quiz_agent import chemistry_quiz_agent
 
 # AGENT_INSTRUCTIONS = r"""
-# You are **Master Quiz Agent**, the central intelligence and coordinator for **Class 9 Subject Quiz Agents**.  
-# You do not generate or grade questions yourself — your purpose is to **understand the user’s subject request** and **handoff** control to the correct subject-specific quiz agent.
+# You are **Master Quiz Agent**, the central intelligence and coordinator for **Class 10 Subject Quiz Agents**.  
+# You do not generate or grade questions yourself — your purpose is to **understand the user’s subject request** and **tool call** to get desired results.
 
 # ---
 
 # ### 🎯 OBJECTIVE
 # Manage and route user requests to the correct **subject quiz agent** based on the selected subject.  
 # Each subject has its own dedicated quiz agent with specialized logic and style.
+# if you unable to call any subject's agent just apologize 
 
 # ---
 
@@ -127,49 +113,59 @@ import asyncio
 
 
 # """
-
 AGENT_INSTRUCTIONS = r"""
-You are a routing agent for Class 9. Your ONLY job is to detect the subject and execute handoff.
+You are a routing agent for Class 10. When you detect a subject, IMMEDIATELY handoff to the corresponding subject agent and let them handle the entire response.
 
-SUBJECT DETECTION:
-- "math", "mathematics" → Handoff to Math_Quiz_Agent
-- "physics" → Handoff to Physics_Quiz_Agent
-- "chemistry" → Handoff to Chemistry_Quiz_Agent
-- "biology" → Handoff to Biology_Quiz_Agent
-- "computer" → Handoff to Computer_Quiz_Agent
-- "english" → Handoff to English_Quiz_Agent
-- No subject specified → Ask: "Please specify the subject"
+SUBJECT MAPPING:
+- "math", "mathematics" → Mathematics_Quiz_Agent
+- "physics" → Physics_Quiz_Agent  
+- "chemistry" → Chemistry_Quiz_Agent
 
-CRITICAL RULES:
-- NEVER send "Handoff to..." messages
-- NEVER confirm the handoff
-- ALWAYS execute the handoff silently
-- Let the subject agent handle the entire response
+CRITICAL: Do NOT send any messages yourself. Do NOT confirm handoffs. Do NOT say anything. Just execute the handoff immediately.
 
 EXAMPLES:
-User: "class 9 math paper" → *Execute silent handoff to Math_Quiz_Agent*
-User: "biology quiz" → *Execute silent handoff to Biology_Quiz_Agent*
-User: "help" → "Please specify the subject"
+User: "math target paper" → *SILENT HANDOFF to Mathematics_Quiz_Agent*
+User: "physics quiz" → *SILENT HANDOFF to Physics_Quiz_Agent*
+User: "help" → "Please specify subject: Math, Physics, or Chemistry"
 """
 
-class_nine_master_agent = Agent(
-    name="class_09_master_quiz_agent",
+class_ten_master_agent = Agent(
+    name="class_10_master_quiz_agent",
     instructions=AGENT_INSTRUCTIONS,
-    handoffs=[math_quiz_agent, physics_quiz_agent, english_quiz_agent, biology_quiz_agent, chemistry_quiz_agent, computer_quiz_agent],
+    handoffs=[math_quiz_agent, physics_quiz_agent, chemistry_quiz_agent],
 )
 
-class_nine_master_agent = Agent(
-    name="class_09_master_quiz_agent",
+class_ten_master_agent = Agent(
+    name="class_10_master_quiz_agent",
     instructions=AGENT_INSTRUCTIONS,
-    handoffs=[math_quiz_agent, physics_quiz_agent,english_quiz_agent, biology_quiz_agent, chemistry_quiz_agent, computer_quiz_agent],
+    handoffs=[math_quiz_agent, physics_quiz_agent, chemistry_quiz_agent],
+    # tools=[math_quiz_agent.as_tool(
+    #     tool_name="math_target_paper_maker",
+    #     tool_description="your'e objective is to create math target paper form past papers"),
+    #     physics_quiz_agent.as_tool(
+    #         tool_name="physics_target_paper_maker",
+    #         tool_description="your'e objective is to create physics target paper form past papers"
+    #         ),
+    #     chemistry_quiz_agent.as_tool(
+    #         tool_name="chemistry_target_paper_maker",
+    #         tool_description="your'e objective is to create chemistry target paper form using past papers"
+    #     )
+    # ]
 )
 
+async def run_agent():
+    res = await Runner.run(class_ten_master_agent, "can you make me physics target paper for class 10?", run_config=config)
+    print(res.final_output)
+
+if __name__ == "__main__":
+    import asyncio
+    asyncio.run(run_agent())
 
 
 
 async def main():
     agent_response= Runner.run_streamed(math_quiz_agent,    
-                                        input="can you make me a target paper of math for 9 class ",
+                                        input="can you make me a target paper of math for 10 class ?",
                                         run_config=config
                             )
     async for event in agent_response.stream_events():

@@ -1,0 +1,247 @@
+{
+  "biology_papers": [
+    {
+      "year": 2022,
+      "subject": "Biology",
+      "max_marks": 60,
+      "time": "3 Hours",
+      "sections": [
+        {
+          "name": "Section A - Multiple Choice Questions",
+          "marks": 24,
+          "instructions": [
+            "Attempt all the Questions of this Section",
+            "Do not copy down the part questions. Write only the answer against the proper number of the Question and its part according to the question Paper",
+            "Each question carries 1 Mark"
+          ],
+          "questions": [
+            {
+              "number": "i",
+              "question": "The biological function which performs gaseous exchange",
+              "options": ["Photosynthesis", "Respiration", "Growth", "Alveoli"],
+              "correct_answer": "Respiration"
+            },
+            {
+              "number": "ii",
+              "question": "The network of blood capillaries present in the layer of skin:",
+              "options": ["Epidermis", "Dermis", "Hypodermis", "Endodermis"],
+              "correct_answer": "Dermis"
+            },
+            {
+              "number": "iii",
+              "question": "The hormone ADH release from:",
+              "options": ["Pituitary gland", "Kidneys", "Liver", "Lungs"],
+              "correct_answer": "Pituitary gland"
+            },
+            {
+              "number": "iv",
+              "question": "The automatic process of altering focus to get sharper image of near object is:",
+              "options": ["Vision", "Accommodation", "Focus", "All of these"],
+              "correct_answer": "Focus"
+            },
+            {
+              "number": "v",
+              "question": "\"Kitab ul Manazir\" was written by:",
+              "options": ["Jabir Bin Hayan", "Ibn al Haitham", "Ali Ibn Isa", "Bu Ali Sina"],
+              "correct_answer": "Ibn al Haitham"
+            },
+            {
+              "number": "vi",
+              "question": "The framework which gives shape to any structure is:",
+              "options": ["Bone", "Skeleton", "Cartilage", "Architecture"],
+              "correct_answer": "Skeleton"
+            },
+            {
+              "number": "vii",
+              "question": "The part of brain involved in reasoning is:",
+              "options": ["Fore brain", "Cerebrum", "Cortex", "Frontal lobe"],
+              "correct_answer": "Cerebrum"
+            },
+            {
+              "number": "viii",
+              "question": "The pair of muscles where both work in opposite direction is:",
+              "options": ["Antagonist", "Cardiac", "Smooth", "Abductor"],
+              "correct_answer": "Antagonist"
+            },
+            {
+              "number": "ix",
+              "question": "The type of seed production without fusion of male and female gametes is:",
+              "options": ["Parthenocarpy", "Apomixes", "Grafting", "Scion or Crystal"],
+              "correct_answer": "Apomixes"
+            },
+            {
+              "number": "x",
+              "question": "The way by which gene transmits characters from parents to offspring is:",
+              "options": ["Genetics", "Inheritance", "Heredity", "Allele"],
+              "correct_answer": "Heredity"
+            },
+            {
+              "number": "xi",
+              "question": "Any biological region recognized by its climate or vegetation is:",
+              "options": ["Ecosystem", "Biomes", "Biosphere", "Biomass or Sub class"],
+              "correct_answer": "Biomes"
+            },
+            {
+              "number": "xii",
+              "question": "The study of complete graph of human genome is called:",
+              "options": ["PCR", "HGP", "Medicine", "Soma-Clonal"],
+              "correct_answer": "HGP"
+            },
+            {
+              "number": "xiii",
+              "question": "The bread dough rises during alcoholic fermentation is due to:",
+              "options": ["Methyl alcohol", "CO₂", "Ethyl alcohol", "H₂O"],
+              "correct_answer": "CO₂"
+            },
+            {
+              "number": "xiv",
+              "question": "Father of antiseptic is:",
+              "options": ["Alexander Fleming", "Edward Jenner", "Joseph Lister", "Oswald Schmiedeberg"],
+              "correct_answer": "Joseph Lister"
+            },
+            {
+              "number": "xv",
+              "question": "Drugs that slow normal brain functioning, is called:",
+              "options": ["Narcotics", "Hallucinogen", "Marijuana", "Sedatives"],
+              "correct_answer": "Sedatives"
+            },
+            {
+              "number": "xvi",
+              "question": "Disorder which is associated with degeneration of alveoli is:",
+              "options": ["Bronchitis", "Lungs cancer", "Asthma", "Emphysema"],
+              "correct_answer": "Emphysema"
+            },
+            {
+              "number": "xvii",
+              "question": "The outer part of DNA helix made up of sugar and phosphate, is called:",
+              "options": ["Nucleoprotein", "Upright", "Rungs", "Phosphoester"],
+              "correct_answer": "Upright"
+            },
+            {
+              "number": "xviii",
+              "question": "The vitamin necessary for proper vision is:",
+              "options": ["Vitamin A", "Vitamin B", "Vitamin C", "Vitamin D"],
+              "correct_answer": "Vitamin A"
+            },
+            {
+              "number": "xix",
+              "question": "The large muscle of arm is:",
+              "options": ["Bicep", "Tricep", "Tetracép", "Pentacep"],
+              "correct_answer": "Tricep"
+            },
+            {
+              "number": "xx",
+              "question": "The female gametes are fertilized in the rear end of:",
+              "options": ["Oviduct", "Fallopian tube", "Ovaries", "All of these"],
+              "correct_answer": "Oviduct"
+            },
+            {
+              "number": "xxi",
+              "question": "Plants grow near coastal area are called:",
+              "options": ["Xerophyte", "Halophyte", "Epiphyte", "Hygrophyte"],
+              "correct_answer": "Halophyte"
+            },
+            {
+              "number": "xxii",
+              "question": "Each stoma is formed by:",
+              "options": ["One guard cell", "Two guard cells", "Three guard cells", "Four guard cells"],
+              "correct_answer": "Two guard cells"
+            },
+            {
+              "number": "xxiii",
+              "question": "The cold war between the organisms of a community occupying the same habitat in ecosystem, is called:",
+              "options": ["predation", "competition", "mutualism", "commensalism"],
+              "correct_answer": "competition"
+            },
+            {
+              "number": "xxiv",
+              "question": "The part of brain involved in balance and precision in movement is:",
+              "options": ["Cerebrum", "Cerebellum", "Thalamus", "Medulla Oblongata"],
+              "correct_answer": "Cerebellum"
+            }
+          ]
+        },
+        {
+          "name": "Section B - Short Answer Questions",
+          "marks": 24,
+          "instructions": [
+            "Attempt any EIGHT questions from this section",
+            "Each question carries Three (3) marks"
+          ],
+          "questions": [
+            {
+              "number": 2,
+              "question": "Write three differences between plant cell and animal cell."
+            },
+            {
+              "number": 3,
+              "question": "Draw neat and labelled diagram of Ovule."
+            },
+            {
+              "number": 4,
+              "question": "How does light affect on ecosystem?"
+            },
+            {
+              "number": 5,
+              "question": "What is rickets? Write its causes."
+            },
+            {
+              "number": 6,
+              "question": "How is the asthma patient characterized?"
+            },
+            {
+              "number": 7,
+              "question": "Why is skin considered as excretory organ?"
+            },
+            {
+              "number": 8,
+              "question": "Define following terms: (a) Homologous chromosome (b) Allele (c) Recessive Allele"
+            },
+            {
+              "number": 9,
+              "question": "What is algal bloom and how it destroys the life of an aquatic ecosystem?"
+            },
+            {
+              "number": 10,
+              "question": "Draw neat and labelled diagram of hinge OR ball and socket joint."
+            },
+            {
+              "number": 11,
+              "question": "Why do antibiotics not affect against viral infection?"
+            },
+            {
+              "number": 12,
+              "question": "Distinguish between sexual and asexual reproduction."
+            },
+            {
+              "number": 13,
+              "question": "State Mendel's law of independent assortment. (No need to draw checkerboard)"
+            }
+          ]
+        },
+        {
+          "name": "Section C - Detailed Answer Questions",
+          "marks": 12,
+          "instructions": [
+            "Attempt any TWO questions from this Section",
+            "Each question carries SIX (6) marks"
+          ],
+          "questions": [
+            {
+              "number": 14,
+              "question": "Draw neat and labelled diagram of human ear."
+            },
+            {
+              "number": 15,
+              "question": "Describe the urinary system of man with the help of diagram."
+            },
+            {
+              "number": 16,
+              "question": "What is germination? Write the necessary conditions of it and also describe the epigeal and hypogeal germination."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

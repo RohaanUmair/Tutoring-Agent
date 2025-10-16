@@ -1,0 +1,196 @@
+{
+  "exam": {
+    "subject": "MATHEMATICS",
+    "year": 2023,
+    "maxMarks": 75,
+    "time": "3 Hour",
+    "sections": [
+      {
+        "name": "SECTION A - MULTIPLE CHOICE QUESTIONS (MCQs)",
+        "marks": 15,
+        "instructions": [
+          "Attempt all the Questions of this Section.",
+          "Do not copy down the part questions. Write only the answer against the proper number of the Question and its part according to the question Paper.",
+          "Each question carries 1 Mark"
+        ],
+        "questions": [
+          {
+            "number": 1,
+            "parts": [
+              {
+                "part": "1",
+                "question": "If (x,6) = (2,y-6) then x+y = :",
+                "options": ["8", "10", "12", "14"],
+                "correctAnswer": "14"
+              },
+              {
+                "part": "2",
+                "question": "If A = {1,2,3,4} and B = {2,4,6} then A Δ B :",
+                "options": ["{1,2}", "{6}", "{1,3,6}", "{1,4}"],
+                "correctAnswer": "{1,3,6}"
+              },
+              {
+                "part": "3",
+                "question": "If 1,9,x and 45 are in proportion, then x = :",
+                "options": ["27", "1", "5", "9"],
+                "correctAnswer": "5"
+              },
+              {
+                "part": "4",
+                "question": "If 'm' denotes the number of rows and 'n' denotes the number of columns such that m=n, then matrix is called:",
+                "options": ["rectangular matrix", "equal matrix", "square matrix", "null matrix"],
+                "correctAnswer": "square matrix"
+              },
+              {
+                "part": "5",
+                "question": "5π/4 radians:",
+                "options": ["115°", "225°", "135°", "45°"],
+                "correctAnswer": "225°"
+              },
+              {
+                "part": "6",
+                "question": "1+ω = :",
+                "options": ["ω²", "ω²", "0", "-ω"],
+                "correctAnswer": "-ω"
+              },
+              {
+                "part": "7",
+                "question": "The fraction (2x+5)/(x²+5x+6) is known as:",
+                "options": ["proper", "improper", "both proper and improper", "none of these"],
+                "correctAnswer": "proper"
+              },
+              {
+                "part": "8",
+                "question": "If x/y = w/z then according to dividendo property is:",
+                "options": ["(x-y)/y = (w-z)/z", "(x+y)/y = (w+z)/z", "y/x = z/w", "z/(w+z) = none of these"],
+                "correctAnswer": "(x-y)/y = (w-z)/z"
+              },
+              {
+                "part": "9",
+                "question": "The A.M. of (0,90,k,10,100) is 40, then k = :",
+                "options": ["0", "90", "10", "100"],
+                "correctAnswer": "0"
+              },
+              {
+                "part": "10",
+                "question": "In a right angled triangle, the greatest angle is:",
+                "options": ["100°", "90°", "80°", "110°"],
+                "correctAnswer": "90°"
+              },
+              {
+                "part": "11",
+                "question": "If the ratio of two corresponding sides of similar triangles is 5:7 then ratio of their areas is:",
+                "options": ["5:7", "7:5", "25:7", "25:49"],
+                "correctAnswer": "25:49"
+              },
+              {
+                "part": "12",
+                "question": "Cosecθ.sinθ:",
+                "options": ["1", "0", "-1", "2"],
+                "correctAnswer": "1"
+              },
+              {
+                "part": "13",
+                "question": "A circle touches all the sides of a triangle is called:",
+                "options": ["circum circle", "in circle", "excribed circle", "none of these"],
+                "correctAnswer": "in circle"
+              },
+              {
+                "part": "14",
+                "question": "An inscribed angle of a minor arc of a circle is:",
+                "options": ["acute", "obtuse", "right", "reflex"],
+                "correctAnswer": "obtuse"
+              },
+              {
+                "part": "15",
+                "question": "Diameter divides the circle into parts:",
+                "options": ["two", "three", "four", "five"],
+                "correctAnswer": "two"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "SECTION B - Short Answer Questions",
+        "marks": 30,
+        "instructions": [
+          "Answer any SIX (06) questions from this section.",
+          "All questions carry equal marks."
+        ],
+        "questions": [
+          {
+            "number": 2,
+            "question": "If U = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10}, A = {1, 3, 5, 7, 9} and B = {2, 4, 6, 8} Prove that (A ∪ B)' = A' ∩ B'"
+          },
+          {
+            "number": 3,
+            "question": "If a:b = c:d = e:f then show that: (a⁴b² + a²e² - e⁴f)/(b⁶ + b²f² - f⁵) = a⁴/b⁴"
+          },
+          {
+            "number": 4,
+            "question": "Prove that (cotθ + cosecθ)/(sinθ + tanθ) = cosecθ cotθ"
+          },
+          {
+            "number": 5,
+            "question": "If α, β are the roots of the equation px² + qx + q = 0, p ≠ 0, find the value of √(α/β) + √(β/α)"
+          },
+          {
+            "number": 6,
+            "question": "Resolve into partial fractions: 4(x-4)/(x² - 2x - 3)"
+          },
+          {
+            "number": 7,
+            "question": "The marks obtained by students in a subject (out of 50) are given in the following grouped table. Find Arithmetic Mean (A.M)."
+          },
+          {
+            "number": 8,
+            "question": "A ladder makes an angle 60° with the ground and reaches a height of 6 m on the wall. Find the length of the ladder."
+          },
+          {
+            "number": 9,
+            "question": "A straight line, drawn from the centre of a circle to bisect a chord (which is not a diameter) is perpendicular to the chord. Prove it."
+          },
+          {
+            "number": 10,
+            "question": "If two arcs of a circle (or congruent circles) are congruent then the corresponding chord are equal. Prove it."
+          },
+          {
+            "number": 11,
+            "question": "The central angle of a minor arc is double in measure of the inscribed angle of the corresponding major arc. Prove it. OR Find the standard deviation (S.D.) of the marks of students which are 90, 30, 85, 50, 25."
+          }
+        ]
+      },
+      {
+        "name": "SECTION C - Detailed Answer Question",
+        "marks": 30,
+        "instructions": [
+          "Attempt any THREE(03) questions from this Section.",
+          "All questions carry equal marks."
+        ],
+        "questions": [
+          {
+            "number": 12,
+            "question": "Find the inverse of the matrix A = [[1, 0, 1], [-4, 1, -1], [6, -2, 1]] by adjoint method."
+          },
+          {
+            "number": 13,
+            "question": "In a right angled triangle, the square of the length of hypotenuse is equal to sum of the squares of the length of the other two sides. Prove it"
+          },
+          {
+            "number": 14,
+            "question": "If a line segment intersects the two sides of a triangle in the same ratio then it is parallel to the third side. Prove it."
+          },
+          {
+            "number": 15,
+            "question": "Draw two unequal circle of rail 3.4 cm and 2.1cm with centres A and B respectively such that mAB = 7.5cm. Draw direct common tangents to these circles (Also write steps of construction)."
+          },
+          {
+            "number": 16,
+            "question": "If two circles touch internally, the distance between their centres is equal to the difference of their radii. Prove it. OR If a line is drawn perpendicular to a radial segment of a circle at its outer end point, it is tangent to the circle at that point. Prove it."
+          }
+        ]
+      }
+    ]
+  }
+}

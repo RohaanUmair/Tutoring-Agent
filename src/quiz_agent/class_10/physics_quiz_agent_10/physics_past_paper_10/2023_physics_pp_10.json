@@ -1,0 +1,195 @@
+{
+  "exam": {
+    "subject": "PHYSICS",
+    "year": 2023,
+    "maxMarks": 60,
+    "time": "3 Hour",
+    "sections": [
+      {
+        "name": "SECTION A - MULTIPLE CHOICE QUESTIONS (MCQs)",
+        "marks": 12,
+        "instructions": [
+          "Attempt all the Questions of this Section.",
+          "Do not copy down the part questions. Write only the answer against the proper number of the Question and its part according to the question Paper.",
+          "Each question carries 1 Mark"
+        ],
+        "questions": [
+          {
+            "number": 1,
+            "parts": [
+              {
+                "part": "1",
+                "question": "These type of waves cannot travel through a vacuum:",
+                "options": ["Sound waves", "Infrared waves", "Microwaves", "X-rays"],
+                "correctAnswer": "Sound waves"
+              },
+              {
+                "part": "2",
+                "question": "The main source of energy in the stars is:",
+                "options": ["chemical reaction", "nuclear fission", "nuclear fusion", "Mechanical energy"],
+                "correctAnswer": "nuclear fusion"
+              },
+              {
+                "part": "3",
+                "question": "The turns ratio of a transformer is 10, it means:",
+                "options": ["I_S = 10I_P", "N_P = 10N_S", "N_S = 10N_P", "v_S = v_p"],
+                "correctAnswer": "N_S = 10N_P"
+              },
+              {
+                "part": "4",
+                "question": "The Boolean expression of an AND gate is:",
+                "options": ["A.B", "A+B", "A × B", "None of these"],
+                "correctAnswer": "A.B"
+              },
+              {
+                "part": "5",
+                "question": "Branch of Physics which deals with the charges at rest is called:",
+                "options": ["Electricity", "Electrostatic", "Quantum", "Magnetism"],
+                "correctAnswer": "Electrostatic"
+              },
+              {
+                "part": "6",
+                "question": "ICT stands for:",
+                "options": [
+                  "Interfacing computer Theories",
+                  "Integrated Circular Technology",
+                  "Intensive Computer Techniques",
+                  "Information and Communications Technology"
+                ],
+                "correctAnswer": "Information and Communications Technology"
+              },
+              {
+                "part": "7",
+                "question": "V²/R is the formula to find:",
+                "options": ["current", "power", "energy", "charge"],
+                "correctAnswer": "power"
+              },
+              {
+                "part": "8",
+                "question": "The presences of dielectric between the plates of capacitors the capacitance of capacitor:",
+                "options": ["test on constant", "decrease", "increase", "pre-meandearned"],
+                "correctAnswer": "increase"
+              },
+              {
+                "part": "9",
+                "question": "The focal length of convex lens is 20 cm. The power of lens is:",
+                "options": ["4 diopter", "5 diopter", "10 diopter", "none of these"],
+                "correctAnswer": "5 diopter"
+              },
+              {
+                "part": "10",
+                "question": "The colour that least deviated by a prism is:",
+                "options": ["yellow", "green", "red", "violet"],
+                "correctAnswer": "red"
+              },
+              {
+                "part": "11",
+                "question": "Oscillations are damped due to the presence of:",
+                "options": ["Linear motion", "Restoring force", "Fractional force", "Mechanical force"],
+                "correctAnswer": "Fractional force"
+              },
+              {
+                "part": "12",
+                "question": "Consider isotope 92U²³⁵ of Uranium. The number of neutrons in it is:",
+                "options": ["92", "143", "145", "235"],
+                "correctAnswer": "143"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "SECTION B - Short Answer Questions",
+        "marks": 24,
+        "instructions": [
+          "Answer any EIGHT questions from this section.",
+          "All questions carry equal marks."
+        ],
+        "questions": [
+          {
+            "number": 2,
+            "question": "Write down three characteristics of electromagnetic waves."
+          },
+          {
+            "number": 3,
+            "question": "Write one use of each of the following devices: (i)RADAR (ii)SONAR (iii) LIDAR"
+          },
+          {
+            "number": 4,
+            "question": "Define wave length and derive formula λ = V × T"
+          },
+          {
+            "number": 5,
+            "question": "Explain with diagram. How to change the magnetic field which causes induced emf in a circuit."
+          },
+          {
+            "number": 6,
+            "question": "Define thermionic emission. How emission take place in tungsten filament?"
+          },
+          {
+            "number": 7,
+            "question": "State the heat dissipation law and derive the equation: H = I²Rt"
+          },
+          {
+            "number": 8,
+            "question": "The wave moving in the pond have a water length 1.6m, and frequency of 0.80Hz. Calculate the speed of these water wave"
+          },
+          {
+            "number": 9,
+            "question": "Calculate the speed of sound in air at 30°C. Given that speed of sound at 0°C is 331ms⁻¹."
+          },
+          {
+            "number": 10,
+            "question": "A convex mirror used for rear view on a automobile has a radius of curvature 4.00m. If a bus is located at 5.00 m from the mirror. Find the image position and nature."
+          },
+          {
+            "number": 11,
+            "question": "Two point charges q₁ = 5μc and q₂ = 3μc are placed at : distance of 5cm. What will be the Coulomb's force between them?"
+          },
+          {
+            "number": 12,
+            "question": "Ruby laser emits the beam of red light having a wave length 694.3 nm. Calculate its frequency."
+          },
+          {
+            "number": 13,
+            "question": "A transformer is needed to convert a main supply 220V supply into a 12V supply. If there are 2200 turns on the primary coil, then find the turns on the secondary coil."
+          }
+        ]
+      },
+      {
+        "name": "SECTION C - Detailed Answer Question",
+        "marks": 24,
+        "instructions": [
+          "Attempt any FOUR questions from this Section.",
+          "Each question carries (Six) 6 marks."
+        ],
+        "questions": [
+          {
+            "number": 14,
+            "question": "What are short sightedness and long sightedness? How can these defects be corrected with the help of ray diagrams?"
+          },
+          {
+            "number": 15,
+            "question": "Write Geiger and Morsden α-scattering experiment and its results in detail."
+          },
+          {
+            "number": 16,
+            "question": "What is information technology? Also describe five components of computer based on information system."
+          },
+          {
+            "number": 17,
+            "question": "State Coulomb's law and derive the equation: F = (1/4πε₀)(q₁q₂/r²)"
+          },
+          {
+            "number": 18,
+            "question": "Define fission and fusion reactions, with their equations, Explain fission chain reaction with the help of diagram."
+          },
+          {
+            "number": 19,
+            "question": "With the help of circuit diagram derive the formula for equivalent resistance of parallel combination of circuit. Also write three advantages of series combination."
+          }
+        ]
+      }
+    ]
+  }
+}

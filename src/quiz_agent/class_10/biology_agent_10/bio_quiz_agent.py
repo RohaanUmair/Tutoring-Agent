@@ -6,31 +6,7 @@ from agents import Agent, Runner
 from Config.config import config
 import asyncio
 
-# @function_tool
-# def load_past_papers():
-#     """Load past exam papers from JSON files."""
-#     base_dir = os.path.dirname(os.path.abspath(__file__))
-#     papers_dir = os.path.join(base_dir, "english_past_paper") 
 
-    # files = [
-    #     "english_2022_pp.json",
-    #     "english_2023_pp.json", 
-    #     "english_2024_pp.json"
-    # ]
-
-#     papers = []
-#     for file in files:
-#         file_path = os.path.join(papers_dir, file)
-#         try:
-#             with open(file_path, "r", encoding="utf-8") as f:
-#                 papers.append(json.load(f))
-#             print(f"Successfully loaded: {file}")
-#         except FileNotFoundError:
-#             print(f"File not found: {file_path}")
-#         except Exception as e:
-#             print(f"Error loading {file}: {e}")
-    
-#     return papers
 
 @function_tool
 def load_past_papers():
@@ -227,7 +203,7 @@ Exam paper made by **Tutoring AI**
 
 
 biology_quiz_agent = Agent(
-    name="Biology Quiz Master Agent",
+    name="class 10 Biology  Quiz Master Agent",
     instructions=AGENT_INSTRUCTIONS,
     tools=[load_past_papers]
 )

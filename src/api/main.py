@@ -31,10 +31,11 @@ else:
     print(f"Warning: Static path not found: {static_path}")
 
 # Import routes
-from api.routes import voice_routes, agent_routes
+from api.routes import voice_routes, agent_routes, quiz_routes
 
 app.include_router(voice_routes.router, prefix="/api/voice", tags=["voice"])
 app.include_router(agent_routes.router, prefix="/api/agent", tags=["agent"])
+app.include_router(quiz_routes.router, prefix="/api/quiz", tags=["quiz"])  # Add this line
 
 # Serve main page
 @app.get("/", response_class=HTMLResponse)

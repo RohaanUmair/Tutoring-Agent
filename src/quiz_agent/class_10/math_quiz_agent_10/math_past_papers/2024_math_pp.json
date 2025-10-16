@@ -1,0 +1,196 @@
+{
+  "exam": {
+    "subject": "MATHEMATICS",
+    "year": 2024,
+    "maxMarks": 75,
+    "time": "3 Hour",
+    "sections": [
+      {
+        "name": "SECTION A - MULTIPLE CHOICE QUESTIONS (MCQs)",
+        "marks": 15,
+        "instructions": [
+          "Attempt all the Questions of this Section.",
+          "Do not copy down the part questions. Write only the answer against the proper number of the Question and its part according to the question Paper.",
+          "Each question carries 1 Mark"
+        ],
+        "questions": [
+          {
+            "number": 1,
+            "parts": [
+              {
+                "part": "(i)",
+                "question": "It is not a commutative operation",
+                "options": ["Difference", "Union", "Intersection", "Symmetric difference"],
+                "correctAnswer": "Difference"
+              },
+              {
+                "part": "(ii)",
+                "question": "If O(A × B) = 100 and O(B) = 5 then O(A) =:",
+                "options": ["10", "15", "20", "25"],
+                "correctAnswer": "20"
+              },
+              {
+                "part": "(iii)",
+                "question": "If the determinate of a matrix is zero, is called:",
+                "options": ["Singular matrix", "Non-Singular matrix", "Unit matrix", "Diagonal matrix"],
+                "correctAnswer": "Singular matrix"
+              },
+              {
+                "part": "(iv)",
+                "question": "The symbol of similarity of triangles is:",
+                "options": ["=", "≡", "∼", "↔"],
+                "correctAnswer": "∼"
+              },
+              {
+                "part": "(v)",
+                "question": "If 1, 9, x and 45 are in proportion, then x =:",
+                "options": ["27", "1/5", "5", "45"],
+                "correctAnswer": "5"
+              },
+              {
+                "part": "(vi)",
+                "question": "If a:b = c:d then according to alternando property:",
+                "options": ["a/b = c/d", "(a+b)/b = (c+d)/c", "b/a = d/c", "a/c = b/d"],
+                "correctAnswer": "a/c = b/d"
+              },
+              {
+                "part": "(vii)",
+                "question": "If p and q are the roots of 2x² + 5x + 3 = 0 then p + q =:",
+                "options": ["5/3", "3/5", "5/2", "-5/2"],
+                "correctAnswer": "-5/2"
+              },
+              {
+                "part": "(viii)",
+                "question": "The inscribed angle of minor arc of a circle is:",
+                "options": ["acute angle", "right angle", "obtuse angle", "reflex angle"],
+                "correctAnswer": "acute angle"
+              },
+              {
+                "part": "(ix)",
+                "question": "An improper fraction can be reduced into proper fraction by:",
+                "options": ["addition", "multiplication", "subtraction", "division"],
+                "correctAnswer": "division"
+              },
+              {
+                "part": "(x)",
+                "question": "ω² + ω =:",
+                "options": ["0", "1", "-1", "none of these"],
+                "correctAnswer": "-1"
+              },
+              {
+                "part": "(xi)",
+                "question": "The standard deviation is the positive square root of:",
+                "options": ["Median", "Mode", "Variance", "None of these"],
+                "correctAnswer": "Variance"
+              },
+              {
+                "part": "(xii)",
+                "question": "In a right angled triangle, the greatest angle is:",
+                "options": ["45°", "90°", "80°", "110°"],
+                "correctAnswer": "90°"
+              },
+              {
+                "part": "(xiii)",
+                "question": "cosec²θ - 1 =:",
+                "options": ["sin²θ", "sec²θ", "sin²θ", "cot²θ"],
+                "correctAnswer": "cot²θ"
+              },
+              {
+                "part": "(xiv)",
+                "question": "Angle between the radial segment and tangent at its outer end point is:",
+                "options": ["45°", "60°", "90°", "120°"],
+                "correctAnswer": "90°"
+              },
+              {
+                "part": "(xv)",
+                "question": "In a right angled triangle, the opposite side of 90° is called:",
+                "options": ["Base", "Perpendicular", "Hypotenuse", "none of these"],
+                "correctAnswer": "Hypotenuse"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "SECTION B - Short Answer Questions",
+        "marks": 30,
+        "instructions": [
+          "Answer any SIX (06) questions from this section.",
+          "All questions carry equal marks."
+        ],
+        "questions": [
+          {
+            "number": 2,
+            "question": "If A = {1, 2, 3, 4, 5, 6}, B = {2, 4, 6, 8, 10} and U = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12} Prove that (A ∩ B)' = A' ∪ B'"
+          },
+          {
+            "number": 3,
+            "question": "Solve the equation by using componendo-dividendo theorem: [(x + 3)² + (x - 1)²]/[(x + 3)² - (x - 1)²] = 5/4"
+          },
+          {
+            "number": 4,
+            "question": "Find the remaining trigonometric function if sinθ = √3/2 and θ lies in second quadrant."
+          },
+          {
+            "number": 5,
+            "question": "Find all the cube roots of -125"
+          },
+          {
+            "number": 6,
+            "question": "Resolve into partial fractions: (4x - 3)/(x + 1)²"
+          },
+          {
+            "number": 7,
+            "question": "The following data show number of devices resulting in observation values in appropriate ranges. Find the Harmonic Mean (H.M.)"
+          },
+          {
+            "number": 8,
+            "question": "Prove that sin²θ = tan²θ/(1 + tan²θ)"
+          },
+          {
+            "number": 9,
+            "question": "A straight line, drawn from the centre of a circle to bisect a chord (which is not a diameter) is perpendicular to the chord. Prove it"
+          },
+          {
+            "number": 10,
+            "question": "If two chords of a circle (or of congruent circles) are equal, then their corresponding arcs (minor, major, semi-circle) are congruent. Prove it."
+          },
+          {
+            "number": 11,
+            "question": "Any two angles in the same segments of a circle are equal. Prove it OR Find the mean deviation of the marks of students which are 4, 7, 12, 76, 48, 4, 51."
+          }
+        ]
+      },
+      {
+        "name": "SECTION C - Detailed Answer Question",
+        "marks": 30,
+        "instructions": [
+          "Attempt any THREE(03) questions from this Section.",
+          "All questions carry equal marks."
+        ],
+        "questions": [
+          {
+            "number": 12,
+            "question": "Find the inverse of the matrix A = [[2, 1, 1], [3, 2, 1], [2, 1, 2]] by adjoint method"
+          },
+          {
+            "number": 13,
+            "question": "A line parallel to one side of a triangle and intersecting the other two sides, divides them proportionally. Prove it."
+          },
+          {
+            "number": 14,
+            "question": "If a square of one side of triangle is equal to the sum of the squares of the other two sides, then the triangles a right angled triangle. Prove that."
+          },
+          {
+            "number": 15,
+            "question": "Draw the circumcircle of ΔABC in which mAB = 5.5cm; mAC = 6cm and m∠A = 60° (Also write steps of construction)"
+          },
+          {
+            "number": 16,
+            "question": "If two circles touch externally, the distance between their centres is equal to the sum of their radii. Prove it. OR If a line is drawn perpendicular to a radial segment of a circle at its outer end point, it is tangent to the circle at that point. Prove it."
+          }
+        ]
+      }
+    ]
+  }
+}

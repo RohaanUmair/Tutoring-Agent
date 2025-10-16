@@ -1,0 +1,188 @@
+{
+  "biology_papers": [
+    {
+      "year": 2023,
+      "subject": "Biology",
+      "class": "X (Science Group)",
+      "max_marks": 60,
+      "time": "3 Hours",
+      "sections": [
+        {
+          "name": "Section A - Multiple Choice Questions",
+          "marks": 12,
+          "instructions": [
+            "Attempt all the Questions of this Section",
+            "Do not copy down the part questions. Write only the answer against the proper number of the Question and its part according to the question Paper",
+            "Each question carries 1 Mark"
+          ],
+          "questions": [
+            {
+              "number": 1,
+              "question": "The 3N zygote in angiosperm develop into:",
+              "options": ["Seed Coat", "Cotyledon", "Embryo", "Endosperm"],
+              "correct_answer": "Endosperm"
+            },
+            {
+              "number": 2,
+              "question": "The muscle which is responsible to straighten the limb:",
+              "options": ["Ligament", "Skeleton muscle", "Flexor", "Extensor"],
+              "correct_answer": "Extensor"
+            },
+            {
+              "number": 3,
+              "question": "The genetic constitution of a trait is called:",
+              "options": ["Genotype", "Phenotype", "Genome", "Phenyl"],
+              "correct_answer": "Genotype"
+            },
+            {
+              "number": 4,
+              "question": "Respiratory surface processes following properties:",
+              "options": ["Thin and wet", "Permeable", "Very large", "All of these"],
+              "correct_answer": "All of these"
+            },
+            {
+              "number": 5,
+              "question": "Removal of extra liquid water is:",
+              "options": ["Exudation", "Guttation", "Respiration"],
+              "correct_answer": "Guttation"
+            },
+            {
+              "number": 6,
+              "question": "The chemical material of a chromosome is called:",
+              "options": ["Chromatin", "Chromeres", "Chromatica"],
+              "correct_answer": "Chromatin"
+            },
+            {
+              "number": 7,
+              "question": "The cold war between the organisms of a community occupying the same habitat is called:",
+              "options": ["Predation", "Competition", "Mutualism", "Commensalism"],
+              "correct_answer": "Competition"
+            },
+            {
+              "number": 8,
+              "question": "The biological function which perform gaseous exchange:",
+              "options": ["Photosynthesis", "Respiration", "Growth", "All of these"],
+              "correct_answer": "Respiration"
+            },
+            {
+              "number": 9,
+              "question": "Stimulus is detected by:",
+              "options": ["Receptor", "Effector", "Nerves", "All of these"],
+              "correct_answer": "Receptor"
+            },
+            {
+              "number": 10,
+              "question": "Drugs that slow normal brain functioning are categorized as:",
+              "options": ["Narcotics", "Hallucinogen", "Marijuana", "Sedatives"],
+              "correct_answer": "Sedatives"
+            },
+            {
+              "number": 11,
+              "question": "The shortest path of reflex action consists of:",
+              "options": ["1 neuron", "2 neuron", "3 neuron", "Many neuron"],
+              "correct_answer": "2 neuron"
+            },
+            {
+              "number": 12,
+              "question": "Most the living things use Oxygen to produce:",
+              "options": ["ATP", "Alcohol", "Organic acid", "Ecological pyramid"],
+              "correct_answer": "ATP"
+            }
+          ]
+        },
+        {
+          "name": "Section B - Short Answer Questions",
+          "marks": 24,
+          "instructions": [
+            "Answer any EIGHT questions from this section",
+            "Each question carries THREE (03) Marks"
+          ],
+          "questions": [
+            {
+              "number": 2,
+              "question": "Define the following: (i) Filtration (ii) Binary Fission (iii) Evolution"
+            },
+            {
+              "number": 3,
+              "question": "Write three causes of variation."
+            },
+            {
+              "number": 4,
+              "question": "Write three differences between chemical and nervous co-ordination."
+            },
+            {
+              "number": 5,
+              "question": "Define excretion in animals. Name the excretory organ of any three animals."
+            },
+            {
+              "number": 6,
+              "question": "Draw a neat and labelled diagram of human eye."
+            },
+            {
+              "number": 7,
+              "question": "What are addictive drugs? Write any three names."
+            },
+            {
+              "number": 8,
+              "question": "Write down any three uses of fermentation."
+            },
+            {
+              "number": 9,
+              "question": "Write down three methods to control air pollution."
+            },
+            {
+              "number": 10,
+              "question": "Write down three functions of skeleton."
+            },
+            {
+              "number": 11,
+              "question": "Write down three uses of genetic engineering."
+            },
+            {
+              "number": 12,
+              "question": "Draw a neat and labelled diagram of ovule."
+            },
+            {
+              "number": 13,
+              "question": "Describe briefly the structure of DNA."
+            }
+          ]
+        },
+        {
+          "name": "Section C - Detailed Answer Questions",
+          "marks": 24,
+          "instructions": [
+            "Attempt any FOUR questions from this Section",
+            "Each question carries SIX (06) marks"
+          ],
+          "questions": [
+            {
+              "number": 14,
+              "question": "Draw a neat and labelled diagram of respiratory system of human."
+            },
+            {
+              "number": 15,
+              "question": "Define ecosystem. Describe its biotic components and their types."
+            },
+            {
+              "number": 16,
+              "question": "Define pollution and its types. Write down importance of pollution."
+            },
+            {
+              "number": 17,
+              "question": "Define endocrine system. Write down name of three endocrine glands with one secretion of each."
+            },
+            {
+              "number": 18,
+              "question": "Write down names of disorders of kidney. Explain any two from them."
+            },
+            {
+              "number": 19,
+              "question": "Describe types of asexual reproduction in animals."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

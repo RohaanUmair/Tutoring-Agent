@@ -1,0 +1,190 @@
+{
+  "exam": {
+    "subject": "CHEMISTRY",
+    "year": 2023,
+    "maxMarks": 60,
+    "time": "3 Hour",
+    "sections": [
+      {
+        "name": "SECTION A - MULTIPLE CHOICE QUESTIONS (MCQs)",
+        "marks": 12,
+        "instructions": [
+          "Attempt all the Questions of this Section.",
+          "Do not copy down the part questions. Write only the answer against the proper number of the Question and its part according to the question Paper.",
+          "Each question carries 1 Mark"
+        ],
+        "questions": [
+          {
+            "number": 1,
+            "parts": [
+              {
+                "part": "1",
+                "question": "The system will be stable in equilibrium when:",
+                "options": ["Kc = Qc", "Kc < Qc", "Kc > Qc", "none of these"],
+                "correctAnswer": "Kc = Qc"
+              },
+              {
+                "part": "2",
+                "question": "Corrosive effects on skin is caused by:",
+                "options": ["acid", "base", "salt", "all of these"],
+                "correctAnswer": "acid"
+              },
+              {
+                "part": "3",
+                "question": "If pH value is greater than 7, then solution will be:",
+                "options": ["Acidic", "Basic", "Natural", "Amphoteric"],
+                "correctAnswer": "Basic"
+              },
+              {
+                "part": "4",
+                "question": "The functional group -COOH is used for:",
+                "options": ["Alkyne", "Alcohol", "Phenol", "Carboxylic acid"],
+                "correctAnswer": "Carboxylic acid"
+              },
+              {
+                "part": "5",
+                "question": "The branch of Chemistry which deals with the hydrocarbon and their derivatives, is known as:",
+                "options": ["Organic Chemistry", "Inorganic Chemistry", "Bio Chemistry", "Physical Chemistry"],
+                "correctAnswer": "Organic Chemistry"
+              },
+              {
+                "part": "6",
+                "question": "Glucose is:",
+                "options": ["vitamin", "protein", "lipid", "carbohydrate"],
+                "correctAnswer": "carbohydrate"
+              },
+              {
+                "part": "7",
+                "question": "Amino acids are building block of:",
+                "options": ["nucleic acid", "protein", "vitamin", "lipids"],
+                "correctAnswer": "protein"
+              },
+              {
+                "part": "8",
+                "question": "The centrifuge machine is used for the separation of:",
+                "options": ["juice", "pH", "mud", "crystal"],
+                "correctAnswer": "crystal"
+              },
+              {
+                "part": "9",
+                "question": "The altitude of stratosphere is:",
+                "options": ["40 to 45 km", "50 to 55 km", "60 to 65 km", "70 to 75 km"],
+                "correctAnswer": "50 to 55 km"
+              },
+              {
+                "part": "10",
+                "question": "Ozone is a gas that is found in the layer of:",
+                "options": ["Troposphere", "Mesosphere", "Stratosphere", "Exosphere"],
+                "correctAnswer": "Stratosphere"
+              },
+              {
+                "part": "11",
+                "question": "Fresh water is present on the surface of earth:",
+                "options": ["0.3%", "3%", "0.2%", "2%"],
+                "correctAnswer": "3%"
+              },
+              {
+                "part": "12",
+                "question": "The citric acid is used in the preparation of cold drinks for",
+                "options": ["sweet taste", "bitter taste", "sour taste", "salty taste"],
+                "correctAnswer": "sour taste"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "SECTION B - Short Answer Questions",
+        "marks": 24,
+        "instructions": [
+          "Answer any EIGHT questions from this section.",
+          "Each question carries 3 marks."
+        ],
+        "questions": [
+          {
+            "number": 2,
+            "question": "Write a few points about society, technology & science."
+          },
+          {
+            "number": 3,
+            "question": "The value of Kc for the reaction is 1 × 10⁻⁴: 2HI(g) = H₂(g) + I₂(g). At a given temperature, the molar concentration of reaction mixture is: HI = 2 × 10⁻⁵ mol.dm⁻³, H₂ = 1 × 10⁻⁵ mol.dm⁻³ and I₂ = 1 × 10⁻⁵ mol.dm⁻³. Predict the direction of the reaction."
+          },
+          {
+            "number": 4,
+            "question": "What are the limitations of Arrhenius's Theory."
+          },
+          {
+            "number": 5,
+            "question": "Write three uses of salts."
+          },
+          {
+            "number": 6,
+            "question": "Find pH, pOH, [OH⁻] and [H⁺] of 2.46 × 10⁻⁹ M KOH solution."
+          },
+          {
+            "number": 7,
+            "question": "What do you mean by Vital Force Theory?"
+          },
+          {
+            "number": 8,
+            "question": "Write down the molecular, structural and condensed formulae of the following compounds: (i) Methane (ii) Ethane (iii) Propane"
+          },
+          {
+            "number": 9,
+            "question": "Define the following: (i) Aldose (ii) Ketose (iii) Saccharides"
+          },
+          {
+            "number": 10,
+            "question": "Elaborate Amino acids as monomers or building block of protein."
+          },
+          {
+            "number": 11,
+            "question": "How can we remove temporary hardness of water by Clark's method."
+          },
+          {
+            "number": 12,
+            "question": "Write three characteristics of equilibrium constant Kc."
+          },
+          {
+            "number": 13,
+            "question": "Give reason of the following: (i) Petroleum is 'Black Gold' (ii) Alkanes said to be saturated Hydrocarbons."
+          }
+        ]
+      },
+      {
+        "name": "SECTION C - Detailed Answer Question",
+        "marks": 24,
+        "instructions": [
+          "Attempt any FOUR questions from this Section.",
+          "Each question carries (Six) 6 marks."
+        ],
+        "questions": [
+          {
+            "number": 14,
+            "question": "Explain the process of sugar preparation from sugarcane."
+          },
+          {
+            "number": 15,
+            "question": "What is high performance liquid chromatography (HPLC)? Explain it."
+          },
+          {
+            "number": 16,
+            "question": "Distinguish between fat soluble and water soluble vitamin."
+          },
+          {
+            "number": 17,
+            "question": "Differentiate between saturated and unsaturated hydrocarbons."
+          },
+          {
+            "number": 18,
+            "question": "Define buffers. What is its composition? How are these utilized?"
+          },
+          {
+            "number": 19,
+            "question": "Describe Global warming."
+          }
+        ]
+      }
+    ]
+  }
+}

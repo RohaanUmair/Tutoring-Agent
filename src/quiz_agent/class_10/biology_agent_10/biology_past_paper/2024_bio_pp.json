@@ -1,0 +1,189 @@
+{
+  "biology_papers": [
+    {
+      "year": 2024,
+      "subject": "Biology",
+      "class": "X (Science Group)",
+      "board": "Sindh Board",
+      "max_marks": 60,
+      "time": "3 Hours",
+      "sections": [
+        {
+          "name": "Section A - Multiple Choice Questions",
+          "marks": 12,
+          "instructions": [
+            "Attempt all the Questions of this Section",
+            "Do not copy down the part questions. Write only the answer against the proper number of the Question and its part according to the question Paper",
+            "Each question carries 1 Mark"
+          ],
+          "questions": [
+            {
+              "number": 1,
+              "question": "The respiratory surface of human is:",
+              "options": ["Nostril", "Bronchiole", "Alveoli", "Trachea"],
+              "correct_answer": "Alveoli"
+            },
+            {
+              "number": 2,
+              "question": "The network of blood capillaries presents in this layer of skin:",
+              "options": ["Epidermis", "Dermis", "Hypodermis", "Endodermis"],
+              "correct_answer": "Dermis"
+            },
+            {
+              "number": 3,
+              "question": "Stimulus is detected by:",
+              "options": ["Receptor", "Effector", "Nerves", "All of these"],
+              "correct_answer": "Receptor"
+            },
+            {
+              "number": 4,
+              "question": "Softening and weakening of bone in children due to deficiency of Vitamin D, is called:",
+              "options": ["Osteoporosis", "Osteoarthritis", "Rickets", "Rheumatic fever"],
+              "correct_answer": "Rickets"
+            },
+            {
+              "number": 5,
+              "question": "The 3N zygote in angiosperm develops into:",
+              "options": ["Seed Coat", "Cotyledon", "Embryo", "Endosperm"],
+              "correct_answer": "Endosperm"
+            },
+            {
+              "number": 6,
+              "question": "The chemical material of a chromosome is called:",
+              "options": ["Cromatids", "Chromeres", "Chromonema", "Chromatin"],
+              "correct_answer": "Chromatin"
+            },
+            {
+              "number": 7,
+              "question": "The group of organisms belong to the same species living in a particular area is called:",
+              "options": ["Community", "Species", "Genes", "Population"],
+              "correct_answer": "Population"
+            },
+            {
+              "number": 8,
+              "question": "The study of complete graph of human genome is called:",
+              "options": ["PCR", "HGP", "Medicines", "Soma-Clonal"],
+              "correct_answer": "HGP"
+            },
+            {
+              "number": 9,
+              "question": "Medicine for the treatment of Rheumatoid arthritis is obtained from:",
+              "options": ["Animals", "Minerals", "Plants", "Microorganism"],
+              "correct_answer": "Minerals"
+            },
+            {
+              "number": 10,
+              "question": "Increase in rate of breathing is due to:",
+              "options": ["increase CO₂ in blood", "increase O₂ in blood", "decrease CO₂ in blood", "decrease O₂ in blood"],
+              "correct_answer": "increase CO₂ in blood"
+            },
+            {
+              "number": 11,
+              "question": "The way of seed production without fusion of male and female gametes is called:",
+              "options": ["Parthenocarpy", "Apomixes", "Grafting", "Scion"],
+              "correct_answer": "Apomixes"
+            },
+            {
+              "number": 12,
+              "question": "The book \"Kitab ul Manazir\" is written by:",
+              "options": ["Jabir Bin Hayan", "Ibn-ul-Haitham", "Ali Bin Isa", "Bu-Ali-Sina"],
+              "correct_answer": "Ibn-ul-Haitham"
+            }
+          ]
+        },
+        {
+          "name": "Section B - Short Answer Questions",
+          "marks": 24,
+          "instructions": [
+            "Answer any EIGHT questions from this section",
+            "Each question carries THREE (03) Marks"
+          ],
+          "questions": [
+            {
+              "number": 2,
+              "question": "Why is smoking dangerous for health? And how is it related with respiratory disorders?"
+            },
+            {
+              "number": 3,
+              "question": "What is Epilepsy?"
+            },
+            {
+              "number": 4,
+              "question": "Write three differences between bone and cartilage."
+            },
+            {
+              "number": 5,
+              "question": "Describe any three functions of joint."
+            },
+            {
+              "number": 6,
+              "question": "Describe variation and explain any two causes of it."
+            },
+            {
+              "number": 7,
+              "question": "What is pollution? How can water pollution be controlled?"
+            },
+            {
+              "number": 8,
+              "question": "Describe any three terms from the following: (i) Allele (ii) Dominant Allele (iii) Homologous chromosomes (iv) Recessive Allele"
+            },
+            {
+              "number": 9,
+              "question": "Write note on acid rain."
+            },
+            {
+              "number": 10,
+              "question": "Describe briefly the structure of DNA."
+            },
+            {
+              "number": 11,
+              "question": "Draw a neat and labelled diagram of Ovule."
+            },
+            {
+              "number": 12,
+              "question": "What are xerophytes plants?"
+            },
+            {
+              "number": 13,
+              "question": "How vaccine works against pathogen?"
+            }
+          ]
+        },
+        {
+          "name": "Section C - Detailed Answer Questions",
+          "marks": 24,
+          "instructions": [
+            "Attempt any FOUR questions from this Section",
+            "Each question carries SIX (06) marks"
+          ],
+          "questions": [
+            {
+              "number": 14,
+              "question": "What are addictive drugs? Explain any two of them."
+            },
+            {
+              "number": 15,
+              "question": "Draw a neat and labelled diagram of human Kidney or Nephron."
+            },
+            {
+              "number": 16,
+              "question": "Describe the structure and functions of human Ear or Eye."
+            },
+            {
+              "number": 17,
+              "question": "Define Bio-technology. Explain its role in medicine and agriculture."
+            },
+            {
+              "number": 18,
+              "question": "Define Endocrine gland. Describe enzymes secreted from pituitary and thyroid gland."
+            },
+            {
+              "number": 19,
+              "question": "What is meant by sexual and asexual reproduction? Describe any five differences."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

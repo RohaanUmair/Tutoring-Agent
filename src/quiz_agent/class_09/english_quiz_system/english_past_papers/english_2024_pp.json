@@ -1,0 +1,391 @@
+{
+  "year": 2024,
+  "subject": "english",
+  "class": "ix",
+  "group": "science",
+  "total_time": "3 Hours",
+  "total_marks": 100,
+  "sections": {
+    "A": {
+      "section_title": "MULTIPLE CHOICE QUESTIONS (M.C.Qs)",
+      "marks": 20,
+      "instructions": "(i) Attempt all the questions of this Section. (ii) Do not copy down the part questions. Write only the answer against the proper number of the question and its part according to the question paper. (iii) Each question carries 1 mark.",
+      "questions": [
+        {
+          "question_number": 1,
+          "question_text": "Choose an appropriate answer from the options provided.",
+          "sub_questions": [
+            {
+              "sub_number": "(i)",
+              "question_text": "The Holy Prophet 🌟 migrated from Makkāā and entered Yathrib on:",
+              "options": ["25th June 622", "02nd July 622", "28th June 622", "15th July 622"],
+              "correct_answer": "02nd July 622"
+            },
+            {
+              "sub_number": "(ii)",
+              "question_text": "Type of deugue viruses are:",
+              "options": ["Four", "Three", "Two", "Six"],
+              "correct_answer": "Four"
+            },
+            {
+              "sub_number": "(iii)",
+              "question_text": "\"You are free to go you temple. Mosque and any other place of worship.\" The Quaid-e-Azam declared it on:",
+              "options": ["14th August, 1947", "11th August, 1947", "12th August, 1947", "13th August, 1947"],
+              "correct_answer": "11th August, 1947"
+            },
+            {
+              "sub_number": "(iv)",
+              "question_text": "Hazrat Shah Abdul Latif Bhitai died in:",
+              "options": ["1725", "1752", "1755", "1640"],
+              "correct_answer": "1752"
+            },
+            {
+              "sub_number": "(v)",
+              "question_text": "Moen-jo-Daro is situated at a distance of 27 kilometers form:",
+              "options": ["Hyderabad", "Schwan", "Larkana", "Khairpur"],
+              "correct_answer": "Larkana"
+            },
+            {
+              "sub_number": "(vi)",
+              "question_text": "The village well is the center of all the activates of:",
+              "options": ["men", "women", "children", "travelers"],
+              "correct_answer": "women"
+            },
+            {
+              "sub_number": "(vii)",
+              "question_text": "Animals sleep or slow down their activates in",
+              "options": ["The Summer", "The Spring", "The Autumn", "The Winter"],
+              "correct_answer": "The Winter"
+            },
+            {
+              "sub_number": "(viii)",
+              "question_text": "Allama Iqbal was awarded a Ph.D degree by Munich University in:",
+              "options": ["1906", "1908", "1910", "1918"],
+              "correct_answer": "1908"
+            },
+            {
+              "sub_number": "(ix)",
+              "question_text": "\"Our Holy Prophet 🌟 has said, that seeking knowledge is obligatory for every male and female.\" It is quoted by:",
+              "options": ["Jameel", "Sara", "Khalid", "Uncle Noor Ali"],
+              "correct_answer": "Khalid"
+            },
+            {
+              "sub_number": "(x)",
+              "question_text": "All mankind is from Adam and Adam was created from:",
+              "options": ["mud", "water", "stone", "dust"],
+              "correct_answer": "dust"
+            },
+            {
+              "sub_number": "(xi)",
+              "question_text": "Bilquis Edhi, a great philanthropist, was awarded:",
+              "options": ["The Hilal-e-imtiaz", "The Nishan-e-Haider", "The Sitara-e-Imtiaz", "The Sita-e-Jurrat"],
+              "correct_answer": "The Hilal-e-imtiaz"
+            },
+            {
+              "sub_number": "(xii)",
+              "question_text": "Hellen Keller, a wonderful lady, visited Pakistan in:",
+              "options": ["1946", "1952", "1956", "1966"],
+              "correct_answer": "1956"
+            },
+            {
+              "sub_number": "(xiii)",
+              "question_text": "The King went to see the saint:",
+              "options": ["All alone", "With all his soldiers", "Aong with his family", "With all his courtiers"],
+              "correct_answer": "All alone"
+            },
+            {
+              "sub_number": "(xiv)",
+              "question_text": "The poem \"A Child's Invocation\" is composed by:",
+              "options": ["Akbar Allahhabadi", "Allama Iqbal", "Shah Abdul Latif Bhitai", "Hafeez Jalandhari"],
+              "correct_answer": "Allama Iqbal"
+            },
+            {
+              "sub_number": "(xv)",
+              "question_text": "The Guddu Barrage was put into operation on:",
+              "options": ["3rd February 1965", "4th February 1964", "4th February 1962", "5th February 1963"],
+              "correct_answer": "4th February 1964"
+            },
+            {
+              "sub_number": "(xvi)",
+              "question_text": "The 'Urs' of Hazrat Shah Abdul Latif Bhitai is held at his shrine every year on:",
+              "options": ["14th Safar", "20th Safar", "22nd Safar", "25th Safar"],
+              "correct_answer": "14th Safar"
+            },
+            {
+              "sub_number": "(xvii)",
+              "question_text": "The Malaria parasite attacks the:",
+              "options": ["red blood cells", "White blood cells", "lungs", "kidney"],
+              "correct_answer": "red blood cells"
+            },
+            {
+              "sub_number": "(xviii)",
+              "question_text": "\"Siblings\" means:",
+              "options": ["father and mother", "brothers and sisters", "uncle and aunty", "usband and wife"],
+              "correct_answer": "brothers and sisters"
+            },
+            {
+              "sub_number": "(xix)",
+              "question_text": "If we pray to Allah whole heartedly, He listens, it is a conditionals sentence of:",
+              "options": ["type 0", "type 1", "type 2", "type 3"],
+              "correct_answer": "type 1"
+            },
+            {
+              "sub_number": "(xx)",
+              "question_text": "Sir John Marshall was a/an:",
+              "options": ["English civil servant", "American civil servant", "Russian civil servant", "Indian civil servant"],
+              "correct_answer": "English civil servant"
+            }
+          ]
+        }
+      ]
+    },
+    "B": {
+      "section_title": "SHORT ANSWER QUESTIONS",
+      "marks": 40,
+      "instructions": "Attempt all questions from this Section.",
+      "questions": [
+        {
+          "question_number": 2,
+          "question_text": "Answer any FIVE of the following questions in two to three sentences each:",
+          "sub_questions": [
+            {
+              "sub_number": "(i)",
+              "question_text": "What did the Holy Prophet # say before delivering his last sermon?"
+            },
+            {
+              "sub_number": "(ii)",
+              "question_text": "How is the 'Urs' of Shah Abdul Latif celebrated?"
+            },
+            {
+              "sub_number": "(iii)",
+              "question_text": "What lesson do we get from the story \"Chasing Dreams\"?"
+            },
+            {
+              "sub_number": "(iv)",
+              "question_text": "What are the common diseases caused by a mosquito bite?"
+            },
+            {
+              "sub_number": "(v)",
+              "question_text": "Name any four Muslims women who played on active role in the Pakistan Movement."
+            },
+            {
+              "sub_number": "(vi)",
+              "question_text": "Who was miller? Why was he happier than the King?"
+            },
+            {
+              "sub_number": "(vii)",
+              "question_text": "Why did the bearded man want to kill the King?"
+            }
+          ]
+        },
+        {
+          "question_number": 3,
+          "question_text": "Do as directed: (as instructed in the bracket)",
+          "sub_questions": [
+            {
+              "sub_number": "(i)",
+              "question_text": "(Use Article)",
+              "parts": [
+                {
+                  "part": "a",
+                  "question_text": "______ intelligent person always thinks before speaking."
+                },
+                {
+                  "part": "b",
+                  "question_text": "Her friend loves eating ______ arrange daily in the summer."
+                }
+              ]
+            },
+            {
+              "sub_number": "(ii)",
+              "question_text": "(Use Preposition)",
+              "parts": [
+                {
+                  "part": "a",
+                  "question_text": "I have been studing ______ 5'Oclock."
+                },
+                {
+                  "part": "b",
+                  "question_text": "What is the time ______ your watch?"
+                }
+              ]
+            },
+            {
+              "sub_number": "(iii)",
+              "question_text": "(Change the Voice)",
+              "parts": [
+                {
+                  "part": "a",
+                  "question_text": "He beats me with an stick."
+                },
+                {
+                  "part": "b",
+                  "question_text": "Obey your parents."
+                },
+                {
+                  "part": "c",
+                  "question_text": "Your new channel has been subscribed by us."
+                },
+                {
+                  "part": "d",
+                  "question_text": "She did not water the plants."
+                }
+              ]
+            },
+            {
+              "sub_number": "(iv)",
+              "question_text": "(Change the Narration)",
+              "parts": [
+                {
+                  "part": "a",
+                  "question_text": "He says, \"Where do you live?\" ."
+                },
+                {
+                  "part": "b",
+                  "question_text": "The boy said, \"I have passed the examination with flying colours.\""
+                },
+                {
+                  "part": "c",
+                  "question_text": "I told him that he had not learnt his lesson."
+                },
+                {
+                  "part": "d",
+                  "question_text": "He said, \"May you live long!\""
+                }
+              ]
+            },
+            {
+              "sub_number": "(v)",
+              "question_text": "(Formation of sentences) Change the following sentences as suggested in the bracket:",
+              "parts": [
+                {
+                  "part": "a",
+                  "question_text": "Salman is reading a book (Change into Past Perfect)"
+                },
+                {
+                  "part": "b",
+                  "question_text": "Najma and Rehana studied very hard. (Change into Negative)"
+                },
+                {
+                  "part": "c",
+                  "question_text": "Mehwish always speaks the truth. (Change into interrogative)"
+                },
+                {
+                  "part": "d",
+                  "question_text": "Pakistan won the match by two runs. (Change into Future Perfect Tense)"
+                },
+                {
+                  "part": "e",
+                  "question_text": "My mother will prepare the lunch. (Change into Past Continuous Tense)"
+                },
+                {
+                  "part": "f",
+                  "question_text": "Does she open the door? (Change into Affirmative Tense)"
+                },
+                {
+                  "part": "g",
+                  "question_text": "Ali said to her why was she sitting on this table (Punctuate)"
+                },
+                {
+                  "part": "h",
+                  "question_text": "Add suffix to: agree"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "question_number": 4,
+          "question_text": "Indicate the part of speech of the underlined words:",
+          "sub_questions": [
+            {
+              "sub_number": "(i)",
+              "question_text": "Who is knocking at the door?"
+            },
+            {
+              "sub_number": "(ii)",
+              "question_text": "Adnan is a lazy boy."
+            },
+            {
+              "sub_number": "(iii)",
+              "question_text": "They will play cricket."
+            },
+            {
+              "sub_number": "(iv)",
+              "question_text": "I bought a new car yesterday"
+            },
+            {
+              "sub_number": "(v)",
+              "question_text": "Rubina is very active in co-curriculum activates"
+            }
+          ]
+        },
+        {
+          "question_number": 5,
+          "question_text": "Translate the following paragraph into Urdu or Sindhi:",
+          "content": "God has blessed us with countless healthy food and milk is one of them. It is a perfect food having sweet and delicious taste. We get malik mostly form cows and buffaloes. It makes us healthy and strong. We make curd, butter and cheese form it."
+        }
+      ]
+    },
+    "C": {
+      "section_title": "DETAILED ANSWER QUESTIONS",
+      "marks": 40,
+      "instructions": "Attempt all questions from this Section.",
+      "questions": [
+        {
+          "question_number": 6,
+          "question_text": "Fill in the blanks according to the contextual accordance, from the options provided in the box.",
+          "marks": 5,
+          "options": ["Mud", "slippery", "place", "buses", "roads"],
+          "blanks_text": "Our village did not have ______ or streets, there were just narrow ______ lanes which become very ______ during the rainy season, commuting form one ______ another was not an issue, people did not need cars, ______ or even motorbikes to go from one place to another in the village."
+        },
+        {
+          "question_number": 7,
+          "question_text": "Write an essay of 120-150 word on any one of the following topics:",
+          "marks": 10,
+          "topics": [
+            "Final PSL 09",
+            "Merits and Demerits of Internet",
+            "My Favourite Personality"
+          ],
+          "alternative": "–OR—Write an e-mail in detail to you friend describing him/her about your plan to spend the forth coming summer vacations"
+        },
+        {
+          "question_number": 8,
+          "question_text": "Write an application to your Headmaster/Headmistress requesting him/her to allow your class to visit P.A.F Museum.",
+          "marks": 10,
+          "alternative": "–OR—, You are going for all Pakistan tour with your friends. Describe what you have planned for the tour."
+        },
+        {
+          "question_number": 9,
+          "question_text": "Read the following passage and answer the questions given below:",
+          "marks": 15,
+          "passage": "Educating boys and girls together has always been an important and stressful issue. Many parents believe that the educational process can be more effective if the classes are divided according to the gender of the students. Although same gender schools are considered too conservative and strict in today's time. Nevertheless, there are still supporters of this manner of education. Some parents are not in favour of co-educational system as they feel that the presence of opposite gender distracts the attention of students and prevents them from concentrating on studies. On the other hand, supporters of co-education feel that as boys and girls are different, it is a valuable experience for both genders to communicate with each other. Moreover, the earlier boys and girls begin to communicate, the sooner they acquire social skills, which are crucial to communicating freely in the world. Further, if there are girls in the class, boys may well possible try to behave better in order not to lose face in front of the girls",
+          "sub_questions": [
+            {
+              "sub_number": "(i)",
+              "question_text": "According to the writer, why are some parents not in favour of the co-education system?",
+              "marks": 3
+            },
+            {
+              "sub_number": "(ii)",
+              "question_text": "According to the writer, why are socializing skills important?",
+              "marks": 3
+            },
+            {
+              "sub_number": "(iii)",
+              "question_text": "Find a word from the above passage that means:",
+              "marks": 4,
+              "words_to_match": ["Vital", "Paying attention", "unfairness", "traditional"]
+            },
+            {
+              "sub_number": "(iv)",
+              "question_text": "Make a summary of the above passage",
+              "marks": 5
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

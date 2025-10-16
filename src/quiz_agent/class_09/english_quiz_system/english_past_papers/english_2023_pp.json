@@ -1,0 +1,389 @@
+{
+  "year": 2023,
+  "subject": "english",
+  "class": "ix",
+  "group": "science",
+  "total_time": "3 Hours",
+  "total_marks": 100,
+  "sections": {
+    "A": {
+      "section_title": "MULTIPLE CHOICE QUESTIONS (MCQs)",
+      "marks": 15,
+      "instructions": "(i) Attempt all the Questions of this Section. (ii) Do not copy down the part questions. Write only the answer against the proper number of the Question and its part according to the question Paper. (iii) Each question carries 1 Marks.",
+      "questions": [
+        {
+          "question_number": 1,
+          "question_text": "Choose the correct Answer for each from the given question:",
+          "sub_questions": [
+            {
+              "sub_number": "1",
+              "question_text": "The Holy Prophet 🌟 delivered his Last Sermon at:",
+              "options": ["Quba Masjid", "Uranah Valley", "Jabal-e-Rehmat", "Hudebia"],
+              "correct_answer": "Uranah Valley"
+            },
+            {
+              "sub_number": "2",
+              "question_text": "Shah Abdul Latif Bhitai was married with Bibi Saidha Begum in the year:",
+              "options": ["1713", "1723", "1813", "1823"],
+              "correct_answer": "1713"
+            },
+            {
+              "sub_number": "3",
+              "question_text": "The Holy Prophet 🌟 migrated from Makkah and entered Yathrib after:",
+              "options": ["10 days", "11 days", "12 days", "13 days"],
+              "correct_answer": "12 days"
+            },
+            {
+              "sub_number": "4",
+              "question_text": "The Quaid-e-Azam was one of the top barristers of:",
+              "options": ["Karachi", "Lahore", "Bombay", "Delhi"],
+              "correct_answer": "Bombay"
+            },
+            {
+              "sub_number": "5",
+              "question_text": "There are four types of:",
+              "options": ["Chikungunya viruses", "Dengue viruses", "Malaria viruses", "Measles viruses"],
+              "correct_answer": "Dengue viruses"
+            },
+            {
+              "sub_number": "6",
+              "question_text": "Allama Muhammad Iqbal presided over Allahabad meeting in:",
+              "options": ["1926", "1927", "1929", "1930"],
+              "correct_answer": "1930"
+            },
+            {
+              "sub_number": "7",
+              "question_text": "The saint who lived in the jungle was a very:",
+              "options": ["rich man", "poor man", "severe man", "wise man"],
+              "correct_answer": "wise man"
+            },
+            {
+              "sub_number": "8",
+              "question_text": "The Guddu Barrage was put into operation on:",
+              "options": ["4th January, 1962", "4th February, 1962", "4th March, 1962", "4th April 1962"],
+              "correct_answer": "4th February, 1962"
+            },
+            {
+              "sub_number": "9",
+              "question_text": "The name of Jameel and Sara's aunt was:",
+              "options": ["Kulsoom", "Mariang", "Sadori", "Razia"],
+              "correct_answer": "Sadori"
+            },
+            {
+              "sub_number": "10",
+              "question_text": "The poem \"The Miller of the Dee\" was composed by:",
+              "options": ["J.H Leigh Hunt", "Charles Mackay", "Henry Longfellow", "William Wordsworth"],
+              "correct_answer": "Charles Mackay"
+            },
+            {
+              "sub_number": "11",
+              "question_text": "The word \"Latif\" literally means:",
+              "options": ["delicate", "tender", "elegant", "all of these"],
+              "correct_answer": "all of these"
+            },
+            {
+              "sub_number": "12",
+              "question_text": "Nobody knew anything about Moen-jo-Daro until:",
+              "options": ["1919", "1920", "1921", "1922"],
+              "correct_answer": "1922"
+            },
+            {
+              "sub_number": "13",
+              "question_text": "The weather is considered as absolutely perfect in:",
+              "options": ["The winter", "The summer", "The autumn", "The spring"],
+              "correct_answer": "The spring"
+            },
+            {
+              "sub_number": "14",
+              "question_text": "By profession, Mohtarma Fatima Jinnah was a:",
+              "options": ["Doctor", "Dentist", "Nurse", "Surgeon"],
+              "correct_answer": "Dentist"
+            },
+            {
+              "sub_number": "15",
+              "question_text": "The founding manager of the \"Sindh Education Foundation\", Government of Sindh was:",
+              "options": ["Begum Raa'na Liaquat Ali Khan", "Professor Anita Ghulam Ali", "Begum Jahan Ara Shahnawaz", "Bilquis Bano Edhi"],
+              "correct_answer": "Professor Anita Ghulam Ali"
+            },
+            {
+              "sub_number": "16",
+              "question_text": "Helen Keller was sent to school for blind children at the age of:",
+              "options": ["eight", "nine", "ten", "eleven"],
+              "correct_answer": "eight"
+            },
+            {
+              "sub_number": "17",
+              "question_text": "The Malaria parasite attacks the:",
+              "options": ["stomach", "brain", "white blood cells", "red blood cells"],
+              "correct_answer": "red blood cells"
+            },
+            {
+              "sub_number": "18",
+              "question_text": "The Quaid-e-Azam was called the best ambassador of:",
+              "options": ["Hindus-Christians unity", "Hindus-Sikhs unity", "Hindus-Mslims unity", "Hindus-Parsis unity"],
+              "correct_answer": "Hindus-Mslims unity"
+            },
+            {
+              "sub_number": "19",
+              "question_text": "Add prefix to: 'try'",
+              "answer": "Retry"
+            },
+            {
+              "sub_number": "20",
+              "question_text": "Add suffix to: 'arrive'",
+              "answer": "arrival"
+            }
+          ]
+        }
+      ]
+    },
+    "B": {
+      "section_title": "SHORT ANSWER QUESTIONS",
+      "marks": 40,
+      "instructions": "Attempt all the questions.",
+      "questions": [
+        {
+          "question_number": 2,
+          "question_text": "Answer any FIVE of the following questions in two to three sentences each:",
+          "marks": 10,
+          "sub_questions": [
+            {
+              "sub_number": "(i)",
+              "question_text": "What does the Last Sermon teach us?"
+            },
+            {
+              "sub_number": "(ii)",
+              "question_text": "What do you know about the collection of Shah Abdul Latif's poetry?"
+            },
+            {
+              "sub_number": "(iii)",
+              "question_text": "Why was Jameel upset? And How did he react to his parents?"
+            },
+            {
+              "sub_number": "(iv)",
+              "question_text": "What is the acronym of problem-solving tool? What does it stand for?"
+            },
+            {
+              "sub_number": "(v)",
+              "question_text": "How often can one get infected with chikungunya?"
+            },
+            {
+              "sub_number": "(vi)",
+              "question_text": "Who was the miller? What was he singing about?"
+            }
+          ]
+        },
+        {
+          "question_number": 3,
+          "question_text": "Do as directed (as instructed in the bracket)",
+          "marks": 20,
+          "sub_questions": [
+            {
+              "sub_number": "(i)",
+              "question_text": "(USE PREPOSITION)",
+              "parts": [
+                {
+                  "part": "a",
+                  "question_text": "He arrived ______ the station in the nick of time,"
+                },
+                {
+                  "part": "b",
+                  "question_text": "Mother told me to divide the pizza ______ my five friends."
+                }
+              ]
+            },
+            {
+              "sub_number": "(ii)",
+              "question_text": "(USE ARTICLE)",
+              "parts": [
+                {
+                  "part": "a",
+                  "question_text": "All is ______ only son of this family."
+                },
+                {
+                  "part": "b",
+                  "question_text": "My uncle is ______ honest man of the town."
+                }
+              ]
+            },
+            {
+              "sub_number": "(iii)",
+              "question_text": "(CHANGE THE VOICE)",
+              "parts": [
+                {
+                  "part": "a",
+                  "question_text": "Will he convey my important message to his friend?"
+                },
+                {
+                  "part": "b",
+                  "question_text": "Many prizes were won by her."
+                },
+                {
+                  "part": "c",
+                  "question_text": "Buy your own pen, please."
+                },
+                {
+                  "part": "d",
+                  "question_text": "Who has stolen my cash box?"
+                }
+              ]
+            },
+            {
+              "sub_number": "(iv)",
+              "question_text": "(CHANGE THE NARRATION)",
+              "parts": [
+                {
+                  "part": "a",
+                  "question_text": "We said to him, \"Did you find any stranger here in this compound?\""
+                },
+                {
+                  "part": "b",
+                  "question_text": "He told me that he had done his homework honestly."
+                },
+                {
+                  "part": "c",
+                  "question_text": "He said to them, \"How poisonous these snakes are!\""
+                },
+                {
+                  "part": "d",
+                  "question_text": "You forbade me to sit there."
+                }
+              ]
+            },
+            {
+              "sub_number": "(v)",
+              "question_text": "(FORMATION OF SENTENCES) Change the following sentences as suggested in the bracket:",
+              "parts": [
+                {
+                  "part": "a",
+                  "question_text": "He did not make a delicious cake for the guests yesterday. (CHANGE INTO ASSERTIVE)"
+                },
+                {
+                  "part": "b",
+                  "question_text": "He deals honestly with his customers. (CHANGE INTO INTERROGATIVE)"
+                },
+                {
+                  "part": "c",
+                  "question_text": "I have my own glasses. (CHANGE INTO NEGATIVE)"
+                },
+                {
+                  "part": "d",
+                  "question_text": "All had purchased a wrist watch last Friday. (CHANGE INTO SIMPLE PRESENT TENSE)"
+                },
+                {
+                  "part": "e",
+                  "question_text": "Has it been drizzling since noon? (CHANGE INTO FUTURE PERFECT CONTINUOUS)"
+                },
+                {
+                  "part": "f",
+                  "question_text": "She speaks English very well. (CHANGE INTO SIMPLE PAST TENSE)"
+                },
+                {
+                  "part": "g",
+                  "question_text": "If it (not rain) we would go out for a walk in the evening. (USE CORRECT FORM OF THE VERB)"
+                },
+                {
+                  "part": "h",
+                  "question_text": "Aslam said to her why was nascem crying there (PUNCTUATE)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "question_number": 4,
+          "question_text": "Indicate the part of speech of the underlined words:",
+          "marks": 5,
+          "sub_questions": [
+            {
+              "sub_number": "(i)",
+              "question_text": "They are playing in the ground."
+            },
+            {
+              "sub_number": "(ii)",
+              "question_text": "Alas! We have lost the match."
+            },
+            {
+              "sub_number": "(iii)",
+              "question_text": "We do not go to sleep immediately."
+            },
+            {
+              "sub_number": "(iv)",
+              "question_text": "He is a clever boy."
+            },
+            {
+              "sub_number": "(v)",
+              "question_text": "They will leave for London tomorrow."
+            }
+          ]
+        },
+        {
+          "question_number": 5,
+          "question_text": "Translate the following paragraph into Urdu/Sindhi:",
+          "marks": 5,
+          "content": "The aeroplane is a wonderful invention of the twentieth century. It is a flying machine which has a long body with wings on either sides. When it flies high-up in the air, it looks like a great bee. It carries passengers across oceans, mountains and deserts. It saves times and most of the people love to travel by it."
+        }
+      ]
+    },
+    "C": {
+      "section_title": "DETAILED ANSWER QUESTIONS",
+      "marks": 40,
+      "instructions": "Attempt all the questions from this section",
+      "questions": [
+        {
+          "question_number": 6,
+          "question_text": "Fill in the blanks according to the contextual accordance from the option provided in the box.",
+          "marks": 5,
+          "options": ["Machine", "technology", "availability", "need", "luxurious"],
+          "blanks_text": "Our ______ life style has compromised our health. The ______ of devices has distanced us from people. The access to ______ has replaced the human touch. I wish for a time ______ to take me back to my simple life, and simple wants and ______."
+        },
+        {
+          "question_number": 7,
+          "question_text": "Write an essay of 120-150 words on any one of the following topics:",
+          "marks": 10,
+          "topics": [
+            "Blessings of Childhood",
+            "Picnic with Friends", 
+            "The Teacher You Like Most"
+          ],
+          "alternative": "OR Write an e-mail in detail to your friend living abroad, describing him/her ho Pakistani nation celebrates independence day with pump and show every year."
+        },
+        {
+          "question_number": 8,
+          "question_text": "Write an application to your Head master/ Head mistress requesting him/her to allow your class to visit The National Museum Karachi.",
+          "marks": 10,
+          "alternative": "OR You are going for shopping with your friends in a mall. You are very excited. The night before the shopping, you sit down to write your diary. Describe what you have planned for the shopping and also make a shopping list"
+        },
+        {
+          "question_number": 9,
+          "question_text": "Read the following passage and answer the questions given below:",
+          "marks": 15,
+          "passage": "This city of Saudi Arabia, is focal point to all of the Muslims throughout the world. Since the Muhammadan Era the pilgrim traffic has been the chief economic activity of the district. Makkah itself, with a population of more than 90,000 is situated on an alluvial filled valley, and the produce of its oasis can support less than 1/5th of its present. Inhabitants. Upto 1952 there was a heavy tax on all pilgrims (110 dollars per head) which was the financial mainstay of the Saudi Arabian state, but with all royalties the tax has been abolished Pilgrims now number over 1.5 million annually during the Hajj season which lasts about 4-6 weeks. The Saudi Government now makes great efforts to house pilgrims and provide internal transport (besides imposing health regulations and attempting to prevent settlement by foreign pilgrims). With the new fervor sweeping through Islamic countries, the moral and social effects of undertaking pilgrimage under same austerity are now increasingly esteemed.",
+          "sub_questions": [
+            {
+              "sub_number": "(i)",
+              "question_text": "Why the writer called Saudi Arabia, a focal point?",
+              "marks": 2
+            },
+            {
+              "sub_number": "(ii)",
+              "question_text": "What steps had Saudi Government taken to facilitate the pilgrims?",
+              "marks": 3
+            },
+            {
+              "sub_number": "(iii)",
+              "question_text": "Find a word of same meaning from the above passage for each of the following words:",
+              "marks": 5,
+              "words_to_match": ["main", "struggle", "located", "ethical", "yearly"]
+            },
+            {
+              "sub_number": "(iv)",
+              "question_text": "Make summary of the above passage.",
+              "marks": 5
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

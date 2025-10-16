@@ -1,0 +1,416 @@
+{
+  "year": 2022,
+  "subject": "english",
+  "class": "ix",
+  "group": "science",
+  "total_time": "3 Hours",
+  "total_marks": 100,
+  "sections": {
+    "A": {
+      "section_title": "MULTIPLE CHOICE QUESTIONS (M.C.Qs)",
+      "marks": 40,
+      "instructions": "(i) Attempt all the questions of this Section. (ii) Do not copy down the part questions. Write only the answer against the proper number of the question and its part according to the question paper. (iii) Each question carries 1 mark.",
+      "questions": [
+        {
+          "question_number": 1,
+          "question_text": "Choose an appropriate answer from the options provided.",
+          "sub_questions": [
+            {
+              "sub_number": "i",
+              "question_text": "The Holy Prophet Hazrat Muhammad # was born in:",
+              "options": ["560 A.D", "571 A.D", "572 A.D", "573 A.D"],
+              "correct_answer": "571 A.D"
+            },
+            {
+              "sub_number": "ii",
+              "question_text": "The Holy Prophet # his first and last Hajj at the age of:",
+              "options": ["60", "61", "62", "63"],
+              "correct_answer": "61"
+            },
+            {
+              "sub_number": "iii",
+              "question_text": "Shah Latif is lovingly called:",
+              "options": ["Lal Latif", "Saint Latif", "Haq Latif", "Shah Lal Latif"],
+              "correct_answer": "Lal Latif"
+            },
+            {
+              "sub_number": "iv",
+              "question_text": "Jamil's dream was to open a:",
+              "options": ["Shop", "restaurant", "Hospital", "School"],
+              "correct_answer": "Hospital"
+            },
+            {
+              "sub_number": "v",
+              "question_text": "Shah Latif was born on:",
+              "options": ["12th Safar", "13th Safar", "14th Safar", "15th Safar"],
+              "correct_answer": "14th Safar"
+            },
+            {
+              "sub_number": "vi",
+              "question_text": "The Prophet Muhammad # entered the city (Yathrib) on:",
+              "options": ["2nd June 622", "2nd July 622", "2nd July 623", "2nd June 623"],
+              "correct_answer": "2nd July 622"
+            },
+            {
+              "sub_number": "vii",
+              "question_text": "An essay which describes a person, place or thing in detail, is named:",
+              "options": ["Narrative essay", "Descriptive essay", "Historical essay", "An essay of one's own choice"],
+              "correct_answer": "Descriptive essay"
+            },
+            {
+              "sub_number": "viii",
+              "question_text": "Information about the life of Shah Latif, was collected by:",
+              "options": ["Mirza Khalil Beg", "Mirza Karim Beg", "Mirza Naseer Beg", "Mirza Kalich Beg"],
+              "correct_answer": "Mirza Kalich Beg"
+            },
+            {
+              "sub_number": "ix",
+              "question_text": "Initially, Quaid-e-Azam was on active member of the:",
+              "options": ["Muslim League", "Communist Party", "Unionist Party", "Congress"],
+              "correct_answer": "Congress"
+            },
+            {
+              "sub_number": "x",
+              "question_text": "Malaria parasite attacks",
+              "options": ["What blood cells", "Brain", "Stomach", "Red blood cells"],
+              "correct_answer": "Red blood cells"
+            },
+            {
+              "sub_number": "xi",
+              "question_text": "Malaria to recognized through;",
+              "options": ["Low fever", "sneezing", "coughing", "high fever"],
+              "correct_answer": "high fever"
+            },
+            {
+              "sub_number": "xii",
+              "question_text": "it is important to find out what the exact disease is so that:",
+              "options": ["the patient can rest", "we can tell everyone about at", "It can be treated properly", "the patient can decide what to do"],
+              "correct_answer": "It can be treated properly"
+            },
+            {
+              "sub_number": "xiii",
+              "question_text": "In severe cases of dengue, bleeding may occur in the:",
+              "options": ["eye,and ears", "brain", "gums and nose", "stomach and intestine"],
+              "correct_answer": "gums and nose"
+            },
+            {
+              "sub_number": "xiv",
+              "question_text": "The first woman who represented the Muslim women at the three Round Table conference in London was:",
+              "options": ["Begum Jahan Ara Shahnawaz", "Bilquis Edhi", "Fatima Jinnah", "Begum Ra'na Liaquat Ali Khan"],
+              "correct_answer": "Begum Jahan Ara Shahnawaz"
+            },
+            {
+              "sub_number": "xv",
+              "question_text": "The name Quaid-e-Azam's younger sister is:",
+              "options": ["Anita Ghulam Ali", "Fatima Jinnah", "Ra'ana Liaquat Ali", "Jahan Ara Shahnawaz"],
+              "correct_answer": "Fatima Jinnah"
+            },
+            {
+              "sub_number": "xvi",
+              "question_text": "Madr-e-Millat means:",
+              "options": ["Sister of the Nation", "Khatoon-e-Millat", "Mother of the Nation", "Mother of Pakistan"],
+              "correct_answer": "Mother of the Nation"
+            },
+            {
+              "sub_number": "xvii",
+              "question_text": "The saint who lived in the jungle was very:",
+              "options": ["rich", "poor", "wise", "none of these"],
+              "correct_answer": "wise"
+            },
+            {
+              "sub_number": "xviii",
+              "question_text": "The king went to see the saint:",
+              "options": ["all alone", "with all his soldiers", "along with his family", "with his courtiers"],
+              "correct_answer": "all alone"
+            },
+            {
+              "sub_number": "xix",
+              "question_text": "Village houses were made of:",
+              "options": ["mud", "leaves", "blocks", "cement"],
+              "correct_answer": "mud"
+            },
+            {
+              "sub_number": "xx",
+              "question_text": "In the village, the meeting place for men is known as:",
+              "options": ["Otaq", "Village-well", "Field", "School"],
+              "correct_answer": "Otaq"
+            },
+            {
+              "sub_number": "xxi",
+              "question_text": "Shah Abdul Latif married at the age of:",
+              "options": ["22 years", "23 years", "24 years", "25 years"],
+              "correct_answer": "24 years"
+            },
+            {
+              "sub_number": "xxii",
+              "question_text": "Moen-jo-Daro was discovered by",
+              "options": ["Sir John Jacob", "Sir John Victor", "Sir John Marshall", "Sir John Magwitch"],
+              "correct_answer": "Sir John Marshall"
+            },
+            {
+              "sub_number": "xxiii",
+              "question_text": "O'God! May like the candle be the life of:",
+              "options": ["his", "mine", "hers", "them"],
+              "correct_answer": "mine"
+            },
+            {
+              "sub_number": "xxiv",
+              "question_text": "The poem \"A Child's Invocation\" was composed by:",
+              "options": ["Elsa Kazi", "Allama Iqbal", "Charles Mackay", "Anonymous"],
+              "correct_answer": "Allama Iqbal"
+            },
+            {
+              "sub_number": "xxv",
+              "question_text": "Sara and Jameel wanted to be a:",
+              "options": ["Technician", "Pilot", "Nurse", "Doctor"],
+              "correct_answer": "Doctor"
+            },
+            {
+              "sub_number": "xxvi",
+              "question_text": "Spring is the time of the year when the weather is considered as absolutely:",
+              "options": ["perfect", "imperfect", "hard", "rought"],
+              "correct_answer": "perfect"
+            },
+            {
+              "sub_number": "xxvii",
+              "question_text": "\"You are free to go to your temples; you are free to go to your mosques\" This is the statement of:",
+              "options": ["Allama Iqbal", "Quaid-e-Azam", "Sir Syed Ahmed Khan", "Moulana Shoukat Ali"],
+              "correct_answer": "Quaid-e-Azam"
+            },
+            {
+              "sub_number": "xxviii",
+              "question_text": "Allama Muhammad Iqbal went to London for higher studies in:",
+              "options": ["1899", "1905", "1908", "1938"],
+              "correct_answer": "1905"
+            },
+            {
+              "sub_number": "xxix",
+              "question_text": "Bilquis Bano Edhi was a trained:",
+              "options": ["doctor", "technician", "photographer", "nurse"],
+              "correct_answer": "nurse"
+            },
+            {
+              "sub_number": "xxx",
+              "question_text": "Helen Keller was able to speak again at the age of:",
+              "options": ["eight", "nine", "ten", "seven"],
+              "correct_answer": "seven"
+            }
+          ]
+        }
+      ]
+    },
+    "B": {
+      "section_title": "SHORT ANSWER QUESTIONS",
+      "marks": 40,
+      "instructions": "Answer any FIVE of the following questions in two to three sentences each.",
+      "questions": [
+        {
+          "question_number": 2,
+          "question_text": "Answer any FIVE of the following questions in two to three sentences each.",
+          "sub_questions": [
+            {
+              "sub_number": "(i)",
+              "question_text": "What do you mean by \"Hijra\"? When did this event take place?"
+            },
+            {
+              "sub_number": "(ii)",
+              "question_text": "Why is Shah Latif called the \"Saint of Bhit\"?"
+            },
+            {
+              "sub_number": "(iii)",
+              "question_text": "How did Sara, Jameel and their family manage the expenses for their studies?"
+            },
+            {
+              "sub_number": "(iv)",
+              "question_text": "What do you understand by the word \"Visionary\"? What qualities does a visionary have?"
+            },
+            {
+              "sub_number": "(v)",
+              "question_text": "What is the main theme of the poem \"A child's Invocation\"?"
+            },
+            {
+              "sub_number": "(vi)",
+              "question_text": "How is the immune system affected through dengue?"
+            },
+            {
+              "sub_number": "(vii)",
+              "question_text": "Write any four names of famous women of Pakistan, mentioned in the text book"
+            }
+          ]
+        },
+        {
+          "question_number": 3,
+          "question_text": "Do as directed.",
+          "instructions": "(As instructed in the bracket)",
+          "sub_questions": [
+            {
+              "sub_number": "(i)",
+              "question_text": "He comes by bus (Change into negative)"
+            },
+            {
+              "sub_number": "(ii)",
+              "question_text": "He flies a kite. (Change into present continues)"
+            },
+            {
+              "sub_number": "(iii)",
+              "question_text": "I have finished my work (Change into past perfect)"
+            },
+            {
+              "sub_number": "(iv)",
+              "question_text": "I exercised (Change into Interrogative)"
+            },
+            {
+              "sub_number": "(v)",
+              "question_text": "I have applied for this post. (Change into Future Indefinite)"
+            },
+            {
+              "sub_number": "(vi)",
+              "question_text": "He has been sent to Saudi Arabia to perform Hajj by his parents. (Change the Voice)"
+            },
+            {
+              "sub_number": "(vii)",
+              "question_text": "He is making a large table."
+            },
+            {
+              "sub_number": "(viii)",
+              "question_text": "I have informed him."
+            },
+            {
+              "sub_number": "(ix)",
+              "question_text": "You played well in the match ? (Add Question Tag)"
+            },
+            {
+              "sub_number": "(x)",
+              "question_text": "She says to me, \"I am making tea.\""
+            },
+            {
+              "sub_number": "(xi)",
+              "question_text": "The teacher said to them, \"you learn this lesson.\" (Change the Narration)"
+            },
+            {
+              "sub_number": "(xii)",
+              "question_text": "She said that fish can not live without water."
+            },
+            {
+              "sub_number": "(xiii)",
+              "question_text": "Is Karachi the biggest city of pakistan (Punctuate the sentence)"
+            },
+            {
+              "sub_number": "(xiv)",
+              "question_text": "You would get good marks, if you (work) (Use correct form of the verb) hard"
+            },
+            {
+              "sub_number": "(xv)",
+              "question_text": "The moon can be seen two hills. (Use Preposition)"
+            },
+            {
+              "sub_number": "(xvi)",
+              "question_text": "I have 10 rupees my pocket."
+            },
+            {
+              "sub_number": "(xvii)",
+              "question_text": "He is M.B.A. in banking and finance (Use Article)"
+            },
+            {
+              "sub_number": "(xviii)",
+              "question_text": "boy in blue shirt, please come here."
+            },
+            {
+              "sub_number": "(xix)",
+              "question_text": "The publisher had (print) this book three times. (Use Prefix)"
+            },
+            {
+              "sub_number": "(xx)",
+              "question_text": "An (healthy) person often falls sick."
+            }
+          ]
+        },
+        {
+          "question_number": 4,
+          "question_text": "Indicate the part of speech of the underlined words:",
+          "sub_questions": [
+            {
+              "sub_number": "(i)",
+              "question_text": "Kashif always tries to work efficiently"
+            },
+            {
+              "sub_number": "(ii)",
+              "question_text": "I was at the door"
+            },
+            {
+              "sub_number": "(iii)",
+              "question_text": "He was flying a kite."
+            },
+            {
+              "sub_number": "(iv)",
+              "question_text": "She writes very neatly"
+            },
+            {
+              "sub_number": "(v)",
+              "question_text": "Pakistan is a wonderful country."
+            }
+          ]
+        },
+        {
+          "question_number": 5,
+          "question_text": "Translate the following paragraph into Urdu/Sindhi.",
+          "content": "We just turn on the tap and fresh water flows out. We press as switch and light comes on. The cleaning of the streets and the removal of filth and garbage are possible, only in an organized society. The telegraph, the telephone and the trains are all benefits of collective efforts. Then, the radio and the T.V. and give us both enjoyment and instruction."
+        }
+      ]
+    },
+    "C": {
+      "section_title": "DESCRIPTIVE ANSWER QUESTIONS",
+      "marks": 20,
+      "questions": [
+        {
+          "question_number": 6,
+          "question_text": "Suppose you went on a picnic with your classmates. Something very interesting happened during the trip. You were a class representative and were given instructions to write the incident in detail along with a brief picture of the whole trip.",
+          "alternative": "OR Write an essay of five paragraphs on any one of the following topics",
+          "topics": [
+            "Memorable Day of My Life",
+            "Covid-19 as a fatal Virus",
+            "Merits and Demerits of Mobile phone",
+            "The teacher I like most"
+          ]
+        },
+        {
+          "question_number": 7,
+          "question_text": "Write an application to your Headmaster/Headmistress requesting him/her to arrange few extra classes to carry out the practical of Chemistry.",
+          "alternative": "OR Write a letter to the editor of a newspaper about the Traffic accounts in the city."
+        },
+        {
+          "question_number": 8,
+          "question_text": "Read the following passage and answer the questions given below.",
+          "passage": "Rice is a member of the grass family. Along with wheat and corn, it is one of the three crops on which human beings largely depend as food for survival. Rice is now one of the most important crops at the global level, as it is used as a staple food in most countries of the world and will continue to be so for the future. In the coming 30 years, the world will require 70% more rice than that it requires today. Pakistan is the world's 4th largest producer of rice. Each year, it produces an average of 6 million tons and together with the rest of the South Asia, the country supplies 30% of the world's rice. Rice is Pakistan's third largest crop in terms of area sown, after wheat and cotton. About 11 percent of Pakistan's total agriculture area is rice during the summer or \"Kharif\" season.",
+          "sub_questions": [
+            {
+              "sub_number": "(i)",
+              "question_text": "The most suitable title for this passage is",
+              "options": ["Rice is the staple food of the people of Pakistan", "The future of the rice industry in Pakistan.", "Rice production in Pakistan."]
+            },
+            {
+              "sub_number": "(ii)",
+              "question_text": "The three main crops on which human beings largely depend as food for survival:",
+              "options": ["wheat, corn, maize", "wheat, rice, cotton", "wheat, corn, rice"]
+            },
+            {
+              "sub_number": "(iii)",
+              "question_text": "The most important crop at the global level is:",
+              "options": ["wheat", "cotton", "rice"]
+            },
+            {
+              "sub_number": "(iv)",
+              "question_text": "Each year, Pakistan produces rice an average of:",
+              "options": ["four million tons", "five million tons", "six million tons"]
+            },
+            {
+              "sub_number": "(v)",
+              "question_text": "After wheat and cotton the third largest crop in Pakistan is:",
+              "options": ["rice", "cotton", "wheat"]
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

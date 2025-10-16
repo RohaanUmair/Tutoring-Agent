@@ -6,6 +6,7 @@ from agents import Agent, Runner
 from Config.config import config
 from math_quiz_system import math_quiz_agent
 from physics_quiz_system import physics_quiz_agent
+from english_quiz_system import english_quiz_agent
 
 AGENT_INSTRUCTIONS = r"""
 You are **Master Quiz Agent**, the central intelligence and coordinator for **Class 9 Subject Quiz Agents**.  
@@ -104,7 +105,7 @@ Always remain clear, direct, and professional.
 class_nine_master_agent = Agent(
     name="class_09_master_quiz_agent",
     instructions=AGENT_INSTRUCTIONS,
-    handoffs=[math_quiz_agent, physics_quiz_agent],
+    handoffs=[math_quiz_agent, physics_quiz_agent,english_quiz_agent],
 )
 
 async def run_agent():

@@ -1,0 +1,243 @@
+{
+  "year": 2022,
+  "subject": "biology",
+  "class": "ix",
+  "group": "science",
+  "total_time": "3 Hours",
+  "total_marks": 60,
+  "sections": {
+    "A": {
+      "section_title": "MULTIPLE CHOICE QUESTIONS (MCQs)",
+      "marks": 24,
+      "instructions": "(i) Attempt all the Questions of this Section. (ii) Do not copy down the part questions. Write only the answer against the proper number of the Question and its part according to the question Paper. (iii) Each question carries 1 Mark.",
+      "questions": [
+        {
+          "question_number": 1,
+          "question_text": "Choose the correct Answer for each from the given question:",
+          "sub_questions": [
+            {
+              "sub_number": "(i)",
+              "question_text": "Science of identification and classification of organism is:",
+              "options": ["Histology", "Cytology", "Taxonomy", "Anatomy"],
+              "correct_answer": "Taxonomy"
+            },
+            {
+              "sub_number": "(ii)",
+              "question_text": "Scientific name of frog is:",
+              "options": ["Palaeon", "Rana tigrina", "Periplaneta", "Pheretima"],
+              "correct_answer": "Rana tigrina"
+            },
+            {
+              "sub_number": "(iii)",
+              "question_text": "Volvox is a polyphyletic genus which belongs to:",
+              "options": ["Green algae", "Red algae", "Brown algae", "None of these"],
+              "correct_answer": "Green algae"
+            },
+            {
+              "sub_number": "(iv)",
+              "question_text": "Biological method involves all of the following, except:",
+              "options": ["Data collection", "Observation", "Experiment", "Proportion"],
+              "correct_answer": "Proportion"
+            },
+            {
+              "sub_number": "(v)",
+              "question_text": "Field of research that examines mathematical representation of biological system, is called:",
+              "options": ["Ratio", "Proportion", "Mathematical Biology", "Law"],
+              "correct_answer": "Mathematical Biology"
+            },
+            {
+              "sub_number": "(vi)",
+              "question_text": "These are involved in classification, except:",
+              "options": ["Analogous", "Homologous", "Cytology", "Genetics"],
+              "correct_answer": "Genetics"
+            },
+            {
+              "sub_number": "(vii)",
+              "question_text": "Cell organelle found in animal cell and help in intracellular digestion:",
+              "options": ["Lysosomes", "Ribosomes", "Mitochondria", "Golgi apparatus"],
+              "correct_answer": "Lysosomes"
+            },
+            {
+              "sub_number": "(viii)",
+              "question_text": "The comparison of two values is called:",
+              "options": ["Ratio", "Proportion", "Graph", "Table"],
+              "correct_answer": "Ratio"
+            },
+            {
+              "sub_number": "(ix)",
+              "question_text": "Members of this kingdom have cell wall and are all heterotrophic:",
+              "options": ["Monera", "Protista", "Plantae", "Fungi"],
+              "correct_answer": "Fungi"
+            },
+            {
+              "sub_number": "(x)",
+              "question_text": "Sequence of physiological changes by which cell commit suicide, is called:",
+              "options": ["Apoptosis", "Necrosis", "Apomixes", "None of these"],
+              "correct_answer": "Apoptosis"
+            },
+            {
+              "sub_number": "(xi)",
+              "question_text": "The point where the enzyme is most active, is known as:",
+              "options": ["Neutral pH", "Acidic pH", "Basic pH", "Optimum pH"],
+              "correct_answer": "Optimum pH"
+            },
+            {
+              "sub_number": "(xii)",
+              "question_text": "Stage of aerobic respiration takes place at the cristae of mitochondria, is called:",
+              "options": ["Electron transport chain", "Glycolysis", "Krebs's cycle", "Cs cycle"],
+              "correct_answer": "Electron transport chain"
+            },
+            {
+              "sub_number": "(xiii)",
+              "question_text": "Phenomenon in which pair of homologous chromosome fails to separate is called:",
+              "options": ["Non disjunction", "Terminalization", "Synapsis", "Linkage"],
+              "correct_answer": "Non disjunction"
+            },
+            {
+              "sub_number": "(xiv)",
+              "question_text": "Each mole of ATP stores energy:",
+              "options": ["7.3 kcal", "7.3 kJ", "17.3 kcal", "17.3 kJ"],
+              "correct_answer": "7.3 kcal"
+            },
+            {
+              "sub_number": "(xv)",
+              "question_text": "Chemical reaction requires these particular conditions to carry down at Proper-rate:",
+              "options": ["Temperature and nature", "Nature and pressure", "Nature and structure", "Temperature and pressure"],
+              "correct_answer": "Temperature and pressure"
+            },
+            {
+              "sub_number": "(xvi)",
+              "question_text": "Deficiency of vitamin – K causes the disease of:",
+              "options": ["Rickets", "Anemia", "Scurvey", "Beriberi"],
+              "correct_answer": "Anemia"
+            },
+            {
+              "sub_number": "(xvii)",
+              "question_text": "Movement of Water molecules from the area of higher potential to the area of lower water potential, is called:",
+              "options": ["Diffusion", "Osmosis", "Active transport", "Water potential"],
+              "correct_answer": "Osmosis"
+            },
+            {
+              "sub_number": "(xviii)",
+              "question_text": "Secondary cell wall is made up of:",
+              "options": ["Pectin and Cellulose", "Cellulose and Protein", "Cellulose and Lignin", "Lignin and Pectin"],
+              "correct_answer": "Cellulose and Lignin"
+            },
+            {
+              "sub_number": "(xix)",
+              "question_text": "All factors fled enzyme's activity, except:",
+              "options": ["substrate concentration", "Organic solvent", "Temperature", "pH"],
+              "correct_answer": "Organic solvent"
+            },
+            {
+              "sub_number": "(xx)",
+              "question_text": "These are involved in the clotting of blood:",
+              "options": ["Platelets", "Haemoglobin", "Albumin", "Globulin"],
+              "correct_answer": "Platelets"
+            },
+            {
+              "sub_number": "(xxi)",
+              "question_text": "The movement of organic material (food) takes place through:",
+              "options": ["Xylem", "Vessels", "Tracheid", "Phloem"],
+              "correct_answer": "Phloem"
+            },
+            {
+              "sub_number": "(xxii)",
+              "question_text": "In human digestive system, trachea and esophagus both connect to the:",
+              "options": ["Large intestine", "Stomach", "Pharynx", "Rectum"],
+              "correct_answer": "Pharynx"
+            },
+            {
+              "sub_number": "(xxiii)",
+              "question_text": "Splitting of water in presence of light, is called:",
+              "options": ["Hydrolysis", "Glycolysis", "Photolysis", "None of these"],
+              "correct_answer": "Photolysis"
+            },
+            {
+              "sub_number": "(xxiv)",
+              "question_text": "Metabolic reactions are:",
+              "options": ["Constructive", "Destructive", "Inhibiting", "I and II both"],
+              "correct_answer": "I and II both",
+              "note": "The options for the above question in the Examination Paper are wrong, correct options may be the following: Constructive, Destructive, Inhibiting, I and II both"
+            }
+          ]
+        }
+      ]
+    },
+    "B": {
+      "section_title": "SHORT ANSWER QUESTIONS",
+      "marks": 24,
+      "instructions": "Attempt any EIGHT questions from this section. Each question carries Three (3) marks.",
+      "questions": [
+        {
+          "question_number": 2,
+          "question_text": "Define: Paleontology, Environmental biology, Genetics."
+        },
+        {
+          "question_number": 3,
+          "question_text": "Draw a neat and labelled diagram of Animal cell."
+        },
+        {
+          "question_number": 4,
+          "question_text": "Define classification. Names units of it and explain any one."
+        },
+        {
+          "question_number": 5,
+          "question_text": "Describe the relationship of Biology with any three branches of science."
+        },
+        {
+          "question_number": 6,
+          "question_text": "Define plastics and write two types of it."
+        },
+        {
+          "question_number": 7,
+          "question_text": "Write three differences between prokaryotic cell and eukaryotic cell."
+        },
+        {
+          "question_number": 8,
+          "question_text": "Define chromosome. Name the types of it."
+        },
+        {
+          "question_number": 9,
+          "question_text": "Define enzyme. Write any two uses of enzymes."
+        },
+        {
+          "question_number": 10,
+          "question_text": "Write three differences between light reaction and dark reaction"
+        },
+        {
+          "question_number": 11,
+          "question_text": "Define heterotrophic nutrition and explain its types."
+        },
+        {
+          "question_number": 12,
+          "question_text": "Define vitamin and explain its two types."
+        },
+        {
+          "question_number": 13,
+          "question_text": "Write any three effects of malnutrition on human."
+        }
+      ]
+    },
+    "C": {
+      "section_title": "DETAILED ANSWER QUESTIONS",
+      "marks": 12,
+      "instructions": "Attempt any Two questions from this Section. Each question carries SIX (6) marks.",
+      "questions": [
+        {
+          "question_number": 14,
+          "question_text": "Draw a neat and labelled diagram of human alimentary canal."
+        },
+        {
+          "question_number": 15,
+          "question_text": "Define transpiration and explain factors which affect its rate."
+        },
+        {
+          "question_number": 16,
+          "question_text": "Define respiration. Describe the usage of respiration energy in the body of organism.",
+          "alternative": "OR Define tissue. Explain muscle tissue and its types in detail."
+        }
+      ]
+    }
+  }
+}

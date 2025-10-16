@@ -1,0 +1,279 @@
+{
+  "exam": {
+    "subject": "COMPUTER STUDIES",
+    "year": 2021,
+    "maxMarks": 60,
+    "time": "2 Hour",
+    "syllabusInfo": "AS PER CONDENSED SYLLABUS",
+    "sections": [
+      {
+        "name": "SECTION A - MULTIPLE CHOICE QUESTIONS (M.C.Os)",
+        "marks": 30,
+        "instructions": [
+          "Attempt all the Questions.",
+          "Write only the answer against the proper number of the question and its part according to question paper.",
+          "Each question carries 1 Mark"
+        ],
+        "questions": [
+          {
+            "number": 1,
+            "parts": [
+              {
+                "part": "(i)",
+                "question": "The device that converts soft copy into hard copy, is called:",
+                "options": ["Printer", "Monitor", "Scanner", "Modem"],
+                "correctAnswer": "Printer"
+              },
+              {
+                "part": "(ii)",
+                "question": "Magnetic drum was used as primary memory in:",
+                "options": ["1st Generation", "2nd Generation", "3 Generation", "4th Generation"],
+                "correctAnswer": "1st Generation"
+              },
+              {
+                "part": "(iii)",
+                "question": "The microprocessor is a chip, containing millions of tiny:",
+                "options": ["Vacuum Tubes", "Transistors", "IC's", "None of these"],
+                "correctAnswer": "Transistors"
+              },
+              {
+                "part": "(iv)",
+                "question": "The best computer for solving Algebraic equations is:",
+                "options": ["Digital", "Hybrid", "Analog", "All of these"],
+                "correctAnswer": "Digital"
+              },
+              {
+                "part": "(v)",
+                "question": "When power gets off your PC stores your program in:",
+                "options": ["DRAM", "Cache", "ROM", "Hard Disk"],
+                "correctAnswer": "Hard Disk"
+              },
+              {
+                "part": "(vi)",
+                "question": "A collection of wires connecting the CPU with the main memory that is used to identify a particular location is:",
+                "options": ["Control Bus", "Data Bus", "Address Bus", "None of these"],
+                "correctAnswer": "Address Bus"
+              },
+              {
+                "part": "(vii)",
+                "question": "The software which performs all basic tasks, is:",
+                "options": ["Anti-Virus", "Start Menu", "Operating System", "Office Automation"],
+                "correctAnswer": "Operating System"
+              },
+              {
+                "part": "(viii)",
+                "question": "Which one of the following is not an operating system?",
+                "options": ["Linux", "Oracle", "DOS", "Windows"],
+                "correctAnswer": "Oracle"
+              },
+              {
+                "part": "(ix)",
+                "question": "The process of checking the computer, starting the operating system and making it ready to work, is referred to as:",
+                "options": ["Resource Management", "Booting", "Error Checking", "File Management"],
+                "correctAnswer": "Booting"
+              },
+              {
+                "part": "(x)",
+                "question": "The group of program that helps office workers to do some routine tasks easily and efficiently, is called:",
+                "options": ["Operating System", "E-Mail", "Anti-Virus", "Office Automation"],
+                "correctAnswer": "Office Automation"
+              },
+              {
+                "part": "(xi)",
+                "question": "The special symbol used in MS-Excel to write formula is:",
+                "options": ["+", "--", "=", "*"],
+                "correctAnswer": "="
+              },
+              {
+                "part": "(xii)",
+                "question": "If we want to change the overall design of a word document, we should use",
+                "options": ["Themes", "Page Layout", "Water Mark", "Margin"],
+                "correctAnswer": "Themes"
+              },
+              {
+                "part": "(xiii)",
+                "question": "Which package of MS-Office is a DBMS?",
+                "options": ["MS-Word", "MS-Excel", "MS-Power Point", "MS-Access"],
+                "correctAnswer": "MS-Access"
+              },
+              {
+                "part": "(xiv)",
+                "question": "Charts are basically used to:",
+                "options": ["Design Tables", "Organize Data in Tables", "Show Data Graphically", "Short Different Data"],
+                "correctAnswer": "Show Data Graphically"
+              },
+              {
+                "part": "(xv)",
+                "question": "The function which is used to re-arrange data according to specific criteria; is called:",
+                "options": ["Filtering", "Sorting", "Organizing", "Grouping"],
+                "correctAnswer": "Sorting"
+              },
+              {
+                "part": "(xvi)",
+                "question": "Which one of the following is not a font style:",
+                "options": ["Bold", "Superscript", "Italic", "Regular"],
+                "correctAnswer": "Superscript"
+              },
+              {
+                "part": "(xvii)",
+                "question": "Communication system is made up of:",
+                "options": ["3 Components", "4 Components", "5 Components", "6 Components"],
+                "correctAnswer": "5 Components"
+              },
+              {
+                "part": "(xviii)",
+                "question": "The topology, in which all computers are connected to central device 'hub' is:",
+                "options": ["Bus", "Star", "Ring", "Tree"],
+                "correctAnswer": "Star"
+              },
+              {
+                "part": "(xix)",
+                "question": "Both physical and logical addresses are:",
+                "options": ["Different", "Unique", "Permanent", "Temporary"],
+                "correctAnswer": "Different"
+              },
+              {
+                "part": "(xx)",
+                "question": "The basic limitation of a flat file database, is that:",
+                "options": ["It is complicated", "It stores in a single file", "It is very heavy", "It is not supported on internet"],
+                "correctAnswer": "It stores in a single file"
+              },
+              {
+                "part": "(xxi)",
+                "question": "The World Wide Web (www) is commonly known as the:",
+                "options": ["Web", "Website", "Web page", "All of them"],
+                "correctAnswer": "Web"
+              },
+              {
+                "part": "(xxii)",
+                "question": "Software is mostly protected under:",
+                "options": ["Patents", "Copyrights", "Trademark", "Logos"],
+                "correctAnswer": "Copyrights"
+              },
+              {
+                "part": "(xxiii)",
+                "question": "Ethical Hacker is also known as:",
+                "options": ["White hat Hacker", "Black Hat Hacker", "Red Hat Hacker", "Yellow Hat Hacker"],
+                "correctAnswer": "White hat Hacker"
+              },
+              {
+                "part": "(xxiv)",
+                "question": "The special website where different users can ask a question, give the answer and discuss different topics, is called:",
+                "options": ["Social Site", "Blog Site", "Information Site", "Forum Site"],
+                "correctAnswer": "Forum Site"
+              },
+              {
+                "part": "(xxv)",
+                "question": "The web browser will translate the codes in a web page if the extension of document is:",
+                "options": ["HTML", "TXT", "DOC", "PDF"],
+                "correctAnswer": "HTML"
+              },
+              {
+                "part": "(xxvi)",
+                "question": "The service that is responsible for making website publicly accessible through the internet is called.",
+                "options": ["Web Server", "Web Hosting", "Web Site", "Web Browser"],
+                "correctAnswer": "Web Hosting"
+              },
+              {
+                "part": "(xxvii)",
+                "question": "The tag used to automatically add line space before and after the text is:",
+                "options": ["<br>", "<hr>", "<p>", "<pre>"],
+                "correctAnswer": "<p>"
+              },
+              {
+                "part": "(xxviii)",
+                "question": "Related fields in the database are grouped to form a:",
+                "options": ["Data Files", "Data Record", "Menu", "Bank"],
+                "correctAnswer": "Data Record"
+              },
+              {
+                "part": "(xxix)",
+                "question": "It is capable of handling huge sets of data:",
+                "options": ["Firmware", "Flat File System", "Operating System", "DBMS"],
+                "correctAnswer": "DBMS"
+              },
+              {
+                "part": "(xxx)",
+                "question": "A field of database that stores the name of students should be define as:",
+                "options": ["Integer", "Float", "String", "None of these"],
+                "correctAnswer": "String"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "SECTION B - Short Answer Question",
+        "marks": 18,
+        "instructions": [
+          "Attempt any SIX (6) questions from this section.",
+          "All questions carry equal marks."
+        ],
+        "questions": [
+          {
+            "number": 2,
+            "question": "Define computer hardware."
+          },
+          {
+            "number": 3,
+            "question": "What are the basic operations of the computer?"
+          },
+          {
+            "number": 4,
+            "question": "Write any three functions of Operating System."
+          },
+          {
+            "number": 5,
+            "question": "Explain the importance of MS-Excel."
+          },
+          {
+            "number": 6,
+            "question": "Write three differences between physical address and logical address."
+          },
+          {
+            "number": 7,
+            "question": "Why is computer security important? Write any two reasons."
+          },
+          {
+            "number": 8,
+            "question": "Define Hypertext Markup Language (HTML)."
+          },
+          {
+            "number": 9,
+            "question": "What is meant by Database Management System?"
+          },
+          {
+            "number": 10,
+            "question": "Define any one of the following: (i) Data Communication"
+          }
+        ]
+      },
+      {
+        "name": "SECTION C - Detailed Answer Question",
+        "marks": 12,
+        "instructions": [
+          "Attempt any TWO (2) questions from this section.",
+          "All questions carry equal marks."
+        ],
+        "questions": [
+          {
+            "number": 11,
+            "question": "Define Topology and explain its types."
+          },
+          {
+            "number": 12,
+            "question": "Explain Microprocessor and its components."
+          },
+          {
+            "number": 13,
+            "question": "Describe components used in the communication system."
+          },
+          {
+            "number": 14,
+            "question": "Explain the basic components of DBMS"
+          }
+        ]
+      }
+    ]
+  }
+}

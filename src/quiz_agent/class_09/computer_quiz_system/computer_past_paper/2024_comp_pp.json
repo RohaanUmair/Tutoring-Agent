@@ -1,0 +1,190 @@
+{
+  "exam": {
+    "subject": "COMPUTER",
+    "year": 2024,
+    "maxMarks": 60,
+    "time": "3 Hour",
+    "sections": [
+      {
+        "name": "SECTION A - MULTIPLE CHOICE QUESTIONS (MCQs)",
+        "marks": 12,
+        "instructions": [
+          "Attempt all the Questions of this Section.",
+          "Do not copy down the part questions. Write only the answer against the proper number of the Question and its part according to the question Paper.",
+          "Each question carries 1 Mark"
+        ],
+        "questions": [
+          {
+            "number": 1,
+            "parts": [
+              {
+                "part": "1",
+                "question": "The device that converts hard copy into soft copy, is called:",
+                "options": ["Printer", "Plotter", "Scanner", "All of these"],
+                "correctAnswer": "Scanner"
+              },
+              {
+                "part": "2",
+                "question": "GUI was developed in:",
+                "options": ["Second Generation", "Fourth Generation", "Mechanical Era", "Electra Mechanical Era"],
+                "correctAnswer": "Fourth Generation"
+              },
+              {
+                "part": "3",
+                "question": "The software which performs all basic tasks, is:",
+                "options": ["Operating System", "Start Menu", "Antivirus", "Office Automation"],
+                "correctAnswer": "Operating System"
+              },
+              {
+                "part": "4",
+                "question": "Extension of notepad is:",
+                "options": [".txt", ".xls", ".ppt", ".bmp"],
+                "correctAnswer": ".txt"
+              },
+              {
+                "part": "5",
+                "question": "The software that is used for accounting purpose, is:",
+                "options": ["MS Word", "MS Excel", "MS Power point", "MS Access"],
+                "correctAnswer": "MS Excel"
+              },
+              {
+                "part": "6",
+                "question": "The topology connecting all computers to a central device Hub is:",
+                "options": ["BUS", "Star", "Ring", "Tree"],
+                "correctAnswer": "Star"
+              },
+              {
+                "part": "7",
+                "question": "The number of bits used In a IPV4 address are:",
+                "options": ["16", "32", "64", "128"],
+                "correctAnswer": "32"
+              },
+              {
+                "part": "8",
+                "question": "The authentication mechanism that only allows the real person to access data or device is called:",
+                "options": ["User name and Password", "PIN", "Biometric", "Scan code"],
+                "correctAnswer": "Biometric"
+              },
+              {
+                "part": "9",
+                "question": "The smallest component in a database is:",
+                "options": ["Record", "File", "Data", "Field"],
+                "correctAnswer": "Field"
+              },
+              {
+                "part": "10",
+                "question": "The data type which occupies the most space in memory is called:",
+                "options": ["Character", "String", "Floating point", "Double floating point"],
+                "correctAnswer": "Double floating point"
+              },
+              {
+                "part": "11",
+                "question": "Converting digital signals to analog signals, is called:",
+                "options": ["Modulation", "Modification", "Bandwidth", "Multiplexing"],
+                "correctAnswer": "Modulation"
+              },
+              {
+                "part": "12",
+                "question": "Softwares are mostly protected under:",
+                "options": ["Patents", "Copyrights", "Trademark", "Logos"],
+                "correctAnswer": "Copyrights"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "SECTION B - Short Answer Questions",
+        "marks": 24,
+        "instructions": [
+          "Attempt any EIGHT Questions from this section.",
+          "Each questions carry equal marks."
+        ],
+        "questions": [
+          {
+            "number": 2,
+            "question": "Describe the first generation of Computer."
+          },
+          {
+            "number": 3,
+            "question": "Classify computer according to the technology."
+          },
+          {
+            "number": 4,
+            "question": "What are buses? Describe their types."
+          },
+          {
+            "number": 5,
+            "question": "Describe the functions of Operating System."
+          },
+          {
+            "number": 6,
+            "question": "Describe Artificial Intelligence (AI)."
+          },
+          {
+            "number": 7,
+            "question": "Define Microsoft Word."
+          },
+          {
+            "number": 8,
+            "question": "What is sorting?"
+          },
+          {
+            "number": 9,
+            "question": "Differentiate between Compiler and Interpreter."
+          },
+          {
+            "number": 10,
+            "question": "Describe properties of a good communication system."
+          },
+          {
+            "number": 11,
+            "question": "What is computer security?"
+          },
+          {
+            "number": 12,
+            "question": "Define RAM and ROM."
+          },
+          {
+            "number": 13,
+            "question": "What are Antivirus? Write few popular name, of it."
+          }
+        ]
+      },
+      {
+        "name": "SECTION C - Detailed Answer Question",
+        "marks": 24,
+        "instructions": [
+          "Attempt any FOUR questions from this section.",
+          "Each question carries (Six) 6 marks."
+        ],
+        "questions": [
+          {
+            "number": 14,
+            "question": "Define Control Unit and Arithmetic logic Unit (ALU)"
+          },
+          {
+            "number": 15,
+            "question": "Define software and its types"
+          },
+          {
+            "number": 16,
+            "question": "Describe topology and its types."
+          },
+          {
+            "number": 17,
+            "question": "Define the following Networks: (i) LAN (ii) MAN (iii) WAN"
+          },
+          {
+            "number": 18,
+            "question": "Write the functions of the following network devices. (i) Router (ii) Switch"
+          },
+          {
+            "number": 19,
+            "question": "Differentiate between Data Rate and Baud Rate."
+          }
+        ]
+      }
+    ]
+  }
+}

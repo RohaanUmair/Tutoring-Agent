@@ -1,0 +1,251 @@
+{
+  "exam": {
+    "subject": "COMPUTER",
+    "year": 2022,
+    "maxMarks": 60,
+    "time": "3 Hour",
+    "candidateInfo": "For Fresh Candidates of 2022 and Failure Candidates of 2021",
+    "sections": [
+      {
+        "name": "SECTION A - MULTIPLE CHOICE QUESTIONS (MCQs)",
+        "marks": 24,
+        "instructions": [
+          "Attempt all the Questions of this Section.",
+          "Do not copy down the part questions. Write only the answer against the proper number of the Question and its part according to the question Paper.",
+          "Each question carries 1 Mark"
+        ],
+        "questions": [
+          {
+            "number": 1,
+            "parts": [
+              {
+                "part": "(i)",
+                "question": "The device that converts softcopy into hardcopy, is called",
+                "options": ["Printer", "Plotter", "Scanner", "Barcode reader"],
+                "correctAnswer": "Printer"
+              },
+              {
+                "part": "(ii)",
+                "question": "The service that is responsible for making websites publicly accessible through the internet is called:",
+                "options": ["Web Server", "Web Hosting", "Website", "Web Browser"],
+                "correctAnswer": "Web Hosting"
+              },
+              {
+                "part": "(iii)",
+                "question": "Media player software is:",
+                "options": ["Business", "Educational", "Entertainment", "Productivity"],
+                "correctAnswer": "Entertainment"
+              },
+              {
+                "part": "(iv)",
+                "question": "Modern languages use:",
+                "options": ["Compiler", "Interpreter", "Convertor", "Assembler"],
+                "correctAnswer": "Interpreter"
+              },
+              {
+                "part": "(v)",
+                "question": "Disk Operating System (DOS) is an example of:",
+                "options": ["Real Time Processing", "Multi-Processing", "Single User", "Multi User"],
+                "correctAnswer": "Single User"
+              },
+              {
+                "part": "(vi)",
+                "question": "Computer cannot start without:",
+                "options": ["Operating System", "Utility Program", "Device Driver", "Business Software"],
+                "correctAnswer": "Operating System"
+              },
+              {
+                "part": "(vii)",
+                "question": "A program that enables user to interact with computer, is called:",
+                "options": ["My Document", "Start Menu", "Desktop", "Interface"],
+                "correctAnswer": "Interface"
+              },
+              {
+                "part": "(viii)",
+                "question": "Software that is used for accounting purpose is:",
+                "options": ["MS-Word", "MS-Excel", "MS-Power Point", "MS-Access"],
+                "correctAnswer": "MS-Excel"
+              },
+              {
+                "part": "(ix)",
+                "question": "The function which is used to re-arrange data according to specific criteria, is called:",
+                "options": ["Filtering", "Sorting", "Organizing", "Grouping"],
+                "correctAnswer": "Sorting"
+              },
+              {
+                "part": "(x)",
+                "question": "If we want to change the overall design of a MS-Word Document, we should use:",
+                "options": ["Themes", "Page Layout", "Watermark", "Margins"],
+                "correctAnswer": "Themes"
+              },
+              {
+                "part": "(xi)",
+                "question": "Software are mostly protected under:",
+                "options": ["Patents", "Copyrights", "Trademarks", "Logos"],
+                "correctAnswer": "Copyrights"
+              },
+              {
+                "part": "(xii)",
+                "question": "In MS-Excel, charts are basically used to:",
+                "options": ["Design Table", "Organize Data in Table", "Sort Data", "Show Data Graphically"],
+                "correctAnswer": "Show Data Graphically"
+              },
+              {
+                "part": "(xiii)",
+                "question": "Wired media is also called:",
+                "options": ["Targeted Media", "Directed Media", "Guided Media", "Unguided Media"],
+                "correctAnswer": "Guided Media"
+              },
+              {
+                "part": "(xiv)",
+                "question": "Which of the following Microsoft office package is DBMS?",
+                "options": ["MS-Word", "MS-Excel", "MS-Power Point", "MS-Access"],
+                "correctAnswer": "MS-Access"
+              },
+              {
+                "part": "(xv)",
+                "question": "In relational database, keys are used to create a:",
+                "options": ["Table", "Fields", "Records", "Relationship"],
+                "correctAnswer": "Relationship"
+              },
+              {
+                "part": "(xvi)",
+                "question": "Change in the shape of signal between sender and receiver, is called:",
+                "options": ["Attenuation", "Interruption", "Noise", "Distortion"],
+                "correctAnswer": "Distortion"
+              },
+              {
+                "part": "(xvii)",
+                "question": "Converting digital signal to analog signal, is called:",
+                "options": ["Modulation", "Modification", "Bandwidth", "Multiplexing"],
+                "correctAnswer": "Modulation"
+              },
+              {
+                "part": "(xviii)",
+                "question": "The broad term that encompasses different harmful software is:",
+                "options": ["Virus", "Malware", "Adware", "Spyware"],
+                "correctAnswer": "Malware"
+              },
+              {
+                "part": "(xix)",
+                "question": "The malware that replicates itself and doesn't need to attach with any file is a/an:",
+                "options": ["Virus", "Worm", "Adware", "Spyware"],
+                "correctAnswer": "Worm"
+              },
+              {
+                "part": "(xx)",
+                "question": "The number of users that can access the resources simultaneously on a multiuser OS is/are:",
+                "options": ["One", "Two", "Many", "Only Administrator"],
+                "correctAnswer": "Many"
+              },
+              {
+                "part": "(xxi)",
+                "question": "In which operating system jobs are executed in groups?",
+                "options": ["Batch Processing", "Time Sharing", "Single User", "Real Time"],
+                "correctAnswer": "Batch Processing"
+              },
+              {
+                "part": "(xxii)",
+                "question": "A web browser will translate the codes in a web page if the extension of the document is:",
+                "options": ["html", "txt", "doc", "pdf"],
+                "correctAnswer": "html"
+              },
+              {
+                "part": "(xxiii)",
+                "question": "In a database table of a \"Students\", the address of the student will be a/an:",
+                "options": ["Record", "Field", "Entity", "Data Type"],
+                "correctAnswer": "Field"
+              },
+              {
+                "part": "(xxiv)",
+                "question": "The \"tag\" used to automatically add line space before and after the containing text is:",
+                "options": ["<br>", "<hr>", "<p>", "<pre>"],
+                "correctAnswer": "<p>"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "SECTION B - Short Answer Questions",
+        "marks": 24,
+        "instructions": [
+          "Attempt any EIGHT Questions from this section.",
+          "All questions carry equal marks."
+        ],
+        "questions": [
+          {
+            "number": 2,
+            "question": "Write three benefits of using relationship in the Database."
+          },
+          {
+            "number": 3,
+            "question": "Which Monitor will you prefer in your school; CRT or FPD? And why?"
+          },
+          {
+            "number": 4,
+            "question": "Differentiate between system software and application software."
+          },
+          {
+            "number": 5,
+            "question": "What is the difference between GUI and CLI?"
+          },
+          {
+            "number": 6,
+            "question": "Why do we use arrange group in page layout tab?"
+          },
+          {
+            "number": 7,
+            "question": "Why is information accuracy important?"
+          },
+          {
+            "number": 8,
+            "question": "Why is computer security important? Write any three reasons."
+          },
+          {
+            "number": 9,
+            "question": "How are image display in HTML page?"
+          },
+          {
+            "number": 10,
+            "question": "Describe \"Artificial Intelligence\" with example."
+          },
+          {
+            "number": 11,
+            "question": "What is the difference between table and View?"
+          },
+          {
+            "number": 12,
+            "question": "Write steps that will multiply 37 by 15 using the formula bar in MS Excel."
+          },
+          {
+            "number": 13,
+            "question": "Why do we use a watermark in a document? Give some examples of watermark."
+          }
+        ]
+      },
+      {
+        "name": "SECTION C - Detailed Answer Question",
+        "marks": 12,
+        "instructions": [
+          "Attempt any TWO (2) questions from this section.",
+          "Each question carries (Six) 6 marks."
+        ],
+        "questions": [
+          {
+            "number": 14,
+            "question": "Why is DBMS preferred over flat file system?"
+          },
+          {
+            "number": 15,
+            "question": "What are the basic operations of a computer system?"
+          },
+          {
+            "number": 16,
+            "question": "What are the different types of topology? Explain each."
+          }
+        ]
+      }
+    ]
+  }
+}

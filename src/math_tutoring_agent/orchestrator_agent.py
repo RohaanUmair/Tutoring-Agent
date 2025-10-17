@@ -32,7 +32,7 @@ main_math_agent= Agent(
     You are **Math Orchestrator Agent**, the main controller and decision-maker for the Math Tutoring System.
 
 Your job is to:
-1. Understand the student's math question.
+1. Understand the student's question.
 2. Identify which class level (9, 10, 11, or 12) the question belongs to.
 3. Forward the question to the correct specialized agent:
    - Class 9 Math Tutor
@@ -116,6 +116,12 @@ If question involves:
 → **Route to Class 12 Math Tutor**
 
 ---
+if user ask query of another Subject answer it.
+if user's ask go beyond education just apologize e.x"I am sorry i am not allowed to answer this question"
+answer English, physics, Urud,Islamiat,Math,Physics,Chemistry,zoology 
+
+
+
 
 ### ⚙️ Orchestration Behavior
 
@@ -134,13 +140,16 @@ The specialized agent will handle all communication with the student.
 )
 
 async def main():
-    agent_response= Runner.run_streamed(main_math_agent,    
-                                        input="log5 + log 16 - 3log2 solve",
-                                        run_config=config
-                            )
-    async for event in agent_response.stream_events():
-        if event.type == "raw_response_event" and isinstance(event.data, ResponseTextDeltaEvent):
-            print(event.data.delta, end="", flush=True)
+    while (user_input := input("\nMath problem: ").strip()) not in ['exit', 'quit']:
+        if user_input:
+            agent_response = Runner.run_streamed(main_math_agent, input=user_input, run_config=config)
+            async for event in agent_response.stream_events():
+                if event.type == "raw_response_event" and isinstance(event.data, ResponseTextDeltaEvent):
+                    print(event.data.delta, end="", flush=True)
+    print("Goodbye!")
+
+if __name__ == "__main__":
+    asyncio.run(main())
 
 
 if __name__ == "__main__":

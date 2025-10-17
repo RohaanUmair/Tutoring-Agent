@@ -73,7 +73,6 @@ except ImportError as e:
     print(f"✗ English 09 import failed: {e}")
 
 # Class 10 Agents  
-# Class 10 Agents  
 try:
     from class_10.math_quiz_agent_10.math_quiz_agent import math_quiz_agent as math_10
     agent_mapping.update({
@@ -111,6 +110,25 @@ try:
 except ImportError as e:
     print(f"✗ Biology 10 import failed: {e}")
 
+# ADD THIS SECTION FOR ENGLISH CLASS 10
+try:
+    from class_10.english_agent_10.english_quiz_agent import class_10_english_quiz_agent as english_10
+    agent_mapping.update({
+        '10 english': english_10, 'class 10 english': english_10
+    })
+    print("✓ English 10 imported")
+except ImportError as e:
+    print(f"✗ English 10 import failed: {e}")
+
+# ADD THIS SECTION FOR COMPUTER CLASS 10
+try:
+    from class_10.computer_quiz_agent.computer_quiz_agent import computer_quiz_agent as computer_10
+    agent_mapping.update({
+        '10 computer': computer_10, 'class 10 computer': computer_10, '10 cs': computer_10
+    })
+    print("✓ Computer 10 imported")
+except ImportError as e:
+    print(f"✗ Computer 10 import failed: {e}")
 print(f"\n✅ Total agents loaded: {len(agent_mapping) - 1}")  # Subtract config
 print("Available subjects:", [k for k in agent_mapping.keys() if k != 'config'])
 

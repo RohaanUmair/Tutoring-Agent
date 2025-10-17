@@ -12,7 +12,11 @@ current_dir = os.path.dirname(os.path.abspath(__file__))
 src_dir = os.path.dirname(current_dir)
 sys.path.insert(0, src_dir)
 
-app = FastAPI(title="Voice Math Tutor API")
+app = FastAPI(
+    title="Tutoring Agent API",
+    description="API for Math Tutoring, Quiz Generation, and Answer Evaluation",
+    version="1.0.0"
+)
 
 # CORS for web access
 app.add_middleware(
@@ -31,11 +35,12 @@ else:
     print(f"Warning: Static path not found: {static_path}")
 
 # Import routes
-from api.routes import voice_routes, agent_routes, quiz_routes
+from api.routes import voice_routes, agent_routes, quiz_routes, evaluator_routes
 
 app.include_router(voice_routes.router, prefix="/api/voice", tags=["voice"])
 app.include_router(agent_routes.router, prefix="/api/agent", tags=["agent"])
-app.include_router(quiz_routes.router, prefix="/api/quiz", tags=["quiz"])  # Add this line
+app.include_router(quiz_routes.router, prefix="/api/quiz", tags=["quiz"])
+app.include_router(evaluator_routes.router, prefix="/api/evaluator", tags=["evaluator"])  # Add this line
 
 # Serve main page
 @app.get("/", response_class=HTMLResponse)
@@ -46,6 +51,10 @@ async def root():
     
     with open(template_path, "r", encoding="utf-8") as f:
         return f.read()
+
+@app.get("/health")
+async def health_check():
+    return {"status": "healthy", "services": ["voice", "agent", "quiz", "evaluator"]}
 
 if __name__ == "__main__":
     import uvicorn

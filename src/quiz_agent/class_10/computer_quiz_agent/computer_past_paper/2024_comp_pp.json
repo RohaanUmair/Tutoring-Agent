@@ -1,0 +1,187 @@
+{
+  "computer_papers": [
+    {
+      "year": 2024,
+      "subject": "Computer",
+      "max_marks": 60,
+      "time": "3 Hours",
+      "sections": [
+        {
+          "name": "Section A - Multiple Choice Questions",
+          "marks": 12,
+          "instructions": [
+            "Attempt all the Questions of this Section",
+            "Do not copy down the part questions. Write only the answer against the proper number of the Question and its part according to the question Paper",
+            "Each question carries 1 Mark"
+          ],
+          "questions": [
+            {
+              "number": 1,
+              "question": "When that data is pushed in stack, it means that data is:",
+              "options": ["inserted", "Deleted", "Sorted", "Edited"],
+              "correct_answer": "inserted"
+            },
+            {
+              "number": 2,
+              "question": "Step by step solution of a problem in simple language is called:",
+              "options": ["Problem solving", "Algorithm", "Flowchart", "Data structure"],
+              "correct_answer": "Algorithm"
+            },
+            {
+              "number": 3,
+              "question": "A computer program is a collection of:",
+              "options": ["Tasks", "Instructions", "Computers", "Programmes"],
+              "correct_answer": "Instructions"
+            },
+            {
+              "number": 4,
+              "question": "All errors, detected by user are called:",
+              "options": ["Syntax error", "Semantic error", "Run time error", "Logical error"],
+              "correct_answer": "Logical error"
+            },
+            {
+              "number": 5,
+              "question": "An operator is used for Input stream:",
+              "options": [">", "<<", ">>", "<"],
+              "correct_answer": ">>"
+            },
+            {
+              "number": 6,
+              "question": "An operator is used for logical AND operation:",
+              "options": ["&", "&&", "!", "||"],
+              "correct_answer": "&&"
+            },
+            {
+              "number": 7,
+              "question": "Loop within a loop is called:",
+              "options": ["Inner", "Outer", "Enclose", "Nested"],
+              "correct_answer": "Nested"
+            },
+            {
+              "number": 8,
+              "question": "A Bool data can store following types of value:",
+              "options": ["Number", "String", "Fractional", "True or False"],
+              "correct_answer": "True or False"
+            },
+            {
+              "number": 9,
+              "question": "gets stands for:",
+              "options": ["get stream", "get string", "get str", "get std"],
+              "correct_answer": "get string"
+            },
+            {
+              "number": 10,
+              "question": "\"break\" statement is used with:",
+              "options": ["If", "switch", "for", "while"],
+              "correct_answer": "switch"
+            },
+            {
+              "number": 11,
+              "question": "The symbol is used for input/output in flowchart, is called:",
+              "options": ["Triangle", "Square", "Parallelogram", "Rectangle"],
+              "correct_answer": "Parallelogram"
+            },
+            {
+              "number": 12,
+              "question": "All variables declared in function definition are called:",
+              "options": ["Local variables", "Instance variables", "Global variables", "Static variables"],
+              "correct_answer": "Local variables"
+            }
+          ]
+        },
+        {
+          "name": "Section B - Short Answer Questions",
+          "marks": 24,
+          "instructions": [
+            "Answer any EIGHT questions from this section",
+            "All questions carry equal marks"
+          ],
+          "questions": [
+            {
+              "number": 2,
+              "question": "List of any three advantages of designing flowchart."
+            },
+            {
+              "number": 3,
+              "question": "What is a computer program?"
+            },
+            {
+              "number": 4,
+              "question": "Define the rules for naming variable."
+            },
+            {
+              "number": 5,
+              "question": "What is the difference between Source code and Object code?"
+            },
+            {
+              "number": 6,
+              "question": "Differentiate between constant and variables."
+            },
+            {
+              "number": 7,
+              "question": "Write the purpose of following escape sequence: (i) \\n (ii) \\t (iii) \\b"
+            },
+            {
+              "number": 8,
+              "question": "Define ITERATION/LOOP."
+            },
+            {
+              "number": 9,
+              "question": "Differentiate between Relational Operators and Logical Operators."
+            },
+            {
+              "number": 10,
+              "question": "Define Queue and Stack."
+            },
+            {
+              "number": 11,
+              "question": "Define the following: (i) Syntax error (ii) Logical error OR (i) Compiler (ii) Interpreter"
+            },
+            {
+              "number": 12,
+              "question": "What is the difference between Low-Level language and High-Level language?"
+            },
+            {
+              "number": 13,
+              "question": "Define Arithmetic assignment operators with examples."
+            }
+          ]
+        },
+        {
+          "name": "Section C - Detailed Answer Questions",
+          "marks": 24,
+          "instructions": [
+            "Attempt any FOUR questions from this Section",
+            "Each question carries SIX (06) marks"
+          ],
+          "questions": [
+            {
+              "number": 14,
+              "question": "Explain the steps involved in problem solving."
+            },
+            {
+              "number": 15,
+              "question": "Give description of the following codes and symbols: i) # include<iostream> ii) using namespace std; iii) Int main()"
+            },
+            {
+              "number": 16,
+              "question": "Define the following logic gates: (i) AND gate (ii) OR gate (iii) NOT gate"
+            },
+            {
+              "number": 17,
+              "question": "Differentiate between Algorithm and Flowchart."
+            },
+            {
+              "number": 18,
+              "question": "Describe Tree and Graph."
+            },
+            {
+              "number": 19,
+              "question": "Draw truth table of the following: (i) Y = A.B (ii) Y = A.B.C (iii) Y = ĀB"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

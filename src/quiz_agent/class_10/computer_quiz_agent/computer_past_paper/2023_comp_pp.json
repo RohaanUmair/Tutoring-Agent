@@ -1,0 +1,187 @@
+{
+  "computer_papers": [
+    {
+      "year": 2023,
+      "subject": "Computer",
+      "max_marks": 60,
+      "time": "3 Hours",
+      "sections": [
+        {
+          "name": "Section A - Multiple Choice Questions",
+          "marks": 12,
+          "instructions": [
+            "Attempt all the Questions of this Section",
+            "Do not copy down the part questions. Write only the answer against the proper number of the Question and its part according to the question Paper",
+            "Each question carries 1 Mark"
+          ],
+          "questions": [
+            {
+              "number": 1,
+              "question": "The output of a compiler is called:",
+              "options": ["The program", "Source code", "Linked code", "Object code"],
+              "correct_answer": "Object code"
+            },
+            {
+              "number": 2,
+              "question": "The operator used for logical AND operation is:",
+              "options": ["&", "&&", "||", "|"],
+              "correct_answer": "&&"
+            },
+            {
+              "number": 3,
+              "question": "The data type which occupies the most space in memory is called:",
+              "options": ["Character", "Integer", "Floating point", "Double floating point"],
+              "correct_answer": "Double floating point"
+            },
+            {
+              "number": 4,
+              "question": "All variables declared in function definition are called:",
+              "options": ["Local variable", "Instance variable", "Global variable", "Static variable"],
+              "correct_answer": "Local variable"
+            },
+            {
+              "number": 5,
+              "question": "This symbol is used for processing in flowchart:",
+              "options": ["Triangle", "Parallelogram", "Rectangle", "Oval"],
+              "correct_answer": "Rectangle"
+            },
+            {
+              "number": 6,
+              "question": "When the data is pushed in stack, it means the data is:",
+              "options": ["Inserted", "Deleted", "Sorted", "Edited"],
+              "correct_answer": "Inserted"
+            },
+            {
+              "number": 7,
+              "question": "An array index starts from:",
+              "options": ["0", "1", "-1", "2"],
+              "correct_answer": "0"
+            },
+            {
+              "number": 8,
+              "question": "exit () function is used to:",
+              "options": ["Close function", "Close loop", "Top of function", "None of these"],
+              "correct_answer": "Close function"
+            },
+            {
+              "number": 9,
+              "question": "\"for\" loop expression consists upon:",
+              "options": ["one part", "two parts", "Three parts", "Four parts"],
+              "correct_answer": "Three parts"
+            },
+            {
+              "number": 10,
+              "question": "Every C++ program must have:",
+              "options": ["cin () function", "cout () function", "main () function", "None of these"],
+              "correct_answer": "main () function"
+            },
+            {
+              "number": 11,
+              "question": "In Boolean Algebra, A + Ā:",
+              "options": ["1", "0", "A", "Ā"],
+              "correct_answer": "1"
+            },
+            {
+              "number": 12,
+              "question": "The statement that terminates any loop immediately, is called:",
+              "options": ["Continue", "Switch", "Break", "None of these"],
+              "correct_answer": "Break"
+            }
+          ]
+        },
+        {
+          "name": "Section B - Short Answer Questions",
+          "marks": 24,
+          "instructions": [
+            "Answer any EIGHT questions from this section",
+            "All questions carry equal marks"
+          ],
+          "questions": [
+            {
+              "number": 2,
+              "question": "Differentiate between Constant and Variable."
+            },
+            {
+              "number": 3,
+              "question": "Explain the purpose of Truth Table."
+            },
+            {
+              "number": 4,
+              "question": "Differentiate between function declaration and function definition."
+            },
+            {
+              "number": 5,
+              "question": "Describe the advantages of algorithm."
+            },
+            {
+              "number": 6,
+              "question": "Write at least three data types in C++. How much memory does each require?"
+            },
+            {
+              "number": 7,
+              "question": "What is meant by Arithmetic assignment operator?"
+            },
+            {
+              "number": 8,
+              "question": "Draw the Truth Table of A.B.C = Y"
+            },
+            {
+              "number": 9,
+              "question": "Remove the error(s) from the following statements (any 3) (i) Court >> \"Pakistan\" (ii) Age int = 55; (iii) If (a = b) (iv) float x = 13"
+            },
+            {
+              "number": 10,
+              "question": "Why do we use header files?"
+            },
+            {
+              "number": 11,
+              "question": "Explain the Script and Sprite in Scratch."
+            },
+            {
+              "number": 12,
+              "question": "Write down the purpose of any one from the following: (i) if (ii) goto (iii) cin"
+            },
+            {
+              "number": 13,
+              "question": "Differentiate between queue and stack in data structure."
+            }
+          ]
+        },
+        {
+          "name": "Section C - Detailed Answer Questions",
+          "marks": 24,
+          "instructions": [
+            "Attempt any TWO questions from this Section",
+            "Each question carries SIX (06) marks"
+          ],
+          "questions": [
+            {
+              "number": 14,
+              "question": "What is an error in computer programming? Describe its types."
+            },
+            {
+              "number": 15,
+              "question": "Describe any four escape sequence character."
+            },
+            {
+              "number": 16,
+              "question": "Write down any two purpose and syntax from the following loops: (i) for (ii) while (iii) do-while"
+            },
+            {
+              "number": 17,
+              "question": "Draw the logic circuit of the following Boolean expressions. (i) z = (A + B) + (A + B) (ii) z = (A·B) + (A + B)"
+            },
+            {
+              "number": 18,
+              "question": "Explain non-linear data structure and its types."
+            },
+            {
+              "number": 19,
+              "question": "Write note on any two of the following: (i) int main ( ) (ii) Pre-define functions (iii) Preprocessor directive (iv) Switch statement"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

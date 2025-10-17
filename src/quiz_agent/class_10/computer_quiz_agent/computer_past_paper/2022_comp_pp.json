@@ -1,0 +1,248 @@
+{
+  "computer_papers": [
+    {
+      "year": 2022,
+      "subject": "Computer",
+      "candidates": "For Fresh Candidates of 2022",
+      "max_marks": 60,
+      "time": "3 Hours",
+      "sections": [
+        {
+          "name": "Section A - Multiple Choice Questions",
+          "marks": 24,
+          "instructions": [
+            "Attempt all the Questions of this Section",
+            "Do not copy down the part questions. Write only the answer against the proper number of the Question and its part according to the question Paper",
+            "Each question carries 1 Mark"
+          ],
+          "questions": [
+            {
+              "number": "i",
+              "question": "The type of function which is the part of a computer language is known as:",
+              "options": ["user-define function", "library function", "sub-program", "None of these"],
+              "correct_answer": "library function"
+            },
+            {
+              "number": "ii",
+              "question": "The process of converting source code into object code is known as:",
+              "options": ["Compiling", "Executing", "Linking", "Saving"],
+              "correct_answer": "Compiling"
+            },
+            {
+              "number": "iii",
+              "question": "An inverter is:",
+              "options": ["OR", "AND", "NOT", "none of these"],
+              "correct_answer": "NOT"
+            },
+            {
+              "number": "iv",
+              "question": "Step by step solution of a problem in simple language is called:",
+              "options": ["Problem solving", "Algorithm", "Flowchart", "Data Structure"],
+              "correct_answer": "Algorithm"
+            },
+            {
+              "number": "v",
+              "question": "The looks of sprite can be changed by using:",
+              "options": ["backdrop tab", "costume tab", "script tab", "control tab"],
+              "correct_answer": "costume tab"
+            },
+            {
+              "number": "vi",
+              "question": "The type of data that is used for decimal point value is:",
+              "options": ["Int", "char", "boot", "float"],
+              "correct_answer": "float"
+            },
+            {
+              "number": "vii",
+              "question": "The parts of switch statements are \"case\" and:",
+              "options": ["have", "if", "default", "for"],
+              "correct_answer": "default"
+            },
+            {
+              "number": "viii",
+              "question": "Loop within a loop is called:",
+              "options": ["inner", "outer", "enclosed", "nested"],
+              "correct_answer": "nested"
+            },
+            {
+              "number": "ix",
+              "question": "In a flowchart, an arrow represents:",
+              "options": ["decision making", "start", "data flow", "stop"],
+              "correct_answer": "data flow"
+            },
+            {
+              "number": "x",
+              "question": "\"!=\" operator belongs to which type of operator?",
+              "options": ["Arithmetic", "Logical", "Relational", "None of these"],
+              "correct_answer": "Relational"
+            },
+            {
+              "number": "xi",
+              "question": "Which of the following needs pressing \"Enter key\" from keyboard?",
+              "options": ["getch()", "getche()", "getchar()", "gets()"],
+              "correct_answer": "gets()"
+            },
+            {
+              "number": "xii",
+              "question": "In Boolean Algebra. A.A = :",
+              "options": ["0", "1", "A", "Ā"],
+              "correct_answer": "A"
+            },
+            {
+              "number": "xiii",
+              "question": "Which operator is used for input stream from the following:",
+              "options": [">", "<", ">>", "<<"],
+              "correct_answer": ">>"
+            },
+            {
+              "number": "xiv",
+              "question": "The Boolean expression of NOR gate two variables is:",
+              "options": ["A + B", "Ā + B", "Ā + B", "A . B"],
+              "correct_answer": "Ā + B"
+            },
+            {
+              "number": "xv",
+              "question": "To send value, to the calling function we use:",
+              "options": ["throw statement", "send statement", "return statement", "back statement"],
+              "correct_answer": "return statement"
+            },
+            {
+              "number": "xvi",
+              "question": "The number of bytes used by \"int\" type in C++ is:",
+              "options": ["2", "4", "8", "1"],
+              "correct_answer": "4"
+            },
+            {
+              "number": "xvii",
+              "question": "C++ statement ends at:",
+              "options": [".", ";", ":", ","],
+              "correct_answer": ";"
+            },
+            {
+              "number": "xviii",
+              "question": "In scratch, the character which moves on the stage is called a:",
+              "options": ["Sprite", "command", "script", "event"],
+              "correct_answer": "Sprite"
+            },
+            {
+              "number": "xix",
+              "question": "Which of the following operator works only with integer value?",
+              "options": ["/", "%", "+", "*"],
+              "correct_answer": "%"
+            },
+            {
+              "number": "xx",
+              "question": "The process of given variable, its starting value is called:",
+              "options": ["declaring", "naming", "Initializing", "none of these"],
+              "correct_answer": "Initializing"
+            },
+            {
+              "number": "xxi",
+              "question": "The universal gate is:",
+              "options": ["NAND Gate", "AND Gate", "OR Gate", "None of these"],
+              "correct_answer": "NAND Gate"
+            },
+            {
+              "number": "xxii",
+              "question": "The word \"prototype\" means:",
+              "options": ["Declaration", "Calling", "Definition", "None of these"],
+              "correct_answer": "Declaration"
+            },
+            {
+              "number": "xxiii",
+              "question": "All errors, detected by a user are:",
+              "options": ["syntax errors", "run time errors", "logical errors", "none of these"],
+              "correct_answer": "logical errors"
+            },
+            {
+              "number": "xxiv",
+              "question": "\"break\" statement is used with:",
+              "options": ["if", "switch", "for", "while"],
+              "correct_answer": "switch"
+            }
+          ]
+        },
+        {
+          "name": "Section B - Short Answer Questions",
+          "marks": 24,
+          "instructions": [
+            "Attempt any EIGHT Questions from this section",
+            "All questions carry equal marks"
+          ],
+          "questions": [
+            {
+              "number": 2,
+              "question": "What is Computer Program?"
+            },
+            {
+              "number": 3,
+              "question": "Write down the purposes of any two statements: (i) if-else (ii) return (iii) exit () (iv) continue"
+            },
+            {
+              "number": 4,
+              "question": "Why do we use Boolean Algebra?"
+            },
+            {
+              "number": 5,
+              "question": "Differentiate between Arithmetic operators and relational operators."
+            },
+            {
+              "number": 6,
+              "question": "Why is there need of index in an array?"
+            },
+            {
+              "number": 7,
+              "question": "Write down any three rules of naming variable in C++."
+            },
+            {
+              "number": 8,
+              "question": "Write the uses of any three escape sequences:"
+            },
+            {
+              "number": 9,
+              "question": "Explain the purpose of \"default\" in C++."
+            },
+            {
+              "number": 10,
+              "question": "What are strings in C++?"
+            },
+            {
+              "number": 11,
+              "question": "Write the functions of \"for loop\"."
+            },
+            {
+              "number": 12,
+              "question": "Explain increment operator (++) and write the name of two ways of its usage."
+            },
+            {
+              "number": 13,
+              "question": "Describe comment statement. How many types of comment statement are used in C++?"
+            }
+          ]
+        },
+        {
+          "name": "Section C - Detailed Answer Questions",
+          "marks": 12,
+          "instructions": [
+            "Attempt any TWO (2) questions from this section",
+            "Each question carries SIX (06) marks"
+          ],
+          "questions": [
+            {
+              "number": 14,
+              "question": "Write any three steps of problem solving."
+            },
+            {
+              "number": 15,
+              "question": "Differentiate between constant and variable."
+            },
+            {
+              "number": 16,
+              "question": "Describe the following translators: (i) Compiler (ii) Interpreter (iii) Assembler"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

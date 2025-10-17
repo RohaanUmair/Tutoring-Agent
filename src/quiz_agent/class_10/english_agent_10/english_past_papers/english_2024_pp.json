@@ -1,0 +1,223 @@
+{
+  "english_papers": [
+    {
+      "year": 2024,
+      "subject": "English",
+      "max_marks": 100,
+      "time": "3 Hours",
+      "sections": [
+        {
+          "name": "Section A - Multiple Choice Questions",
+          "marks": 20,
+          "instructions": [
+            "Attempt all the Questions of this Section",
+            "Do not copy down the part questions. Write only the answer against the proper number of the Question and its part according to the question Paper",
+            "Each question carries 1 Mark"
+          ],
+          "questions": [
+            {
+              "number": 1,
+              "question": "The Gorakh Hills are the highest place in:",
+              "options": ["Baluchistan", "K.P.K.", "Sindh", "Punjab"],
+              "correct_answer": "Sindh"
+            },
+            {
+              "number": 2,
+              "question": "\"The world is a book, and those who do not travel read only the one page.\" This is the quotation of:",
+              "options": ["Ibne-Batuta", "Ibn-e-Kholdoon", "Saint Augustine", "Saint Peter"],
+              "correct_answer": "Saint Augustine"
+            },
+            {
+              "number": 3,
+              "question": "The speaking gently, we attract people's:",
+              "options": ["care", "help", "love", "attention"],
+              "correct_answer": "love"
+            },
+            {
+              "number": 4,
+              "question": "\"O leader of the faithful, you are the helper and guardian of the poor.\" This is the statement of:",
+              "options": ["The Qazi", "The Richman", "The Beggar", "The Minister"],
+              "correct_answer": "The Beggar"
+            },
+            {
+              "number": 5,
+              "question": "The guide explained the route and gave the passengers:",
+              "options": ["Lunch", "Breakfast", "Flyers", "Directions"],
+              "correct_answer": "Directions"
+            },
+            {
+              "number": 6,
+              "question": "Mr Aziz and his family members travelled by:",
+              "options": ["Bus", "Car", "Train", "Aeroplane"],
+              "correct_answer": "Train"
+            },
+            {
+              "number": 7,
+              "question": "Linguist is a person who studies:",
+              "options": ["Agriculture", "Human psychology", "Languages", "Diseases"],
+              "correct_answer": "Languages"
+            },
+            {
+              "number": 8,
+              "question": "Louis I. Newman was an/a:",
+              "options": ["British poet", "American poet", "Brazilian poet", "African poet"],
+              "correct_answer": "American poet"
+            },
+            {
+              "number": 9,
+              "question": "Humans are social:",
+              "options": ["workers", "animals", "activists", "none of these"],
+              "correct_answer": "animals"
+            },
+            {
+              "number": 10,
+              "question": "Social Media should be:",
+              "options": ["ignored", "used every day", "given up", "used with care"],
+              "correct_answer": "used with care"
+            },
+            {
+              "number": 11,
+              "question": "In the poem, \"Little Things\" the word 'little' has been repeated for:",
+              "options": ["one time", "two times", "three time", "four times"],
+              "correct_answer": "four times"
+            },
+            {
+              "number": 12,
+              "question": "King Bruce belonged to:",
+              "options": ["Holland", "Scotland", "New Zealand", "Ireland"],
+              "correct_answer": "Scotland"
+            },
+            {
+              "number": 13,
+              "question": "The poem \"The Man Who Wins\" is composed by:",
+              "options": ["Louis I. Newman", "David Bates", "Julia Carney", "Anonymous"],
+              "correct_answer": "Anonymous"
+            },
+            {
+              "number": 14,
+              "question": "The headmaster did menial work which made Akhter feel:",
+              "options": ["excited", "sad", "ashamed", "worried"],
+              "correct_answer": "ashamed"
+            },
+            {
+              "number": 15,
+              "question": "Hazrat Omer (R.A.) brought a large sack of flour for a:",
+              "options": ["needy family", "rich family", "stranded family", "poor family"],
+              "correct_answer": "needy family"
+            },
+            {
+              "number": 16,
+              "question": "One of the biggest contribution of the social media is the ease of:",
+              "options": ["connectivity", "travelling", "relationship", "none of these"],
+              "correct_answer": "connectivity"
+            },
+            {
+              "number": 17,
+              "question": "The trip to the Gorakh Hills lasted for:",
+              "options": ["one day", "two days", "three days", "four days"],
+              "correct_answer": "two days"
+            },
+            {
+              "number": 18,
+              "question": "The spider defied at the:",
+              "options": ["eighth attempts", "ninth attempts", "tenth attempts", "eleventh attempts"],
+              "correct_answer": "tenth attempts"
+            },
+            {
+              "number": 19,
+              "question": "David Bates died in:",
+              "options": ["1867", "1868", "1869", "1870"],
+              "correct_answer": "1870"
+            },
+            {
+              "number": 20,
+              "question": "Fastening your seat belt can save you from getting:",
+              "options": ["under the car", "thrown out", "crushed", "head injury"],
+              "correct_answer": "thrown out"
+            }
+          ]
+        },
+        {
+          "name": "Section B - Short Answer Questions",
+          "marks": 40,
+          "instructions": [
+            "Attempt all questions from this Section"
+          ],
+          "questions": [
+            {
+              "number": 2,
+              "question": "Answer any FIVE of the following questions in two to three sentences each:",
+              "subparts": [
+                "(i) What chores did our Holy Prophet (S.A.W.) use to do?",
+                "(ii) On what condition did the Caliph decide to forgive the beggar?",
+                "(iii) How is social media assisting students and professionals in their respective fields?",
+                "(iv) What lesson did King Bruce learn from the spider?",
+                "(v) Write central Idea of the poem \"Speak Gently.\"",
+                "(vi) What were Mr Karim's strange experiences?",
+                "(vii) Why did Asif's parents decide to take him to the Gorakh Hills?"
+              ]
+            },
+            {
+              "number": 3,
+              "question": "Do as directed: (as instructed in the bracket)",
+              "subparts": [
+                "(i) (Use Preposition) a. Distribute these candies ______ the children of your school. b. Nurses are responsible ______ care of the patients.",
+                "(ii) (Use Article) a. My uncle is ______ H.M. of a well reputed school. b. I like ______ book which is in your hand.",
+                "(iii) (Change the Voice) a. The police man was chasing the thief. b. Let the bird not be caught. c. He did not plant saplings in the garden.",
+                "(iv) (Change the Narration) a. \"Go away and never come back again.\" said his Boss. b. Mother said to his son, \"Where are you coming from now?\" c. She said, \"What a beautiful flower this is!\" d. You told me that he had done his homework.",
+                "(v) (Formation of sentences) Change the following sentences as suggested in the bracket: a. Did he clear his exam in the first go? (Change into Assertive) b. She gets 1st position in her class. (Change into Interrogative) c. Pakistan won the match. (Change into Negative) d. As-ate burger with great delight. (Change into Future Perfect) e. I have Ssquk a glass of juice. (Change into Present Indefinite) f. Had they takes meal before sunset? (Change into Past Continuous) g. Give Prefix to: Honest h. Give Suffix to: Comfort i. Give Homophone of: Accept"
+              ]
+            },
+            {
+              "number": 4,
+              "question": "Indicate the kind of ADJECTIVE of the underlined words:",
+              "subparts": [
+                "(i) She ate two plates of biryani.",
+                "(ii) Each student most try his best to achieve his goal.",
+                "(iii) That house was very fascinated.",
+                "(iv) The patient has eaten some rice only.",
+                "(v) My grandmother is very intelligent."
+              ]
+            },
+            {
+              "number": 5,
+              "question": "Translate the following paragraph into Urdu or Sindhi: Life in the city is full of activity. Early in the morning hundreds of people rush out of their homes. Soon the streets are full of traffic. Shops and offices open, students flock to their school, colleges and universities and the day's work begin. Hundreds of people visit many places of interest of the city."
+            }
+          ]
+        },
+        {
+          "name": "Section C - Detailed Answer Questions",
+          "marks": 40,
+          "instructions": [
+            "Attempt all questions from this Section"
+          ],
+          "questions": [
+            {
+              "number": 6,
+              "question": "Fill in the blanks according to the contextual accordance, from the options provided in the box. (staying, realistic, adverse, benefit, positive) In today's times giving up the social media may not be ______ option. The prudent users can ______ a lot from the ______ aspects of the social media. While its negative aspects and not ______ away from them, can make one a victim of its ______ effects used inappropriately."
+            },
+            {
+              "number": 7,
+              "question": "Write an essay on any one of the following topics: (10) (i) Parental Role in Education (ii) A Heart Wrenching Accident (iii) An Interesting Cricket Match –OR–, Suppose you are the Headmaster/Headmistress of your school. What steps will you take to improve the quality of education and how will you multiply the present strength of students? Write in detail your plan of action."
+            },
+            {
+              "number": 8,
+              "question": "Write a letter to your younger brother; advising him to work hard to achieve his goal of life. (10) –OR–, Write a letter to the editor of a newspaper about the insanitary conditions of your locality."
+            },
+            {
+              "number": 9,
+              "question": "Read the following passage and answer the questions given below: (15) After Asia, Africa is the largest continent and it consists of more than thirty-five independent countries. Its northern parts have relations with Europe and Asia for many centuries but, very little was known about other parts till the middle of the last century. No wonder it was called the \"Dark Continent\" once. Nigeria is the large country of West Africa and it is the most thickly populated of all the African countries. One thing that is common in our villages and which we shall miss in an African village is the cattle. In many parts of Africa, farmers cannot rear cattle on account of a kind of fly whose sting kills the cattle and causes sleeping sickness among human beings. In the absence of cattle, the farmer has to plough the fields with his hands, carry load to market and walk long distances. He may, however, keep a goat for milk, and poultry for eggs.",
+              "subparts": [
+                "(i) What do you know about continent Africa? (2)",
+                "(ii) What do African farmers miss in their villages and what do they do in the absence of it? (2)",
+                "(iii) Why was Africa once called 'Dark Continent'? (2)",
+                "(iv) Make a summary of the above passage with a suitable title. (5)",
+                "(v) Find a word from the above passage that means: (4) sort, one hundred, surprise, connection"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
